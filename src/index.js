@@ -12,7 +12,7 @@
  * Dry run is the default everywhere. Sending requires LIVE=true and a funding key.
  */
 
-const { load } = require("./config");
+const { load, redactRpc } = require("./config");
 const log = require("./logger");
 const pipeline = require("./pipeline");
 const rpc = require("./rpc");
@@ -37,7 +37,7 @@ async function cmdNodes(cfg) {
 async function main() {
   const cmd = process.argv[2] || "all";
   const cfg = load();
-  log.step("start", { cmd, live: cfg.live, feeCapSol: cfg.feeCapSol, rpc: cfg.rpcUrl });
+  log.step("start", { cmd, live: cfg.live, feeCapSol: cfg.feeCapSol, rpc: redactRpc(cfg.rpcUrl) });
 
   switch (cmd) {
     case "plan":

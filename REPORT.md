@@ -33,6 +33,20 @@ measured, and what went wrong. The listing asks for both the dates and an honest
 
 ## Log
 
+### Session: 2026-11-02 (live, epoch 1075)
+
+- **Mode:** live. Funding address `AczknV1SzaQvvyYkL4RmkduU7Whz7P6XDkQTJkxvYaqi`. Started with 0.02 SOL, holds 0.019493 SOL after the sweep. About 0.000507 SOL spent.
+- **When:** 2026-11-02 12:38–12:45 UTC. Epoch 1075, from slot 464498207. After Alpenglow.
+- **RPC host:** mainnet.helius-rpc.com. The key is not in the repo.
+- **Sent / included:** 88 sent, 83 included, across the six validators in `data/report.md`.
+- **Result:** no priority-fee rule in this sample. Send order tracks position for FireBAM, JitoLabs and Firedancer. Agave does not show a clean rule. AgaveBam is flat. HarmonicAgave landed 5, which is not enough.
+
+**What went wrong**
+
+- `getBlock` was called with transaction version 0. The blocks are version 1, so the first report was empty. The numbers in `data/report.md` are from reading the same signatures again.
+- Seven windows were missed. Four slots is less than a second, and the slot check stepped over them.
+- The memo exceeded the 1,200 compute-unit limit, so every included probe failed execution. They failed the same way, so the failure did not order them. A later run needs a higher limit before it can say anything about transactions that succeed.
+
 ### Session: 2026-11-02 (dry run, pipeline validation)
 
 - **Mode:** dry run (nothing sent, nothing spent)

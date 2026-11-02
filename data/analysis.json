@@ -1,84 +1,44 @@
 {
   "perValidator": [
     {
-      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
       "client": {
-        "client": "HarmonicAgave",
-        "family": "HarmonicAgave",
-        "version": "4.4.0",
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
         "source": "gossip-clientId"
       },
       "windows": [
         [
-          464485096,
-          464485097,
-          464485098,
-          464485099
+          464498528,
+          464498529,
+          464498530,
+          464498531
         ],
         [
-          464485368,
-          464485369,
-          464485370,
-          464485371
+          464499892,
+          464499893,
+          464499894,
+          464499895
         ],
         [
-          464485388,
-          464485389,
-          464485390,
-          464485391
+          464499952,
+          464499953,
+          464499954,
+          464499955
         ]
       ],
       "windowCount": 3,
       "sent": 24,
-      "landed": 0,
-      "landRate": 0,
-      "samplesUsed": 0,
-      "kendallTau": null,
-      "pValue": null,
-      "verdict": "insufficient-data",
-      "sendOrderTau": null,
-      "sendOrderP": null,
-      "sendOrderVerdict": "insufficient-data"
-    },
-    {
-      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
-      "client": {
-        "client": "AgaveBam",
-        "family": "AgaveBam",
-        "version": "4.4.0",
-        "source": "gossip-clientId"
-      },
-      "windows": [
-        [
-          464485104,
-          464485105,
-          464485106,
-          464485107
-        ],
-        [
-          464485128,
-          464485129,
-          464485130,
-          464485131
-        ],
-        [
-          464485212,
-          464485213,
-          464485214,
-          464485215
-        ]
-      ],
-      "windowCount": 3,
-      "sent": 24,
-      "landed": 0,
-      "landRate": 0,
-      "samplesUsed": 0,
-      "kendallTau": null,
-      "pValue": null,
-      "verdict": "insufficient-data",
-      "sendOrderTau": null,
-      "sendOrderP": null,
-      "sendOrderVerdict": "insufficient-data"
+      "landed": 22,
+      "landRate": 0.9166666666666666,
+      "samplesUsed": 22,
+      "kendallTau": -0.1267605633802817,
+      "pValue": 0.4561812729090303,
+      "verdict": "no-rule/noise",
+      "sendOrderTau": 0.39906103286384975,
+      "sendOrderP": 0.012662445851382872,
+      "sendOrderVerdict": "weak/partial"
     },
     {
       "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
@@ -90,35 +50,35 @@
       },
       "windows": [
         [
-          464485108,
-          464485109,
-          464485110,
-          464485111
+          464498604,
+          464498605,
+          464498606,
+          464498607
         ],
         [
-          464485220,
-          464485221,
-          464485222,
-          464485223
+          464498808,
+          464498809,
+          464498810,
+          464498811
         ],
         [
-          464485248,
-          464485249,
-          464485250,
-          464485251
+          464498856,
+          464498857,
+          464498858,
+          464498859
         ]
       ],
       "windowCount": 3,
-      "sent": 24,
-      "landed": 0,
-      "landRate": 0,
-      "samplesUsed": 0,
-      "kendallTau": null,
-      "pValue": null,
-      "verdict": "insufficient-data",
-      "sendOrderTau": null,
-      "sendOrderP": null,
-      "sendOrderVerdict": "insufficient-data"
+      "sent": 16,
+      "landed": 16,
+      "landRate": 1,
+      "samplesUsed": 16,
+      "kendallTau": -0.19642857142857142,
+      "pValue": 0.33788737087637455,
+      "verdict": "no-rule/noise",
+      "sendOrderTau": 0.4482758620689655,
+      "sendOrderP": 0.019660113295568143,
+      "sendOrderVerdict": "weak/partial"
     },
     {
       "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
@@ -130,75 +90,35 @@
       },
       "windows": [
         [
-          464485200,
-          464485201,
-          464485202,
-          464485203
+          464498608,
+          464498609,
+          464498610,
+          464498611
         ],
         [
-          464485744,
-          464485745,
-          464485746,
-          464485747
+          464498636,
+          464498637,
+          464498638,
+          464498639
         ],
         [
-          464485824,
-          464485825,
-          464485826,
-          464485827
+          464499152,
+          464499153,
+          464499154,
+          464499155
         ]
       ],
       "windowCount": 3,
-      "sent": 24,
-      "landed": 0,
-      "landRate": 0,
-      "samplesUsed": 0,
-      "kendallTau": null,
-      "pValue": null,
-      "verdict": "insufficient-data",
-      "sendOrderTau": null,
-      "sendOrderP": null,
-      "sendOrderVerdict": "insufficient-data"
-    },
-    {
-      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
-      "client": {
-        "client": "FireBAM",
-        "family": "FireBAM",
-        "version": "26.10.5",
-        "source": "gossip-clientId"
-      },
-      "windows": [
-        [
-          464485764,
-          464485765,
-          464485766,
-          464485767
-        ],
-        [
-          464485784,
-          464485785,
-          464485786,
-          464485787
-        ],
-        [
-          464485888,
-          464485889,
-          464485890,
-          464485891
-        ]
-      ],
-      "windowCount": 3,
-      "sent": 24,
-      "landed": 0,
-      "landRate": 0,
-      "samplesUsed": 0,
-      "kendallTau": null,
-      "pValue": null,
-      "verdict": "insufficient-data",
-      "sendOrderTau": null,
-      "sendOrderP": null,
-      "sendOrderVerdict": "insufficient-data"
+      "sent": 8,
+      "landed": 8,
+      "landRate": 1,
+      "samplesUsed": 8,
+      "kendallTau": -0.07142857142857142,
+      "pValue": 0.906697767410863,
+      "verdict": "no-rule/noise",
+      "sendOrderTau": 0.6428571428571429,
+      "sendOrderP": 0.029656781072975674,
+      "sendOrderVerdict": "weak/partial"
     },
     {
       "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
@@ -210,82 +130,162 @@
       },
       "windows": [
         [
-          464486416,
-          464486417,
-          464486418,
-          464486419
+          464498688,
+          464498689,
+          464498690,
+          464498691
         ],
         [
-          464488444,
-          464488445,
-          464488446,
-          464488447
+          464499456,
+          464499457,
+          464499458,
+          464499459
         ],
         [
-          464488524,
-          464488525,
-          464488526,
-          464488527
+          464499840,
+          464499841,
+          464499842,
+          464499843
         ]
       ],
       "windowCount": 3,
       "sent": 24,
-      "landed": 0,
-      "landRate": 0,
-      "samplesUsed": 0,
-      "kendallTau": null,
-      "pValue": null,
+      "landed": 24,
+      "landRate": 1,
+      "samplesUsed": 24,
+      "kendallTau": 0.12598425196850394,
+      "pValue": 0.4241919360213262,
+      "verdict": "no-rule/noise",
+      "sendOrderTau": 0.21568627450980393,
+      "sendOrderP": 0.17127624125291568,
+      "sendOrderVerdict": "no-rule/noise"
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464498720,
+          464498721,
+          464498722,
+          464498723
+        ],
+        [
+          464498960,
+          464498961,
+          464498962,
+          464498963
+        ],
+        [
+          464498980,
+          464498981,
+          464498982,
+          464498983
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 8,
+      "landed": 8,
+      "landRate": 1,
+      "samplesUsed": 8,
+      "kendallTau": 0,
+      "pValue": 1,
+      "verdict": "no-rule/noise",
+      "sendOrderTau": -0.14285714285714285,
+      "sendOrderP": 0.7097634121959346,
+      "sendOrderVerdict": "no-rule/noise"
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464498804,
+          464498805,
+          464498806,
+          464498807
+        ],
+        [
+          464498824,
+          464498825,
+          464498826,
+          464498827
+        ],
+        [
+          464498876,
+          464498877,
+          464498878,
+          464498879
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 8,
+      "landed": 5,
+      "landRate": 0.625,
+      "samplesUsed": 5,
+      "kendallTau": 0.4,
+      "pValue": 0.4768410529823392,
       "verdict": "insufficient-data",
-      "sendOrderTau": null,
-      "sendOrderP": null,
+      "sendOrderTau": -0.2,
+      "sendOrderP": 0.8267244251916028,
       "sendOrderVerdict": "insufficient-data"
     }
   ],
   "perFamily": [
     {
-      "family": "HarmonicAgave",
+      "family": "FireBAM",
       "validators": 1,
-      "totalLanded": 0,
+      "totalLanded": 22,
       "verdicts": {
-        "insufficient-data": 1
-      }
-    },
-    {
-      "family": "AgaveBam",
-      "validators": 1,
-      "totalLanded": 0,
-      "verdicts": {
-        "insufficient-data": 1
+        "no-rule/noise": 1
       }
     },
     {
       "family": "JitoLabs",
       "validators": 1,
-      "totalLanded": 0,
+      "totalLanded": 16,
       "verdicts": {
-        "insufficient-data": 1
+        "no-rule/noise": 1
       }
     },
     {
       "family": "Firedancer",
       "validators": 1,
-      "totalLanded": 0,
+      "totalLanded": 8,
       "verdicts": {
-        "insufficient-data": 1
-      }
-    },
-    {
-      "family": "FireBAM",
-      "validators": 1,
-      "totalLanded": 0,
-      "verdicts": {
-        "insufficient-data": 1
+        "no-rule/noise": 1
       }
     },
     {
       "family": "Agave",
       "validators": 1,
-      "totalLanded": 0,
+      "totalLanded": 24,
+      "verdicts": {
+        "no-rule/noise": 1
+      }
+    },
+    {
+      "family": "AgaveBam",
+      "validators": 1,
+      "totalLanded": 8,
+      "verdicts": {
+        "no-rule/noise": 1
+      }
+    },
+    {
+      "family": "HarmonicAgave",
+      "validators": 1,
+      "totalLanded": 5,
       "verdicts": {
         "insufficient-data": 1
       }

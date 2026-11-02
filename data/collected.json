@@ -1,153 +1,146 @@
 {
   "results": [
     {
-      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
       "client": {
-        "client": "HarmonicAgave",
-        "family": "HarmonicAgave",
-        "version": "4.4.0",
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464485096,
-        464485097,
-        464485098,
-        464485099
+        464498528,
+        464498529,
+        464498530,
+        464498531
       ],
       "landed": [
         {
-          "signature": "429NW5RBVxaDgdzNE1dQKwpfuszDaEWEFfsARrMBd8LuF2Z2cCHVtCz9vajd6T3Y9Y7vfGDXfxFDqhj81NYA14wp",
+          "signature": "2Ejw4ch6P9AWVrCsNbc6k85bK228dBLsp2LqjjjW3xCkzbxHUqe6g8eRipamNEbzG8eRT7zdsKufzgVrx358QkLi",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 6,
+          "sentAtMs": 1793623178858,
+          "sentAtSlot": 464498526,
+          "landed": true,
+          "slot": 464498529,
+          "blockIndex": 101,
+          "totalTxInBlock": 324,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
         },
         {
-          "signature": "52FVLjW1djUXLu7qquw9nxXnimdUwL6hSy3SxHQ5UQHngkRK2pzQYzMpaZyojDp2e9DM2sJU6j4tdAVdNTXY6SYE",
+          "signature": "3vLou7xpZCvUXNRrjToW22v7NkrDbm5t6UYVc3WYgN3KzCtviudwF3HZT8EAKnQWhC5J4ztUuwkZEmNstuyHTCDv",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623178834,
+          "sentAtSlot": 464498526,
+          "landed": true,
+          "slot": 464498529,
+          "blockIndex": 102,
+          "totalTxInBlock": 324,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
         },
         {
-          "signature": "54yRMEhpRmc3kEyJS6KPKxPvpYwjHiTfNPk4sJR1mNosmtdnaJYqnPPHc9z7TXjtqTrgBL8nUaWEhWFeX2ZT3oFr",
+          "signature": "2ZX4qKNcPcafwE4B8ELUyVy3A4mkYvhMXzHfH7j4uY69nXTK7Gjq4Sa9oBTnyEGcsE2Zp14dac54Dd6bpAFmtcXT",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
+          "sendIndex": 1,
+          "sentAtMs": 1793623178756,
+          "sentAtSlot": 464498526,
           "landed": false
         },
         {
-          "signature": "2RpNZue4iFYsFack8w1AGfxwcEU8qpgEr8t7mw6AizBiBcbxCswVAERqrcqCPZqajzhGfF1n7Dx2m1UgFZhq9Dzh",
+          "signature": "5zCc8dqHJPh6mvnHHS6NLetPWF9p3LRumPudYY7QPCeakvzoGuDyr4W5QiYAUsk2B3LQTw3QazDiLjjwxGWWBF2N",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 2,
+          "sentAtMs": 1793623178823,
+          "sentAtSlot": 464498526,
+          "landed": true,
+          "slot": 464498529,
+          "blockIndex": 64,
+          "totalTxInBlock": 324,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
         },
         {
-          "signature": "5Roz2scRK8L5UtYV3ED42NTxXc9R791QsYw6V8bE9FZqAT9Ky6KfJTUf5AfpC4RRqrKaCTmXqvRtgaQPxJwcPYeh",
+          "signature": "BDmTCzgy2M1s441cij6YNR5gWiG9ycsVyoE7amnEciH4An7LZsNqTYmpi2bzVFrsWJoxFzHpbgw6xL7LsLhi6CG",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 7,
+          "sentAtMs": 1793623178827,
+          "sentAtSlot": 464498526,
+          "landed": true,
+          "slot": 464498529,
+          "blockIndex": 99,
+          "totalTxInBlock": 324,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "2nqUabA5WTZYx973iN8DCkgHzfeppT4f1BjgiyXf9pGF2crZjBUj1Uz7TCgPsom1hvqVNjoC88Rz4RaBi6F1eWjf",
+          "signature": "2LwEc4KFUWCHf4zuxrazaCtpW5XBhfXCJP6FdahfbmWD3KymWK4M9Q9LNGpxGwXjWWXoxm7CDTd2TPjFEQ91aRdY",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 4,
+          "sentAtMs": 1793623178827,
+          "sentAtSlot": 464498526,
+          "landed": true,
+          "slot": 464498529,
+          "blockIndex": 63,
+          "totalTxInBlock": 324,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "3Zyr8HASDQEA9Hqb3yFPLD6bxwtQ5Jb6LEZbnBMj3SV5nurn4ZbFSy5986B1KHKkZuqYxDzQjSkGkBWovpvgobhh",
+          "signature": "4WrrAZXRcpvhzVdqDJn7PDayqr3XM36U2bpWQwcn1Kgw6xoLRjQJTVLtuqANUgYzwHg5w2g9T6QhkNUyv1wkFQp8",
           "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
+          "sendIndex": 0,
+          "sentAtMs": 1793623178695,
+          "sentAtSlot": 464498526,
           "landed": false
         },
         {
-          "signature": "5FHR3UMpsnfJpgpjst67BsDFGP3SoD6xbEcCp5au2XJ1NeoncLuewkP8cYXUjGyZLUyqmoAmNFs8VE9dTqNo7aeP",
+          "signature": "4EiFmuWNifVDHoyWnX3kpGHJVU3ob2Fg9HPXdPDiSzB7LRhSL2DZV4sK5JqDdivRAXC3sXWWcT3tonFYJsf6hZ6M",
           "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623178748,
+          "sentAtSlot": 464498526,
+          "landed": true,
+          "slot": 464498528,
+          "blockIndex": 357,
+          "totalTxInBlock": 369,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         }
       ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
-      "client": {
-        "client": "AgaveBam",
-        "family": "AgaveBam",
-        "version": "4.4.0",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485104,
-        464485105,
-        464485106,
-        464485107
-      ],
-      "landed": [
-        {
-          "signature": "3CbY6uqybcf2jwytFojz3DMCV9md1NLWRkiyG7gcYFU3YBNWFSCxECEGJNAX5eEe6MWNDkrygNFWXecbkQFfjFhH",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "38xwF9Q84L9Z3wybPhauTYrH9FvEKmgtMfzkYGH8m9JmqsEPHQZEVtqzz9QwhPuG2DiJAVPaqBk2VAgkhx8XsLM8",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4j63ivtuxt7vG7E5sK9XLfcKU6brXw1W1UMnonycu2ABivVQ6E2AJSBrFBggTAaDUmx9j7dRrpShQq5CBhDrp1va",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5AxR48BMMg9ehgb1EM5FGgXHHkPx2rix4cbxTbLH8pHUYK2sTt7kJpi5JwZZE4N77rsWeH1rAWN9F9iCf4VEESe5",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2t151Ve8KVVo5p85Rb5AGDB1nTydVpcGu2zAWJimBuLaHg4NLnDTbtGcKLPKJYmPQhKaCECcQQTpK4UxLnve93dp",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4GafhkwDPNxDMAziDbma7eG8j8wiP1E6KSFnNjifBdgmRj4iV9VZxbngyZHo2eFjGVS41CfNLaAezCGdqVGbMsFs",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3Ai979d1vbkS47W6piyAHdNG8xiWenGrZGRkU2SKPP9QM8aDaRTiM7QHvGn47tyXUsuKVfbGybtdeaMG8tJ2AEXQ",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2NKTMvkbiXwswt2Gzb4WJDXx6zYD7GMJPF4TaEz5rn9gWEpEp4WMo2uY37RYUxbvbe7k76zcs9ugfXdJoQ4voFNu",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
+      "landedCount": 6,
       "sentCount": 8
     },
     {
@@ -159,70 +152,487 @@
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464485108,
-        464485109,
-        464485110,
-        464485111
+        464498604,
+        464498605,
+        464498606,
+        464498607
       ],
       "landed": [
         {
-          "signature": "2Zkw6b1Lz6CQB1HVZZwjqVtvJn79M75XQGYBFkryiCR5VKnjSEQ3juR9EhttYLNK4R1xbBs6ri8huEsjiqqEAA5j",
+          "signature": "2yqrR6j7zo28CLgHnXJvyFxi4ovuhuKYQGQobwFcvZxsDSMKzxHBMKuwLbGYHr4x92QX6TSEpwdyAitTtE7Q1Kef",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623194835,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498605,
+          "blockIndex": 26,
+          "totalTxInBlock": 313,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
         },
         {
-          "signature": "Nc74B3HcFUTz36w71WRyhmKgAen2EH9uEc9Tkp8Ye6bPxS1E5JmkF9fghPQixtT6L4N842oF8Zi9AeXnay7QtYb",
+          "signature": "3DbAtHR5i4cPEsmrF9LNuVLwUs371LZpRT3nf8edvv8GpipPy5eeue2PR8LQtB4y7dfHYd2YDMQfi4nnVvzsuc9e",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 2,
+          "sentAtMs": 1793623194753,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498604,
+          "blockIndex": 113,
+          "totalTxInBlock": 165,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "531g2HMSSfwT5q5xpKhd1Zsmm72VFaacWXFU9DLJnSb6iZtdtJ9L4SWVu9J4AtaWbM3Boi2tVJaZtaosRW34eArq",
+          "signature": "2ikCytZWVnrjy6VxHAoPfj2pbepoLCoBjZzoN7Qmd6wB9F4aHr8bMt5ArFkE93eJoo1iFShdsDhUpi8e8orRitFf",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 1,
+          "sentAtMs": 1793623194745,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498604,
+          "blockIndex": 103,
+          "totalTxInBlock": 165,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "4C8Lsd9MPWqKitiLh4kRqyWiydfa6HMbb5FaoksgJxq5yCGaV5oYM3iUhHrStEjBMUyx8gfknf1VA7GdQg5ttKes",
+          "signature": "5Kw7b6kLVPUzsbZfeYMJ6nTEFRTRca1gH7fyzj3wdCKf3pFSeJPZeW6Fg6dE8o5Rr7Fs7Pjy59HpKBgTvqgnF4b2",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 6,
+          "sentAtMs": 1793623194823,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498605,
+          "blockIndex": 18,
+          "totalTxInBlock": 313,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
         },
         {
-          "signature": "36bcU6J3oRPhPc1f1TjC3w1pNAQPmjy3VURPoMnaCzLDSE5cG9o7XAR65buv2newCfVx7EdKG9XhwJoMXnxuHJhs",
+          "signature": "2LWeX9CTfmvkWVfkm1s5qsue8ZM95nDvyEvUGQjSxKtREw8FAES7BEDpv5M7gSJdofQ7NWEDN2gh4iTfq3HqoZyb",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 0,
+          "sentAtMs": 1793623194692,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498604,
+          "blockIndex": 2,
+          "totalTxInBlock": 165,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         },
         {
-          "signature": "fMaSms8pxPrfXGp9GcwCsLYxhQdN9HHcgDSMrtbtCqjTt4ifQYSJwzhe2LT79u5B9t4PoTmLS8T9HrDyiG4wyuW",
+          "signature": "3SB6yLaoc9xCydRuji2E7vTKJmobzUXQa5BoUUrh9G9AnmR36gkNAWVdfoa3wCrDoQnhtEoDh6UJq9s7qcLeormK",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623194747,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498604,
+          "blockIndex": 107,
+          "totalTxInBlock": 165,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
         },
         {
-          "signature": "4My6rFWxehAF1GGnkS5abhsE3xCD2dAUira9SMpjWfWw32C3mUYfHsyyhMdP2b1poL6BCTX94vZbfy1DUBC9jHNP",
+          "signature": "2y796ehbMagRHyAXpeT7PM3HfGyHNBqdEo1jh2wKLuo6o59auGPjedgoRUpDLTNBTTbgAnrDubmo9pDNPJcDvxzw",
           "computeUnitPrice": 250000,
+          "sendIndex": 4,
+          "sentAtMs": 1793623194825,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498605,
+          "blockIndex": 19,
+          "totalTxInBlock": 313,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
+        },
+        {
+          "signature": "3Ctnt1H1QAF7uwvVBR4zx8GZ12nsPkHkZL8KJe5YYRw3BPFv82TMb4eoVPR3qpiY8LGgBPBPV8S1rfjc7tW22zz8",
+          "computeUnitPrice": 500000,
+          "sendIndex": 7,
+          "sentAtMs": 1793623194835,
+          "sentAtSlot": 464498602,
+          "landed": true,
+          "slot": 464498605,
+          "blockIndex": 27,
+          "totalTxInBlock": 313,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
+        }
+      ],
+      "landedCount": 8,
+      "sentCount": 8
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498608,
+        464498609,
+        464498610,
+        464498611
+      ],
+      "landed": [
+        {
+          "signature": "36CqqiKrCJiNLH5224GinfgFmEctAe2d3DDnstoEHSy8YBf1hNetyjTqvam7HFthgdijpW8VCafRVTgdMQ7WpYuz",
+          "computeUnitPrice": 0,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "5aTxpuwn4Wvs2qESMcDkdMzYVqJ1nfhKk7Jecm6XVwhNawMKLvLHo7dXzMFKDJgtNc15oWfFtqhL8MVckuZn26gB",
+          "signature": "5E6x5tNZG22LwKdJ5yP8X51E3qv2ZRFAi3GGxouPEMrnvVook2uaohvCLD7EbihCDGVUWPkVh9nEwXtg4CAqouMf",
+          "computeUnitPrice": 1000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "35rVuNPei9mjqkA4VvKMqEk6XpsNiaE8hAvLMrcGjaSfnUBhhYxyFqnzZjzxSNiYckururhqsgxPdPVjdYYWZKjB",
+          "computeUnitPrice": 5000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "T3Y6KKSENA7vJZNhJWGUyneTHJURywh7ebxz4kLkrvj6R3gxRCCE3yh2kQ9ifWSjMUo8omjFinjkmnuXQxKCjKQ",
+          "computeUnitPrice": 20000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4kRNTfvxXaXvPGgFB5LLWb9r4Z7SiGeQWob6iVqe3UwqQeCdAi6YYWxqwzZpWnXDtveU8JizvsU7dxpqSaF2VnMu",
+          "computeUnitPrice": 50000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3uveb8TKHs1GC9hFAzNVwmxC4KAiUG7NC26TVnpdE56R8ZyqWiF8HGPAGG53BAMXjKAUWEPULPMyku1t7gMsqkhH",
+          "computeUnitPrice": 100000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5HyMRWURqg3zPVyjdapk2q7NgrNhcZCvpCkwjgdPTsKYqxPFNf2PtTbcdgQp7QnuHWvtshd4oVoKk9hWmiUfX9WZ",
+          "computeUnitPrice": 250000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "63ByMYerSLjAFpcNhfYNSx6fW3CgwqnuSLCeGRVY6xaAVtvhMFVtzqJinhRZntR5peYUxsDnid2pEYGGvoxJ7zam",
           "computeUnitPrice": 500000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         }
       ],
       "landedCount": 0,
+      "sentCount": 0
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498636,
+        464498637,
+        464498638,
+        464498639
+      ],
+      "landed": [
+        {
+          "signature": "5kTBftbXAsgzGS8umpuhrFR4wKhaRGnuPS3Lbnq96ewXFK3hVfh2UuE3KYiqvg65Yqk392kDsnPYZP7EuQAGoyH2",
+          "computeUnitPrice": 0,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5sPxsKtBR8VgdB4t3YLX3Y9Qoj2taoWWPYTT8BjCZMM2XDoAxSZbP3FMDYL6gpc4wR49cGXnpkk9dNMhebeYtidD",
+          "computeUnitPrice": 1000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3CPCRMZuURqoGT23NLfL2Tc1ejSU3H1KUTBKQw7VqG9FwPkxv1FR9EW6VMfHNB4K87RqBpQ2RxPQt7QbBDueRurF",
+          "computeUnitPrice": 5000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3bqoMhu1yDysLMRq4HjwWDMZNAtPCYcBhawo8FLtjDStNZZsWUUFVgXKpDGZ3oaPbqAngEyxXdXxmGnjYYeJKTvZ",
+          "computeUnitPrice": 20000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5hrL4WFUomydX1mtEEN3M97CjWbFNRbMzF2ZZ8z91Q4DhisEb6my1nPcFLhiVFZkGTpLkXn1xaC93YCsQ74SexJs",
+          "computeUnitPrice": 50000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5hhLbWJ45Tzw5uaQMPg6kye1tqHUPLWsYaW9Lu8jHuAWoV2KWEB351s1EnwxmS3svyMZrNE5UttyVE5eyUqd9ZdX",
+          "computeUnitPrice": 100000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2cAyGL5QFKWozkyxBuFxiePrktAoVTFaVbrtnotbRZtB5w2VYs1TJFiHP7ArvL5su1q5LFvbiNN8NdLPiKqYgkgS",
+          "computeUnitPrice": 250000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "PtwMnsJ3Vb135dVZbuVnw7AgAN9B2m1vfZPEYghoyWuVFHQ3KPak9XxpWs9DUUfzxq633a3cAw3CB9Pz9346FBN",
+          "computeUnitPrice": 500000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 0
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498688,
+        464498689,
+        464498690,
+        464498691
+      ],
+      "landed": [
+        {
+          "signature": "4c1vuWDxy41XdJmjGE2qiRzfwqW5QjRz4XA5ckMfWUgAF5AHpUvaZvsWgYNyekToSUFi2oYEvYBfuVevCDNCoTyu",
+          "computeUnitPrice": 0,
+          "sendIndex": 0,
+          "sentAtMs": 1793623212748,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 85,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
+        },
+        {
+          "signature": "21yaCCkMau3dCPjH9ZTN5FehZuF8sxoVAeN4GCQ5upFZBQf57dNhDpnUvsQNZeH4pitvATN8yYZpTaLxkaCjrSxj",
+          "computeUnitPrice": 1000,
+          "sendIndex": 1,
+          "sentAtMs": 1793623212812,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498700,
+          "blockIndex": 41,
+          "totalTxInBlock": 317,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
+        },
+        {
+          "signature": "57Vqeg6qVLGxGbEgWnTybM6q68SEJN2YdUyShM9bGeyJxfe3H8BCnWKHn2w4QPokkRYPQPLrSFJEarWLyGnzEyp4",
+          "computeUnitPrice": 5000,
+          "sendIndex": 7,
+          "sentAtMs": 1793623212827,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 82,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
+        },
+        {
+          "signature": "5KeKrcHKA4kio3efXJ3CHi1SxSmNXuFVS8xKSNcuzFo5vU6Xy7bxvLC89qAD6i7ctAcMeyWC6DsEqvndxqvjH8Fb",
+          "computeUnitPrice": 20000,
+          "sendIndex": 2,
+          "sentAtMs": 1793623212827,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 153,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
+        },
+        {
+          "signature": "3nEzRHDo8KACmpu2mjGACnb7ZoueHWVU4DvZd16P3T8XSY5KjzVmTs6c7odF8ceNDQ89mGcVinve69nYChctDFtL",
+          "computeUnitPrice": 50000,
+          "sendIndex": 6,
+          "sentAtMs": 1793623212836,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 89,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
+        },
+        {
+          "signature": "2SyZP2VC1oNBZLbmX6o96YzH3WAk43TKCdEH8kFU8DkVtbtVeMqPbExL2Bkr8Z2YRM56J3cqKo833t2SfqU7fgL8",
+          "computeUnitPrice": 100000,
+          "sendIndex": 5,
+          "sentAtMs": 1793623212836,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 83,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
+        },
+        {
+          "signature": "4xTpgJPpJui1A2NjaAtZMGWa3Rbfz17Zdjq7KXUU3ohesgGKC9ho5HfZhxf1zzphZhpx7JjjDRGrKLgeReX7GyQt",
+          "computeUnitPrice": 250000,
+          "sendIndex": 4,
+          "sentAtMs": 1793623212827,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 152,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
+        },
+        {
+          "signature": "47fnZqvuXiunDxFKJpUoU7a2pyTo2Y5pMkwVpfq7TnFKCXn8Yh1fhGACi8YDi32AAg3r4nL7JCMxSDhM9tvTqEhi",
+          "computeUnitPrice": 500000,
+          "sendIndex": 3,
+          "sentAtMs": 1793623212827,
+          "sentAtSlot": 464498686,
+          "landed": true,
+          "slot": 464498688,
+          "blockIndex": 86,
+          "totalTxInBlock": 183,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
+        }
+      ],
+      "landedCount": 8,
       "sentCount": 8
     },
     {
@@ -234,145 +644,786 @@
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464485128,
-        464485129,
-        464485130,
-        464485131
+        464498720,
+        464498721,
+        464498722,
+        464498723
       ],
       "landed": [
         {
-          "signature": "3NTrTJ8tgZZYD8x5VVHpV4dXRh9FaHrP1QuYBW3yeSQTacgQjB6rK3QxkyLKUnLCHAPK7i5aTzrPnBNxKj1A5X3",
+          "signature": "NDEZizEAnvMnVQaFxPRUYw7RefHYVtp7UU4fSSWG3G4PA4jZEZkezYL8gVPVcp8Ai4XHZtTG2JeT1vDcCaoqizN",
           "computeUnitPrice": 0,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "5fG4YGmTxx8fmhtQ69enmjEhJxYgcyK4DixB6egFhvTsZdzcr4e7HFSEwpDsji9m2eNfkax3gVSzAJD99t1vf3HV",
+          "signature": "54BQ5SiwYQ3PNu6xkyPVuUYp7rZUoyRCbmmCi82WgiQEzub5X6ypxqxVw6o9tq3uUmMBuPQ22EqUKb5HZSHjhPv",
           "computeUnitPrice": 1000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "Vfq6tV7JsyBRvQB44NaGJGCW6e3X9JiwbxiRx1WX96aXWTsig7nrh8HX37FVonni1d5BtAGhnGGcTjoRgMfAujn",
+          "signature": "3byi62PkGPCHuihpEcvHdJ8uTNNteaTMxrHdoG7AUqyAVU5ZgioqVSWca2xNdxLKKMRkVfuz7cqjU9tno7macmZC",
           "computeUnitPrice": 5000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "38T5ZLDVbpBPhu1AoW88Ki5btrTEmXkLe7oj7ssigHp8iCxuajmSY4rwYWbQibdSBgvMGMn7Z1qgSaiVUns3rFFV",
+          "signature": "3S4ChHXvyn6EwkbmAAzCsoZ5qoqQmwrpqaSBbNpBSFM5vPBFP8bNJDmv6JZAD7ifFvJpcVUKZKzDLoW9FXfHorMe",
           "computeUnitPrice": 20000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "MgicweGg6UxYRxuGd1dhqknGfsdnavom1nS8KqpeUPWCzf34YVgy3a6HAvMF22XHyu2PeRDeqACiKa9RNR1WQ17",
+          "signature": "3vmisQSba1hMy2ws4b5zoBMuZySzrAPth3RvozJrMP1TRRgyxP35rtcdTft6KtpR5ZA2RvAqAphgfQ1HTKrv5VA3",
           "computeUnitPrice": 50000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "2NAuetp7yGZzaDs3Uq59ovivxbat3G8vvuLL7wRTZftk9rmf78ASEZFrSyTDFQSLqN8TBEvZxjYJF3NweUn66FjL",
+          "signature": "3eLC1hBYcsUhxnU2k3x5zS8Mj3qzsERwMufTydScjzVycCZozzY5xAGTKigbkqdyk6knpQcLC1JXa6K4Bfiz74EF",
           "computeUnitPrice": 100000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "9mgyTbzhwhqe3RHxvBzvjXwJPe4nfpTk2SqLDnzUyVCoXMvoPBoV6TXWu52rSRKwDwGCFDaciECFgEz62yMJjBo",
+          "signature": "GJAGquaCtMaUR6r8E4aPiBoKA8vgT6dSZAwKSvJEpik1nLkA7sJrYaDEu47GQYtZqVjAATXpDcsMZxbtmWDi3Xf",
           "computeUnitPrice": 250000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "32R9EAb8yFMHb6RqWgp4xPyt7GNpU19om9FGxfRmcHuaPYihEdfgxGhCoy4eT24nQVQx9RJHaWCbj9dMhsY3m6VQ",
+          "signature": "3ijpcNxg37aeK8kq9az2KM5vTmHJh3m8yWFp42qKpCNf5PaDziNzKbFfJ8bkh1wprx56z1HEzQhVW8vf8yvJy933",
           "computeUnitPrice": 500000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         }
       ],
       "landedCount": 0,
-      "sentCount": 8
+      "sentCount": 0
     },
     {
-      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
       "client": {
-        "client": "Firedancer",
-        "family": "Firedancer",
-        "version": "26.10.5",
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464485200,
-        464485201,
-        464485202,
-        464485203
+        464498804,
+        464498805,
+        464498806,
+        464498807
       ],
       "landed": [
         {
-          "signature": "4ddKfU3PegWbjf5JCHso5CAxkH9xWX7zs4ZwEuFK96RVjyD1fYvctByCt5ovQPFLkNxWxm9rtvowRCExh3Pm4iX5",
+          "signature": "4NPDuXqV4qokntYk5k8LJ4SbDuDVNBRXMQ4JuTPaCJJeSVMtZ1Q1fHzWne8APRs7GjqsKK8y5sfAHLtsuFzEXU82",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623237628,
+          "sentAtSlot": 464498802,
+          "landed": true,
+          "slot": 464498808,
+          "blockIndex": 9,
+          "totalTxInBlock": 179,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         },
         {
-          "signature": "5BAkgycf3dwMXvFDj1cqnRHAqt5WWdw5Wvd1SWSrpLZBKcQof5Kprwwwe1gMPEMMhWumAFD5H3kacXk63A1joLUk",
+          "signature": "3wWaqwXSwkWRZjuyuUekH5XRsUD9L3nV9RMoVExqT6iuD5gHLAr281tjuwATHeSWC9ejjx8AQLA5tH3i5L3Zz1md",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
+          "sendIndex": 2,
+          "sentAtMs": 1793623237617,
+          "sentAtSlot": 464498802,
           "landed": false
         },
         {
-          "signature": "W9Ahf3oy87YfteHaZrNptTAREJPKEgtaVB77QBtGkMgKDSFezPuYexqENgtsyDdEDvfK2ZxiSKfdBjZQnb4TU9i",
+          "signature": "31sLKvewZpWyZvL1wJuwPJshMZRpdDD8F5swsmn4UXZGD49p1GFmVHexh2zoYW75Ts5UHVbHPCLyGhaVeN81CQgR",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623237620,
+          "sentAtSlot": 464498802,
+          "landed": true,
+          "slot": 464498808,
+          "blockIndex": 29,
+          "totalTxInBlock": 179,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "3VCw3C562d9PvriXpn6VCCWFzHu54ANgeEPTcba2bzWHii7HYFTeceDu5q3HRLFg8B8mqohGD9FuF7cbMmMEJSRU",
+          "signature": "3WvyAM5RW6baJx8y8pRYakd4w8sWHrLQEfeCYkr3sDnnFPBiTjJhqE9urK4iS1v36cywyTFP6a7zzz3FoviTpVrk",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 7,
+          "sentAtMs": 1793623237628,
+          "sentAtSlot": 464498802,
+          "landed": true,
+          "slot": 464498808,
+          "blockIndex": 24,
+          "totalTxInBlock": 179,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "522vfVwcsLTKQdA7F2aR5LMsmdVi6JJWTdWnp8qLCBw3C9NAxJmhp3NgYskJwECkPhvMbCYFLc4vksaQ8m2kuBWR",
+          "signature": "vzX3HBRUyyW1JzFaazLqonmnDUhjMh8HhcnnDJbiwk6FWjC549gfTjvEGCoLSoyLf8gTmzcJyy2AgYRu9E6oW6p",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
+          "sendIndex": 1,
+          "sentAtMs": 1793623237616,
+          "sentAtSlot": 464498802,
           "landed": false
         },
         {
-          "signature": "4mY1fZDfHbH1jBujHGmFVrNY1U8s32RhniemEUta2NT69BgnMavawc7AtdUPf3VBwWgs8bdZNEy1ny9Zd9jaZCUF",
+          "signature": "4N7R7tNRYjJ3cpLUYhs8t7XnidydtiK3j3AdAsMCFQTHyR6wn8agZmG1hStkXd6h6oTCDfqw1McrhA5HSfvDHhgy",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
+          "sendIndex": 0,
+          "sentAtMs": 1793623237560,
+          "sentAtSlot": 464498802,
           "landed": false
         },
         {
-          "signature": "2sd6xtKJRyhPYy3FEuyVPUkQwkveYgcqro7NXT6HsCKweJbd62mRV8rstHB1eJxrWb2jvueezK4MinScdZY1n5YF",
+          "signature": "63u4DwM88qio2dErmwfRMwL8nySLxkUx2QDAcQP1QmyoXYMrfBMMp8t5yfM4gTYGHpeFbtWCWhf2uJ25KvgV13sF",
           "computeUnitPrice": 250000,
+          "sendIndex": 6,
+          "sentAtMs": 1793623238250,
+          "sentAtSlot": 464498802,
+          "landed": true,
+          "slot": 464498825,
+          "blockIndex": 136,
+          "totalTxInBlock": 289,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
+        },
+        {
+          "signature": "jnLGGdfDvNekZKkBnMCtgypHPmPJGwPGv9pkzKm82hmF9HgqrVUSPCgHCbwgeY7iysJ6go4rvxRxfxMQTAzsaBe",
+          "computeUnitPrice": 500000,
+          "sendIndex": 4,
+          "sentAtMs": 1793623237636,
+          "sentAtSlot": 464498802,
+          "landed": true,
+          "slot": 464498808,
+          "blockIndex": 28,
+          "totalTxInBlock": 179,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
+        }
+      ],
+      "landedCount": 5,
+      "sentCount": 8
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498808,
+        464498809,
+        464498810,
+        464498811
+      ],
+      "landed": [
+        {
+          "signature": "35WKNegcpMkUw4628LJEyAbgSBpMYyspQn6gBUutYZhPF31mLHLwiwERevKMufH6htGU9M8RmkwxLLaWrkM4uASC",
+          "computeUnitPrice": 0,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "4Ts9x45kZjq74RhZu4vW5PZbpoDEnwdWN4vw2Qv2bwCKxkF4L48Vqs41Li2GRT6pep4ARUsp4ED6r8xjbLWXr1p1",
+          "signature": "5J56YawdqtqF9LhUFg8kRAjk1LuQ7eTBawQqxsGNFRgKjG4V88ffWbCnDt4SiSar4fffUzSZTZ6tJty91Wgupb9y",
+          "computeUnitPrice": 1000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "AgUAmX2rfaLXbcegt2oGvnKKSpegW1xZpbdBZ3C1TjVEzewgs9p22uwieXx88HRpdoKGitavZXxyoyQDQCwa56j",
+          "computeUnitPrice": 5000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5ZMGHeAF2jJv9cQ4QfBjAQdDnhq7ZV1TsZUNCjz1PSaJWMaoRc9MsLRaEkbSwH75zb8Fu6NdxVesMe7uN5iwKuLL",
+          "computeUnitPrice": 20000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3R9vRrvG5Y3cySJX5CTY3G9U2u7eRX2fj185fWuh4YAv3WPeEg4USAjyYPuE2BeY2Wq6XJvr7KssxBue8e62d8xE",
+          "computeUnitPrice": 50000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4KKM7WSUJjPU7jCTKjonzbnAuKF1gNMdjtZWqeHJ2yhmpoETcfmM7fBg1VygzoEVBbJFWzfZ2MSPhgsfBufBifbu",
+          "computeUnitPrice": 100000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2rsAdVBJhoYeEUtfXr3GkvGvCQMu5udMbXedu6ASrnhjBjqcqjo6s5bi5qCxdFHkMwp7MGuyRVMVuX5JVRcF3ufC",
+          "computeUnitPrice": 250000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "GTDeutYmuwCAiYAEE36gf2ezMjMVg6QccCYwxG9sKsWwr48iCSPCPya2WKJteKRaYd3sETVER7vNXTJrC3vGoG9",
           "computeUnitPrice": 500000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         }
       ],
       "landedCount": 0,
+      "sentCount": 0
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498824,
+        464498825,
+        464498826,
+        464498827
+      ],
+      "landed": [
+        {
+          "signature": "3gygEhg3icqY8y4aaUgCVRAVFtyXGHVjrsiPZ9vjKBRporUmZGAxbYFpLS6FANnSM6izumAPVPFYaddftQFcT6Ei",
+          "computeUnitPrice": 0,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4B2DhDftgkyKVMnPFrLeCbvLo5XMFeRir3mjGjCpTVcPHVDG8YbLbMGXcWvyeCcawJFFCdiEGp11nZRXmqkpokE9",
+          "computeUnitPrice": 1000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3wYcBiWtLo5Lmyf1rDkERgezFim9CJKJ6pmwnkoUEQikR14a6TyG1RydU68LF6TEb7sq1hAnsxgky2AJghEHNBb2",
+          "computeUnitPrice": 5000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "nvW6iqvREqTeDnhgiJc5q6iBi1dHotLgk7xfjpab89VY2PD6jGk4eSvJhvdkGtByXW33MCqXq9LsMWrGj8Rb7cR",
+          "computeUnitPrice": 20000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4jwv7GHsbYkdD82ihkHtAGJEniqZBctwDnMAt6BNXVDXwgryu33J2S2yNHmuBCeWSbgMMG4uYUb1eUfbQCRsW9P3",
+          "computeUnitPrice": 50000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5QvnguKSKDMcwoAyBfEMBbE4gdT26PSrpdhrayLBgwrnBZaPpjZb3bSdNCDvENqwfFta1Wjz2SKAkveE8v7Qu24j",
+          "computeUnitPrice": 100000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2posuDe5r281zpoEWxZMyt5D9jUgUhsn2S6s354NTeyGWXEHDY9bbtDb4d1sq5C1NVCYSf59UXmu9XTTmFDnVJ7L",
+          "computeUnitPrice": 250000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4DdN5dU1UscjYsM7GTV1Yq6zC3QqKbpm6HXFZfUesyvAGihaTMJghGqEzkrgCbimZmwrkECaachRxm1wSreffLrG",
+          "computeUnitPrice": 500000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 0
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498856,
+        464498857,
+        464498858,
+        464498859
+      ],
+      "landed": [
+        {
+          "signature": "2NnrFhBk2QMenR1HQDfc1dQvmzD2soV2L5ALJrUNyx17rMhJhcR57mXu8fKwEAjqkAkrYrq5uU9becYB4iy9vs35",
+          "computeUnitPrice": 0,
+          "sendIndex": 5,
+          "sentAtMs": 1793623249210,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498859,
+          "blockIndex": 233,
+          "totalTxInBlock": 490,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
+        },
+        {
+          "signature": "23acPaS8KYF39Ur15Mg1XYWmaLSHtZo7WjniVGzSDAMYAVcQEt2vimK4tBAjG7PamsagqECZvqnEHRp3duNVQrjZ",
+          "computeUnitPrice": 1000,
+          "sendIndex": 0,
+          "sentAtMs": 1793623248552,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498860,
+          "blockIndex": 45,
+          "totalTxInBlock": 412,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
+        },
+        {
+          "signature": "2QWEDRA7XNvj53EubQq9NMV2oQ1mQv2wLAxeAaqTeFA9h9NTXLyxXjX9gTXuuK39xuD9n2BgTG8MZJULzHwRi6UL",
+          "computeUnitPrice": 5000,
+          "sendIndex": 7,
+          "sentAtMs": 1793623250337,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498864,
+          "blockIndex": 438,
+          "totalTxInBlock": 445,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
+        },
+        {
+          "signature": "4NSYPrC4M1CRvrU1oUVR5VJTDsdyNJSpgx9AuZMNeJ17d7sxiaFQ5VQvJSqJwWpcCnrcT4v6eaQDeH9RVYiuQShw",
+          "computeUnitPrice": 20000,
+          "sendIndex": 2,
+          "sentAtMs": 1793623248636,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498856,
+          "blockIndex": 19,
+          "totalTxInBlock": 345,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
+        },
+        {
+          "signature": "6LLgoAH4tTnBz7eqHGiddXmWxPttjQNazQAsUMf7yCc3o8PdABm7JFAatWuMRUxcysfYFZe44ije7PCdB7Fm3bF",
+          "computeUnitPrice": 50000,
+          "sendIndex": 4,
+          "sentAtMs": 1793623250346,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498864,
+          "blockIndex": 437,
+          "totalTxInBlock": 445,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
+        },
+        {
+          "signature": "jo7k6eVfS3MZzjNvyyD52SaG9fuCByB99yJMLUpfnEqh7i4YPsVBLKJrxdaDPXxWVW6cS1xTMiDDgz4NHdbhSr6",
+          "computeUnitPrice": 100000,
+          "sendIndex": 1,
+          "sentAtMs": 1793623248552,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498856,
+          "blockIndex": 8,
+          "totalTxInBlock": 345,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
+        },
+        {
+          "signature": "32XoRz11VwjqDDShkBm29ZCVFEc356FG3GKdizKSzjJkCWmhGrUjywpVHRc3sa34NErbu2mYQuThJCVboWhcYp1c",
+          "computeUnitPrice": 250000,
+          "sendIndex": 3,
+          "sentAtMs": 1793623248632,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498856,
+          "blockIndex": 18,
+          "totalTxInBlock": 345,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
+        },
+        {
+          "signature": "4qHy7R71GW811k3rBE1SQvggdfk4qv2kUkDsYtMhPWmZ7ajHk2bB7jGhd6AKivukuZBtEFPkVGJMj3URUeqFBWHY",
+          "computeUnitPrice": 500000,
+          "sendIndex": 6,
+          "sentAtMs": 1793623248634,
+          "sentAtSlot": 464498854,
+          "landed": true,
+          "slot": 464498856,
+          "blockIndex": 7,
+          "totalTxInBlock": 345,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
+        }
+      ],
+      "landedCount": 8,
+      "sentCount": 8
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498876,
+        464498877,
+        464498878,
+        464498879
+      ],
+      "landed": [
+        {
+          "signature": "5XrAwmQ7C62A6K9KKL4egRtTD5ZJhBzb7HLvYTURYbiqPUh3Y5DxKg6SBUKcRX7kGzCaoAEnGk9d7gWxiGcVEGuz",
+          "computeUnitPrice": 0,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "FxF4yQ6Z1fgnBWxfWdk7wxRsw15nnm8a2UWyAAiCDkBnDrL6GVh5d3PBxgGnZcrsgJPXTKXXJxK46gANufxzjGd",
+          "computeUnitPrice": 1000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2Bog2xT76H8PxKYq6cMBxPHZC4A9S61Tp98QVRKxxkyEd5bRqkbgndJ35tVFXUkLA4QfF6owTCkHYV2qypfa7Kgn",
+          "computeUnitPrice": 5000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5rMdisGfN5b6pEzThz8DKrKpA4dj7EMwsKaX2Xg1zzdoAnnc7oTri84qgKmws8VRXEaHMeAAULkyMdKZMuVkqf9v",
+          "computeUnitPrice": 20000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3jkym9bpty6kf4RzW3aTCDfNVHoKjSEBbEr2EMPyQt3wyiyFauuS5LRJk3MaoFeMCgnameLPRJ31RHy2eHcNGv3J",
+          "computeUnitPrice": 50000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3Y9nUvyRKBif798dXDGxvNTTZezzaDwGrukDBhhZehj1z6Aw1CgTTr4dbCqH5MyQe9yavvQ3wba4Ns3B3YM3ebPZ",
+          "computeUnitPrice": 100000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5Jaw5HHnn5krgJWht3WSXznhsydspVDCqm7zQzbHxeDaRixq1dGjP9LoxpAxw8gsiDRU9LgfN9sxRvYxohSnK14M",
+          "computeUnitPrice": 250000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4xQ6zPpiiidM61Z3cq9ZGEXRx6oJeMnH9QvQfrUMJNd8m3ZgNhCrsLQpRzTvE73AkEWht6NpzG8h8YRW4tAmw6Ub",
+          "computeUnitPrice": 500000,
+          "sendIndex": null,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 0
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464498960,
+        464498961,
+        464498962,
+        464498963
+      ],
+      "landed": [
+        {
+          "signature": "5gwAFtZwm2JviB2C1L5DRJepifvQwf1rUbPN7gKrLECs7C6aj37GPpoxNmQgLE4bzxCbCz4UAtYky29BUFgJHU2Q",
+          "computeUnitPrice": 0,
+          "sendIndex": 3,
+          "sentAtMs": 1793623270435,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498964,
+          "blockIndex": 32,
+          "totalTxInBlock": 286,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
+        },
+        {
+          "signature": "3DHJwJUbxoqeq7UgKBPNURajADUgE4WfkAPEYYqbZwiFhFLQgg4TvM5oT1rw2eTLaydF9UzPWDyHaVocn1zo86w1",
+          "computeUnitPrice": 1000,
+          "sendIndex": 0,
+          "sentAtMs": 1793623270374,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498959,
+          "blockIndex": 436,
+          "totalTxInBlock": 448,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
+        },
+        {
+          "signature": "3Kf2LnJ1QdAQL8BvV72dPd7e1RtVuEHqfTpYjq7Hcp7Npge8PpJzujCpRL4oCX7V2U4Yhj5LkgJKoipwSk2cLmu8",
+          "computeUnitPrice": 5000,
+          "sendIndex": 1,
+          "sentAtMs": 1793623270435,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498964,
+          "blockIndex": 28,
+          "totalTxInBlock": 286,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
+        },
+        {
+          "signature": "5aBZzKjtUbhAVo1deRrXnfS8K9rwujtXdbsoa4bRsduqpuQ1V5BpjabbC14JdyohuULYgvvBUPWSGx6NqpE86yA1",
+          "computeUnitPrice": 20000,
+          "sendIndex": 2,
+          "sentAtMs": 1793623270432,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498964,
+          "blockIndex": 31,
+          "totalTxInBlock": 286,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
+        },
+        {
+          "signature": "5iKhp9GVDY3HncqLkvYrQcuCyWvWzXRZrV6rYirojYLAG4nRYxnMhCNUUvLGjsz3iQjzuDNMergvfdqKCAHemJfU",
+          "computeUnitPrice": 50000,
+          "sendIndex": 6,
+          "sentAtMs": 1793623270448,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498960,
+          "blockIndex": 211,
+          "totalTxInBlock": 268,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
+        },
+        {
+          "signature": "5JevsKraNofhHRduGho8aHna9cke85GJAk5i9p64SjvZxvsByvrsVhkaPB9kKRHQ9xNRYt5WLEyGgN4UAVD4U3iB",
+          "computeUnitPrice": 100000,
+          "sendIndex": 7,
+          "sentAtMs": 1793623270521,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498961,
+          "blockIndex": 12,
+          "totalTxInBlock": 375,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
+        },
+        {
+          "signature": "3MaTwrmsYp57HrETb9rG2MKZrRpMufcNedheUH4BGsbghTHoUGDr2X9F892MXoXtyNm4wFzqN9VvTqHUJAMPSvAA",
+          "computeUnitPrice": 250000,
+          "sendIndex": 5,
+          "sentAtMs": 1793623271116,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498963,
+          "blockIndex": 219,
+          "totalTxInBlock": 305,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
+        },
+        {
+          "signature": "GougXiZpZ2QDNVE73jXv2S2AJGRqwotbZLHfuHqbbReZpxq9oJtHtUXp5mLMXM3snLcEqHi55j2VTNfaifAqqpR",
+          "computeUnitPrice": 500000,
+          "sendIndex": 4,
+          "sentAtMs": 1793623270521,
+          "sentAtSlot": 464498958,
+          "landed": true,
+          "slot": 464498964,
+          "blockIndex": 30,
+          "totalTxInBlock": 286,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
+        }
+      ],
+      "landedCount": 8,
       "sentCount": 8
     },
     {
@@ -384,371 +1435,79 @@
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464485212,
-        464485213,
-        464485214,
-        464485215
+        464498980,
+        464498981,
+        464498982,
+        464498983
       ],
       "landed": [
         {
-          "signature": "5KyXUANGm2NcCAYurVKns6UiAK9jcmHJeTKZpX99ZH39DULsEPHK5FN8k92dQFHk6E8ieQJuu4ccZD6PBYZMStc7",
+          "signature": "2Eztzye4XvCBinfDhMEuBWomkg5Wae4Tn1da58jVBvaGUjagES7k1jZ8VvqtD7dtNti9gdacs8qiMt1JMnTWWSaw",
           "computeUnitPrice": 0,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "65QbY4LrLVUuS3UYmEXKahyHEr44FoRrqPen67L28KTL6GwDsMj5rbfrVXYVwBM7P3wnVcywnvzHdZV7hYPJQEmK",
+          "signature": "7ej6DtRbfiYGyEWfmyPdn3MFyLwZBrZ1PiYowXzxDiuJMDehSdnZh23VoTXMRBhyzGKcywbWYPhA7E1edyT46D6",
           "computeUnitPrice": 1000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "4y8o5UdnZc9rdnZmA4yUabQodgpJWpZbvMvRe5bGKKatSrFE2As2nXpNdZXb4ZbNYPHcwLyFFFBwGzTiYv7R2MAB",
+          "signature": "44zfbjEjJJ4qh5rCLQqSBf2bW8TgMc3iwgUZrZsakeWFuRrBd5YFGeeRL1byEQTNLd5Dxyne389pgK7xrSfFadG3",
           "computeUnitPrice": 5000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "4FBXHGaHy6yS3Y917nwGHHE9PWWsPJAuWmqPAfH7mxNrSCdC9wDoQ2XrZcaZXz3UvS6F1eidCJah34aLs8CiRTBh",
+          "signature": "3dwopnazaUqUkq13kMFrVE9v9DJRLJpxbGcANwTuijyHjtYyhGGWr2FZr4jxh5abcDx4dS634hMu76PRhgzFgBFX",
           "computeUnitPrice": 20000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "4ukJpWcwcwCFqGA9kRUFoZZ436yATAztEDDQirmGFMT16u3TgbhBjeU2KN5KHDwcfDnvacYk2pFBqcpazPLX2mku",
+          "signature": "5Kw5wwxpBqios2rSwtsaPQMZwCoAyzTtuKCrnSw8Z4EGSPc24YcuugfzLv4rwARH1iKYcJZjyssefwpiLC5A87k6",
           "computeUnitPrice": 50000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "3yTgyZNhhBRJfDWv4XgX1LZW13LHC2YmkqhTcmoerg9ts5t2ENtCB1u67JXnBCCV9HhEwrt28rkivLeprsSjxLVt",
+          "signature": "36HJyLhahVecP4r9k3JcEF5mDrbBqGfkR1U4q17Fngehx8teGPyzrXHrPcGNsSWWcWNBRQWn2YR7Tw5C1XcU9WMU",
           "computeUnitPrice": 100000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "4xRCUpuXGSM6NR7BkA1rKrVVL8iNYy4kE4a47kv9Qb9oDLFhNttcRhdpZHSZ4w2dTWs18bgsFJ1Lbh3NiQNBUgQZ",
+          "signature": "3GcGzqNTKYR6EUmDoY5n2CzsE6CAD5gikmk1SwWnQaK7h4oHbTNvw5pqXJy5TyV78MLsYgxW3NEeN6FJJmL2qZxg",
           "computeUnitPrice": 250000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         },
         {
-          "signature": "62ZXRvDdofy5TAnrDiTimB2WZg7cvZXxZMWhgaA9VEAn3M2jV3wgEhWA3hB6szxpQac5u6wYwAvDZB9B2AMc6RZi",
+          "signature": "45fAM9JonBAcKykX3TtjkWthuBUtyTBokJgF33hBFFVeKxWdkEebi1kZbzfwxjn6mEMg4kjzpNNZR8RAMdjYSMck",
           "computeUnitPrice": 500000,
+          "sendIndex": null,
           "sentAtMs": null,
           "sentAtSlot": null,
           "landed": false
         }
       ],
       "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
-      "client": {
-        "client": "JitoLabs",
-        "family": "JitoLabs",
-        "version": "4.4.0",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485220,
-        464485221,
-        464485222,
-        464485223
-      ],
-      "landed": [
-        {
-          "signature": "4TDfvth5dyFhkxduWaFT7Ass5oxFkYRNdd31hsa57uSDEMAmrARcV6gACJZVeHxnK9GLf76hWDS3ij2DWHWMyAme",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5ornB67o7Wh34SJYFQ9coPWX93to1rdiAzdrUgygnS58RgT4yvZ8EQGsdXUpJEVeYZUSe7obFcNBkPJDC5kyfXqg",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4ffzqVzK281ZfHFttpWD6CyrLHUuwD7RBMjRufiF7BoPFA3KpkUtmENcixwyGEciUX8tAMfCpcwoKyeitgyqYp2M",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5onsV2WvgbYKdnvcYcmn5RcKiYwUVHJ9DjqDBuQwp35rTetKLmXMT6Vww714RXrNEMaonPjqYuUfqHuwBYq6eW1U",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2cF6X7i3tVzGw5q5LLNjKFwW8ZupH64R6K8qniJvH7WeMauYHbcyRBP34tdomN6fCzE8PHZUmtQRzaZbkfEqZbTv",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "25eN2uvciR9an4Cr7gnmUQ6zKcwmT5zwB8kFirec5SRE69vJ6YJrrUZtkG54N2hzkR57HSaqTjB5zmNtX2gmeBGJ",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4musDGawmbwkzgQucVB71ccjKoTrzxuLh7mnEtUgxdpwwtbJngst1Y7qRRECn4iqb9jmSdS731GyPVF2q2jvXgEV",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "57RsqQBVBvuJUrms78PiQgFrdQ4Kmm5tsePVSdFcz8SZL1jCfnApAEwTAaJhaYvbmV72cctDj9kMahfFALMJE9qi",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
-      "client": {
-        "client": "JitoLabs",
-        "family": "JitoLabs",
-        "version": "4.4.0",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485248,
-        464485249,
-        464485250,
-        464485251
-      ],
-      "landed": [
-        {
-          "signature": "4VZs1toYDH8hFEzTzCqjrN34ozetuu1sgaPa39ho3MYwbZFnGfA2zAt3A1LBFttY4fsMtMtU9PZTWFS6cNvqGD7",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "64yh4Y14cNHhtscwmj48wVqyntKDV7a8R2wjd72kDunRAh9BmUWntUZC5nND72mWnBpZSB7PVpzR8f3BNPptvCaf",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4e4MkXNMQdnm7gtkyn85Ce9Z3cAjk3FczjQrixdx556BqW6SShfkNSqoUCZSVWMvSAJ2ByvVB2811N9jW7tQq4DM",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5t2spcyCpJRGxXToFUyLuPRoRgnQfX3XMikXt92MLf7pbMQJTkyhCiyqzQLuJN8ZVsJoAJot7TKZkmn9pFHi8YXw",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "s2KGUhr8mQvWixnMzmbr6BQwwAigu1zNs9wW2EJ43gmNtKqNvCQJmbQWnCToBs7SfMufSW54za67NYgxYYQJDtC",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4YxETrfAmi1gt84izsGG3Wm9ng64NxM5EKiWV5fzhbx6hqjHpyr8nS1x9eej7AHq89QuoJDGr1dKYPBNvJFDZyDx",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5PWvs3rCczNyBtGaK5E36HDqJ4uNgQT1hqQA9c8yo5Wp4qdFwehDjDv2j7gxPHk9LMx1Nt9d8svWxTfnC4v2uQhe",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "37DCiZuUsoWziCZ6RSSqrbAGvZBUoiVKLCdMvQ1VQkjqz8NNysuzAf4sC3WzR5immd98g3ZCzVjhw7mhPYCc739x",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
-      "client": {
-        "client": "HarmonicAgave",
-        "family": "HarmonicAgave",
-        "version": "4.4.0",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485368,
-        464485369,
-        464485370,
-        464485371
-      ],
-      "landed": [
-        {
-          "signature": "124ekSnom2fFPM1G2qnfcggWh7Ud5kbbczwUpmwUZgjt3GtVQTwFzCRxY3gdHF6JaUjGBt72AQmMcafNfaNr9gpo",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5TcLmd4ocENQdB1BYoTTGazKqde7Siwsh5z74oE36NvN73ZroRqQCvax93LVF2skeH2bxc7AAU7aMWyC1MyXiiEE",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5xfmuWRBa7UfTpBniRfMtFjybNJtJZ3s1pVFDG9ruR1c7TZmvSeMii96URuD4iHuc6iTFAPD2ot4gyS8KZzwMZZc",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2xnZHF87x3Ry6TWbayG574TL5NWuvBUqwt2qjx9yzRpTMt7o21o4KL7X8EjQYt7VaV11Cnf1DBtZqwKpunFoK4JK",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4rieQN9CYFA2LkkE5pUuYyZtXPhgys6x4mDfunyxQFTQjSMSYGBZY8VVoYYzULncCHyuj2Uwzq1GKa1dZxmtJcTT",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "n3aEeCD9R8mpk8nsaL9ZQmM8Z6upCA4xQS9oUezC62zhtHPnDrwvYMWaXZ2ixZcGy7gVpjYhzC44MfDAsE72bjH",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "NXMqYxSukpQMvPotuofs8qLCDebNaaQXuE1ubsgzSbGNbQx3YqM2RiRTfaB73rw6gB8rYcYikFxNSvAa4R1kii9",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2USmnvMua3g5w9A16fXzR6BFa8smWC6Dvb6WrYUighansdyESANXQs6RPtFkSADKAe232xfHbWPCC2MmxjwoU5ML",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
-      "client": {
-        "client": "HarmonicAgave",
-        "family": "HarmonicAgave",
-        "version": "4.4.0",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485388,
-        464485389,
-        464485390,
-        464485391
-      ],
-      "landed": [
-        {
-          "signature": "2sw3s9Bz3gsApcZRE8pZ7yfw9Hpcm2SuGHemWCiddHnwAV4A9cfq1nN9NF56a7nd5CRtHYZZzjff4ZP9Y2yJ8zcj",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5xSBWnZbgh8Q7WE9N6ZA95iRjGn4XqAkWX2UbGa4MDPPrWJUEVhb4KxmDDMCf1fFV21roh7ogAUkMmqrzFg2zMT3",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5dC5hweZVcsvcFG74JqFPujfzrMCSA1kNQUZDZvbhym1vHvxYGWXRE637h9DF2GXWpShB3KnnzkDt65GcfKBvwnG",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5bswzGy19DDcSrRZYqNzCEjsRWe2AHdfQifvmtREwKNN1os5G11mKoHKh89toZUGfLqJeEp6QWg9scSva64DidPv",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5Rw6oz8ivUaZBC889oaR1WG6Vmz5TV4ZwKgM3pjwr97Dci3ezkKvBRZVRyGw987CFTKSu4BN8FL549HNxyXmXFnm",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3F5ZkbNnCpJoVi3BUoKQqoKpqPBhXyZhrYdcbUruXqsGYsBEBdetk8pWmm7rctV49X8VdgyQbPQnvwmeY5etZwW9",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5JEKu3Z9w7HoEoQvinJL4YKT6u61EjjUxhbQRD196EKcRBPHBUV1UiA3iMxqyLq1cPCaNvNQVoW9KQvdru4d4ZR6",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4WCFKt6igzMTBrLaNDc69bqEQscmXNjVF1ut1Qn9jecQzXQHkku6U7nQ7XB4s3fKdputNn9N2qEtmjvX69AFvr4j",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
+      "sentCount": 0
     },
     {
       "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
@@ -759,370 +1518,158 @@
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464485744,
-        464485745,
-        464485746,
-        464485747
+        464499152,
+        464499153,
+        464499154,
+        464499155
       ],
       "landed": [
         {
-          "signature": "5avg3oWyyWJKbDQkFpqwim5rXsVL1cfsUyAt2oVxygFQoMSkS5k8RSUs3wSNmLFSyPkNHjNBh74ykT6JuQsdcEC1",
+          "signature": "4z4BgQ6z16cCfQRdEYp3aDARcgWd1JXMeLdFMUTY8opsBYimXV47JYxHuretmP9N5YyhSemJgp5SmuDvq3QH6Rgo",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 4,
+          "sentAtMs": 1793623311334,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499160,
+          "blockIndex": 251,
+          "totalTxInBlock": 362,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
         },
         {
-          "signature": "55C3jn6KspoyQXgkxjddwyWdjtpkntP3VS5tt9LvqyLcAHoEnhKzxeow9frZagmjuR6U22iELXxNhFuZHsLrutQN",
+          "signature": "5Tu7K52XtYHBsW3q46u1ErscTudBh6etquvz84V1XJbqXzhPddAQtnGFatkWNVERKwUmXWwDiaDVCzaKfCpXn818",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 7,
+          "sentAtMs": 1793623311337,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499160,
+          "blockIndex": 254,
+          "totalTxInBlock": 362,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
         },
         {
-          "signature": "3FYNCL79BbCbKmE8dLtwzFgeECRzqgv7kYwgCkgZGbwjP3LaF8bzueAC4ogT6xeUqJBrWoJN97u2FFXb8AtjYoc",
+          "signature": "2PvEHVa8DNbNU8YHahP49RCaQeJrzKHRCT68KMoKnZvWB9MtWmD3PjPhP7Jpe9EgZRRP6GxBNma8DJeyRUdrJFr5",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 2,
+          "sentAtMs": 1793623311331,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499156,
+          "blockIndex": 109,
+          "totalTxInBlock": 369,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
         },
         {
-          "signature": "3YLtWQZkmvbXhBMCdcZdpUbZKfSsairvPAu9ANNr9UkAzQgR7fRVfhDTYua692ZYmWu8bpWtLfXy6fDJxGD8SqKb",
+          "signature": "zvSaYeGCgqoq2VjqVxBXPJhGWTAdg5bq994FDNSuDcUbaWG8e9ADUaZTCdAoHARQmk6NANUoGdUPtRr4G1PpUUX",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623311404,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499160,
+          "blockIndex": 262,
+          "totalTxInBlock": 362,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
         },
         {
-          "signature": "5yCT8pEDyrYVDkgSMVeyh431LbqWNRATU8dnjFW1hCgv6dQFfW3s3r3dj5pMYKhj5mrFXNmpHSPy9xQZwb2yPUAf",
+          "signature": "2HKb4B4rBQ5WHqG5XSTQB2pxfwZvGt3G69hF8bn4MLQvUwkQV9Q3s4Ay6i3aYo5xgdcc4UUiGE6jt32phg4nRJR2",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623311404,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499156,
+          "blockIndex": 349,
+          "totalTxInBlock": 369,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "4Aukw46iePGYSfgW7x4EqknUPfByBGiUmgCMaAfvF9Mnmi6dSDwg2MtApQw7wj6UtzQdn5RA63oHxSPUvjhzCeeh",
+          "signature": "4uL5VAkTweSCvmfYZd1TEPLQehNaAHssehoxTsJcuZ3XkbbABeR3z5JKRsSavQgzcg9TfZrpYcGEpHfPjwZgSbLY",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 0,
+          "sentAtMs": 1793623311267,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499156,
+          "blockIndex": 106,
+          "totalTxInBlock": 369,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         },
         {
-          "signature": "2bSbSmrPP3fWBXtVRZMBQMi8CmRogMUJx3yCwEUsWPfgaNpWXXQDi6LQXeTXq27sQGchCNk6TmBJYBZvMRXk1FtC",
+          "signature": "47ygsraqUR8Nx4XCtoWH8Fn9A2oNes2UFw75D79Tg6UBW3GX5duk3kDmTjn47uER32VxhanNVeusENAzkaQa7NJX",
           "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 1,
+          "sentAtMs": 1793623311331,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499156,
+          "blockIndex": 107,
+          "totalTxInBlock": 369,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "2iAro9vgfD184U8pLhvQaRLJhUrCQ3iX4f44FqbMKvtxVuitcEG3H9WKYb1R2HZtUioTZ4ADDTdvMyDnfbkMaNwE",
+          "signature": "5vBPDCJVkivj3FiQF9FoPbyp1xf59XNAx48QA1ABRF6F31k1DsG9U7HYspDCvUPTznomichjqdD1gqZmdFDPN5fz",
           "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 6,
+          "sentAtMs": 1793623311404,
+          "sentAtSlot": 464499150,
+          "landed": true,
+          "slot": 464499160,
+          "blockIndex": 265,
+          "totalTxInBlock": 362,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
         }
       ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
-      "client": {
-        "client": "FireBAM",
-        "family": "FireBAM",
-        "version": "26.10.5",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485764,
-        464485765,
-        464485766,
-        464485767
-      ],
-      "landed": [
-        {
-          "signature": "5vpR1yXqejXHpmwpA7EAvf6UVc6PD6UjLdCr2mkCtZfrsg1w2gLwk99ifuEhd4XppniT9FDDVJ4DrKpqKQhckM3X",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "mtW8VQLuXVQsCokk9HjJKVzEPRk7eiYGbehbDB6ptoKHmxjF7bx2aSSN3EeJb8Ge72si8A5JSRF9ruA6iQZxgkR",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "349AQ3ZZmQ2a6A4DHyzLoTsuX9nZ4HCHpWW3stxnR8rQiFfNQDCF2p398F1pJDHXn2N1v5dbyoWQ9icZrwG32bjH",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4A6oFgfVEKFkwo6RFAsweb76M8G2ppoGeK3ZhYQJSPf7jXLxJv1uVhbYCMAFV3LSJ3QzPi5zAUvGCSDaHpTUbnWZ",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5nNNfj7MD1VswMY5L3e44rejAKvmGFjy6DaJiXdn1JjD3UakecNBuyY55mvfq1DNKC1aH1vBiqJJ91CnJ9CsvqZy",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "9TiXoK8zHEmLvPg23D9fjnSnWpBZKetx2sNdWA4SX6msQzKpAKXdzxStNuScoUomxk5QG3N2aL2nuuucVn9e6Bk",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "enDukcQkoDK4rkrmpR8EiJqobnwNscpTdyuvsV8Cwr8JDSrupnMx36kCKkX9rsjMegxY8X78oPaZYcHPGUds4yz",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2mjrDFFxYVm79ugGQEzUvh4AKJtLYfhyYnEjo6KPV3Fs2oLXgz4Ce9Wz7wdwaq7Ug3EmPZFDPrDkn2o4ykVfWVbv",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
-      "client": {
-        "client": "FireBAM",
-        "family": "FireBAM",
-        "version": "26.10.5",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485784,
-        464485785,
-        464485786,
-        464485787
-      ],
-      "landed": [
-        {
-          "signature": "4qnv7TCcJtBHwjZfvCZHKnrQJMBEFuUvLmkD6DnPk2ojt66Vc6jNekiNTzLNzvET3UEaFk5GjwW2MA1xQJy26iaj",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "42tCyR79s1Jb9RPjfoLZPfj6DCmtZCesmThxyW32VN5c32egv7FrML7rEUXYUvVHbUeJZTvjwxBWoET5xcaLdpSD",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3YNYtE11VezaHT6R1azPHjBDzk2MBug8V6DC4cAvP9LJ4wM3esRzgpSyUWJ3Q24E24iiD18iqTkoqc9tsu52zFMD",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5biVCwF9AnPEYf2PsVU6ENFg3rDQkZmxEAUfW71uRyJ2PfiJ5JkmcQ2eRFMFkQR2eWaoGV9tggGLmragp1ZJuL44",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4QvSFKLFNi4k4mSJG9rwM5t2UnNUgbCMQopRqQKUaWYnBM8V7DjCajogw5M3JXnJYgTggUD63nFAGaSizH4Q9rEV",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "cEp3AB8Jwfge9BQkhDBwyqMk4CNEhowfTUwx6fxp46MBL6FWSwDQkF6R46LwZf2qK1QnbuBCJ324hf5ipDNLhwg",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "24qfz2gLFaWhWny7s3nRJgM1X1JbbETNZUpCimaXVep1ABcwFYXa3USfQqCBKCNvayQT3xB74cuL5BkrU47aF3Vp",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4JMYk8Qx7hkcKDsfko5rjihSGo8WMnS9m1MFtab6dG9i3tzXDes6A7pEv515vLxEnVMRg9S1NLf1AeXiuxC14DdN",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
-      "client": {
-        "client": "Firedancer",
-        "family": "Firedancer",
-        "version": "26.10.5",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485824,
-        464485825,
-        464485826,
-        464485827
-      ],
-      "landed": [
-        {
-          "signature": "3jGhX4Hqj5syRyXB3gsirG31UGTdpafFvUuVkiWrUYrDy4Ro5tyiehh9fbzt2WA1XLLXcF8E8jHrCniz5WaSHiLD",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "64zp1dDoRpuN7LNkDBq84eej9Mga93BKTvatUdrPSh8fytFDdgkCto897sj4pCbimWpKkbDap2Y1WBc2eNuTXj7w",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4cDjxyiw6qM2ZK786Feb58XugompsSvUQT6dqq4tgR5svUEHurvbuxxivc9fpWtnXTL9VKonaXiue8nXB8qsMCoB",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2rEXktr6mRYgEzBsbebjmdH7zyNJrnePpHnq1bh97iCJWnPWmE7YJNRKGkoTNYwK4tYe4vJgHkNa2SU5r7TsuHB2",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2zsbDJeskPW1cHmmjHXVDRFrxn9AkxZ3yV4q932TmyyoWYyZ4BLEzTkXfSET3ijZamNmWvZpwUhTCYoexKj5zwv6",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3Loc7NBcncQHmXbQGg8h2yJTU4mTUxaEWqaUkA8yDJaKS9SkTAGT1WfcixC6TEic1hYPtpkC2PUvMQPXrvfdhrUC",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2xPe6WSw9PNEXe4XA3HtDY8269UZBKYd6zbP9k5zLsFbPeW2Vmb8XiWGud8GNB88Czg1nGLDJr8QVupoTfgtRqwu",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3mHcfMYdi5SiNYjr19maJH6nmQda42x9Ubbkg28eeBJz7mxUduY9foXBB7rRJFSrqqc4EVKH73E57AyS85shdu96",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
-      "sentCount": 8
-    },
-    {
-      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
-      "client": {
-        "client": "FireBAM",
-        "family": "FireBAM",
-        "version": "26.10.5",
-        "source": "gossip-clientId"
-      },
-      "windowSlots": [
-        464485888,
-        464485889,
-        464485890,
-        464485891
-      ],
-      "landed": [
-        {
-          "signature": "rE7rMYCSaN3tkFT1oSGyoXoz91rfzS4guaBzALSWK739hzVKi9TDZjkpy5rvsuEHfj2C4MjkV6AFXkGjppUBYnM",
-          "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "4vuJMASNsP9MdeqGh7xsJqL7kmFcLVBz3NkSbvfVmZVWjdVCUR8VSghGhM9p34RpAMPkz7sqffyBtM7cmqRJQ8nz",
-          "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3GXJLL72sfE3CP48GcbHuAjqhUXFyAdMvPxrrWDDu4yyrgyqepKd6qKKHrb5bJGfL4kfCvW7cbYoyApspzHK1Rff",
-          "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5wKAQ4fCFqhWZRHd1gR2xLUXHCzueeJukiHgMYqbGwdRptGB9f4Sfutu3MfH1qpLWzLvsXZgP8rP1JZZrvdoXwtF",
-          "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "5CuaThHVkEma2CxGmH449YiW7BADGrPMbdDVV2r9uuFBi1XUjst5AMxbqDxXNJgSwSdkCfASXuHdZS3TTgcKbt8t",
-          "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "3HEW7iB4k3boi7gFSZa3pm4RzaddPSMGwHmkd1F3HAff9dvPdtj45aifQUcGQEHu9EdrCsEWJVhmJD73RqSVPgbD",
-          "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "n8F2U7qhrxkZRmESVnDBPMZCGssNb5SV6P7YDwpzk6jsqd7hHGRKiMqgS2vKT5TDhBAZ8fGsEwwNZro75UV8NiP",
-          "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        },
-        {
-          "signature": "2u8dXndaWnWw6m1d1zjG1HUCDCrKxpVjLsByzESpM99A21KEm7XGcdwt1HMQQWwVJYkxUUUgkRXUEdSg5VzYLBTo",
-          "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
-        }
-      ],
-      "landedCount": 0,
+      "landedCount": 8,
       "sentCount": 8
     },
     {
@@ -1134,70 +1681,158 @@
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464486416,
-        464486417,
-        464486418,
-        464486419
+        464499456,
+        464499457,
+        464499458,
+        464499459
       ],
       "landed": [
         {
-          "signature": "3wsKsuVdvHmdyPCf14qgKQCd3siLGF8CKbvsBsLMrdbcuqDc7Eh2FKUHmFmzPMSeFc5Ag61mmuyWHUtmrWFCE9tV",
+          "signature": "31KYG6XZGGj5Jks2ZZk4P4oQLN6ifk5HwtZaFnJgmcj5hDLx1W5DCHqjXUbexXFwfA4xTgfUNfHdXTvNEpf1acgP",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 0,
+          "sentAtMs": 1793623377672,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 61,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         },
         {
-          "signature": "61kH5A8SBJk4jKJjf8Zka3vTJtoMBfTwCBMA1VvAjXoDL3NCB33cYzKw13RW4PvFRNfeSEdfcw3ePTLpXmtFWmaN",
+          "signature": "LcqGDCejMYzwX8kXkMfpGD39MGvBiGyrnLAWEcgVTafG9yGwwUzTZyq2pp6azNNdTyJu6pEGLhAdCzptZiH9HsD",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 7,
+          "sentAtMs": 1793623377749,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 255,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
         },
         {
-          "signature": "qgFTMqZirL5Jc2MMMcVpe5SMDgp7n3QaVXj8inWRTxyQffpDmqzCm3WufW7nnm59rkWBg8jwszUXykNPFqRemJu",
+          "signature": "2hMGeKCZfHhVysKwJmUeJMLuKdc2MoR7CctfZbWSa69JPMcck1i9VUPdADerZbVzgnQbyHDUUaTTzdJeFRPpwLKb",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 2,
+          "sentAtMs": 1793623377742,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 234,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "BG8ubuSCZrNzBV5uaoAbJfLUgxjFWb87o5GQx36jGAVJtSZP9PUoRFCtR83MwKHLUsVAVHAxNd3N2N7zhAwo1wM",
+          "signature": "3KKpB6qWoWvkAQp5QDjhoHH1FbvvbZw66WU6XhE3Ey56eWhXEADaLe7QXhjDe94JSdF3YxgboXm8Vva7wwUPVZsU",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 1,
+          "sentAtMs": 1793623377731,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 182,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "3YWtN83cf77N3uur9KeiX4p6TLWhVraH5aA1g79VYefN5rgqycLVrvRbrpnU8ZzgpXt2GdTKDqaPjdqCSUnvBhrA",
+          "signature": "5NbDwKUxzkT7iKZveN3wv3u8b6SF7BkLJ4dxEEbYP8bxmAfHwJ8tLremt9qowWyfEJCNG8cNS7RU913bNs1qtBp9",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 4,
+          "sentAtMs": 1793623377734,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 201,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
         },
         {
-          "signature": "9vpkcqqqvizSE6YQaFXv6vM23cAkSbbcBfPVqre7rjtHtLUZGg47pcPchj3pj5zxdpdkJkomXvQmFrKKE1R9tg6",
+          "signature": "4kp8pyaQ62RzNkSxJyginGAeeokJkgqXB3okAb6sCwREnUdRcRX5F3KfnU5piHFyQGKQVZPCVpjMwTDgrkJRFoTV",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623378370,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499459,
+          "blockIndex": 212,
+          "totalTxInBlock": 275,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
         },
         {
-          "signature": "3ULzujBZaWUGfxY19wUx3LgDjrWaAGU1XqnFEJBt3NXpaW5gxtxgNXtin8bG1sTqxd6HLqRYLwmday2sYpdcdGZZ",
+          "signature": "3Raq4Azdtx5W1Ne3sAKaf2e5BLrk3kP9LvWys8XL219CjvwLNx9429jYehnbWkJTUNjzk8ytGjTb6p4tGCVo5LY",
           "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623377743,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 252,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
         },
         {
-          "signature": "2DM43cZMxyQ1k22GAxPXad3qYTd6UedpBNhYUUm4jZxsYD7N6JKAruxkbFrR9LHj9nBkm4vA4LT5aKrQJFXkVLM9",
+          "signature": "5hBttyQp2jBHosv8CPBfz18hnPjMQCgEcwhvbumAWYdW8pNKNUk4Rxho7b7SovmHoYCTgoTGYRf3XGTKc91yzszn",
           "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 6,
+          "sentAtMs": 1793623377749,
+          "sentAtSlot": 464499454,
+          "landed": true,
+          "slot": 464499456,
+          "blockIndex": 256,
+          "totalTxInBlock": 415,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
         }
       ],
-      "landedCount": 0,
+      "landedCount": 8,
       "sentCount": 8
     },
     {
@@ -1209,145 +1844,484 @@
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464488444,
-        464488445,
-        464488446,
-        464488447
+        464499840,
+        464499841,
+        464499842,
+        464499843
       ],
       "landed": [
         {
-          "signature": "5qmVUQtEqMohsRTtRpndXszkp6mUfsQTX1UsSaN9N9TzKQrvC5mN5rQvejvGU4ndG1WcUGAM74Cek5zsgZE88LAh",
+          "signature": "2ozciP7yusc96XroTxeqS7FUmK493cutET2HNEjDPmET8d2SSX4RvfrGQouz2wBryxUseYHAye71HbDJEKcGRqSH",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 6,
+          "sentAtMs": 1793623460198,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499840,
+          "blockIndex": 112,
+          "totalTxInBlock": 1140,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
         },
         {
-          "signature": "8FJBrT3JASNFcafUjuBbdWypZ9zbPz17sf3uhUhFQodEUDr8wu382LomXgiuWhaD6RuSiP6KrSiuzRoYeDkKuXt",
+          "signature": "3FnZ1vUT7uKGftTUHkmGGxdEPTLL5Dmbbr91jTQkfj7uVJMNzLxpGFn6CD5SE6gt8bwZHzS26fg5U7tXpPJwsBX7",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 2,
+          "sentAtMs": 1793623460197,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499840,
+          "blockIndex": 107,
+          "totalTxInBlock": 1140,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
         },
         {
-          "signature": "28Q1ESB8mbSw9LGpheY4N96gJBXZWvp21fM5HUuf9QJPdvQrE6euBsobdcvpjbE2PcqPaJP6bvRE9SiQiQ3P4fL4",
+          "signature": "2Fa3jdTTLQe1b83NfyfQMHkRJwFmB6SeSjRrWzEqnAP2T9g8QvvAdM4VSWs1KHGEuaANbbC9oj5jJWadqin9RhkA",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 1,
+          "sentAtMs": 1793623460200,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499840,
+          "blockIndex": 111,
+          "totalTxInBlock": 1140,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
         },
         {
-          "signature": "5hzqioyJg5DEyWbg4Ha2ytv8fXzvkr9sWotegu1rquhkqpXjQpYBZJWbBX2vHD3QEVjAbVXWR6zskysPD4hCvvNP",
+          "signature": "EdVCBM8HgLPc9BeocRygfaxhX3r9zKtdV8ALjLomtThJAyGPDp8PNtb5gWXSqDpRMBVZN4EtxGEWfjMrcdThwfu",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623460195,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499840,
+          "blockIndex": 106,
+          "totalTxInBlock": 1140,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "4c7HW8HkrPFwLarykdWk1hDsaWF8cXxxwDs62k3Etqw5URFxVQsRXJGKxNjevpNxuYpDFxm5J8AVRwBs4ZPP49pk",
+          "signature": "5SNa4T9KLfD5n3AJtM2kRoAyPxzmKNka82ubThNcgPixA7NMYc6H4mDsBvnLwrrS1w3qajGChi4jVMhxckwbaeM4",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 4,
+          "sentAtMs": 1793623460200,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499840,
+          "blockIndex": 110,
+          "totalTxInBlock": 1140,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
         },
         {
-          "signature": "2SFKQJiL3e5fE5HzrijzknB6q5Aiv1ZAhNvYqmnet1nhHC12qyE8mSnCMniiQbdoxc9vznoRTJSDFYNKAacKugpE",
+          "signature": "5xpDbsE8tDA4mtgSw956fjUNFx9mvoyijNdCnahoBQiEedKuHbS679qFT14yCgQVAFwo9zyfk9MuMFwB1M8sYxE2",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 7,
+          "sentAtMs": 1793623460205,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499840,
+          "blockIndex": 109,
+          "totalTxInBlock": 1140,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "mBQD6zJZnDJr5CZDJUM9YRS4d6DXQxkxnLWvouk5wDN42p36cChJ5FRrdFejp7aZUWbsCDT3fk2ZXr1DRGJosFv",
+          "signature": "4LUBZKd48AP9NEBxsb9QxpenYCpvmiQpDtwBGhYLogByUu2kwgoHymkGzNPD5CJNMr8AQpxV8ft8HwzXSt5ZeRqy",
           "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 0,
+          "sentAtMs": 1793623460127,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499839,
+          "blockIndex": 390,
+          "totalTxInBlock": 391,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         },
         {
-          "signature": "3ehb1YyGxDXKRbJ7KmrtK3qcD3bXxPnaz6wNJpoqur6geuagUgYVpCxsYVLdZCpZjzgBj1ShfjmnL4J1rQkebA9v",
+          "signature": "diSd6MRJW4i3Nf2LdoeoEQ8KqqZSn7zmrZuArqSFJ1JKuQD4dK5oKCaU62nmVfZCyE4qZp89Yydg2m9U58yxa2v",
           "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623460195,
+          "sentAtSlot": 464499838,
+          "landed": true,
+          "slot": 464499844,
+          "blockIndex": 749,
+          "totalTxInBlock": 766,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
         }
       ],
-      "landedCount": 0,
+      "landedCount": 8,
       "sentCount": 8
     },
     {
-      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
       "client": {
-        "client": "Agave",
-        "family": "Agave",
-        "version": "4.3.2",
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
         "source": "gossip-clientId"
       },
       "windowSlots": [
-        464488524,
-        464488525,
-        464488526,
-        464488527
+        464499892,
+        464499893,
+        464499894,
+        464499895
       ],
       "landed": [
         {
-          "signature": "4cidax2GgV6HKqyJ1BoSh4v58LjZAj4S1V2CRnRmExPeN6puNpxc1vfCcTBbYuerKe3oRCg7VQXadBsAAb9PjyUT",
+          "signature": "36WKe34ZefShozpg4qr4XER8uWUTEZmuUFwX57ijwGvgZXm6Z3cRbdDvtqjQwoM4NRVi8mBGpt2mLjqo468h2rwT",
           "computeUnitPrice": 0,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 6,
+          "sentAtMs": 1793623475056,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499910,
+          "blockIndex": 408,
+          "totalTxInBlock": 525,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
         },
         {
-          "signature": "4Big9xCN8zD6n7HSkUfopPNEkLYEFQzfE3fSYyEtUMJLPVFXeYpWzMYSCpKQTGU2UkmJ5o4DAh63iXZ399ZRsvhz",
+          "signature": "2akheGFwZYBNtDZmM5Zt5wrZWMiEQ9eRgkRDQgBwVpZQsKpDpQ6pzAyQsb9xEbhTjUejiCDZgoQesNa2fdqu1NSe",
           "computeUnitPrice": 1000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 2,
+          "sentAtMs": 1793623471333,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499892,
+          "blockIndex": 192,
+          "totalTxInBlock": 445,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
         },
         {
-          "signature": "4vzC5onijoKAkHaEntnvnptCrHReSviKLgk7e5vi4cF3Khj9qznnBojpPAnzeGTfbKyF2Pa3Y67HXPoMQYHtiWEo",
+          "signature": "5sBRrGjmMwaZwFbd8CG86LgSzPxoUpjiTwoZTyK36e7ScQVdLAzZsnWbnfyEakGbBmjVHCaHj8efnTomhhtibUsh",
           "computeUnitPrice": 5000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 0,
+          "sentAtMs": 1793623471266,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499892,
+          "blockIndex": 65,
+          "totalTxInBlock": 445,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
         },
         {
-          "signature": "7eB9JP2m9RG68W1i2B4mZ7iR55NkPraD5y7ZGEhYUA5cbBbZntCEdnP5WsLKveHS5ogULRjvkNhwNK4EVKyF3Uz",
+          "signature": "RAkbsfEmL9xvKYZCmZR7HA7eBLtkeJpF9gzjZE5snKL2TRB73qmCiiLwdEJJLNeDqNe66HH9QhjN7YZdT8CZoTS",
           "computeUnitPrice": 20000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 1,
+          "sentAtMs": 1793623471271,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499892,
+          "blockIndex": 64,
+          "totalTxInBlock": 445,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
         },
         {
-          "signature": "bkopf23ExWSarkuqjKr2Uz2vYwQeNe5xQdtpcuvjsp8wMuZTJznYNpjsw2rsJejsVpzQUgXex2QBC1cPcRY6QZP",
+          "signature": "42heiN9vKMe8Mhc59sN8LBETEFGpcVAmhg9PmSohc4F3CDQh2WtNKz9bw2Zymku274hK8A9Fe9v7cwDSeDzvGR9K",
           "computeUnitPrice": 50000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 7,
+          "sentAtMs": 1793623472034,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499895,
+          "blockIndex": 354,
+          "totalTxInBlock": 383,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
         },
         {
-          "signature": "2ehwviYpMHTujkUArGZVmDKYUuAogvJgw7ToYeAVY6xp8nU2hSEK84CmYH1KjbzXBnsvcc7XDvnKo18GgmAWRfv6",
+          "signature": "3DjheKnNAaSgT6FMZoRerw3AthSS9F4iTC3Uo5LnFKn3q243SxD9dbLutqaLWKfR5VGyx8qgbeMVFp9eDvmV2H64",
           "computeUnitPrice": 100000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 4,
+          "sentAtMs": 1793623472972,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499901,
+          "blockIndex": 283,
+          "totalTxInBlock": 383,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
         },
         {
-          "signature": "GMcR5kQqAenAsU1R1wq9kYbV3nrKhSgs8bMpQygFBJfc8g96z1ugCgAw1GsYoF4JWBabtrwueDgHqmza8dpd4rk",
+          "signature": "H6eH5b95Z2v9kaKoPtXnhWbevXHsLSDXHzSGfehpb1ELjFFTn4comHiNFmhz1s3gd8p7UwcCEEBsAV1C4p9xaas",
           "computeUnitPrice": 250000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 5,
+          "sentAtMs": 1793623475107,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499911,
+          "blockIndex": 84,
+          "totalTxInBlock": 705,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
         },
         {
-          "signature": "5XqBBai6PvjEmG7So5DUm4fB8imR3t3BRFrHuXNmGxZnSWfRpM6R8Te3E28c2HftL52b1Q7eDoUFccN1kdQTVK8J",
+          "signature": "595T7vPDAyXfdnpp4vJw7kWMBvFaaQKczzxtXZFB2gptbgPgKmJFM8Rfi5ZFk3yhAViUf95ar5JfkjLQ4PSJMTM4",
           "computeUnitPrice": 500000,
-          "sentAtMs": null,
-          "sentAtSlot": null,
-          "landed": false
+          "sendIndex": 3,
+          "sentAtMs": 1793623471333,
+          "sentAtSlot": 464499890,
+          "landed": true,
+          "slot": 464499892,
+          "blockIndex": 56,
+          "totalTxInBlock": 445,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
         }
       ],
-      "landedCount": 0,
+      "landedCount": 8,
+      "sentCount": 8
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464499952,
+        464499953,
+        464499954,
+        464499955
+      ],
+      "landed": [
+        {
+          "signature": "5h5q6vdPX57wDk2MB6Mjx2qHXkeesrzcJRsrNFYzQjjN6Yobu2uTF15L2KV2MyJkVtRUmtDaa8dPGbKMS8sTvxkd",
+          "computeUnitPrice": 0,
+          "sendIndex": 1,
+          "sentAtMs": 1793623484155,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499952,
+          "blockIndex": 68,
+          "totalTxInBlock": 367,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 2
+        },
+        {
+          "signature": "3vRpjpxtV34Gv1RoBnRJTQiafjZGiANruExahoGYPVidb9SAvPvkDTkL6QQedP6XoZgWftcy5Zckp8YGPPTT3roG",
+          "computeUnitPrice": 1000,
+          "sendIndex": 6,
+          "sentAtMs": 1793623484961,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499965,
+          "blockIndex": 228,
+          "totalTxInBlock": 330,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 3
+        },
+        {
+          "signature": "2NE1RKe2fRuYxJWkeyCvjzTJfzjoG8uY74NmQppGMekBKcysTSMNoc2gWL5a5uuUrG2aEVf1ePWfNvy8U5vM3kX2",
+          "computeUnitPrice": 5000,
+          "sendIndex": 0,
+          "sentAtMs": 1793623484155,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499952,
+          "blockIndex": 67,
+          "totalTxInBlock": 367,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 1
+        },
+        {
+          "signature": "54HQrjUwHfNHSyPZPnJEJ4sR4UUXNr31SCgwb972ZHUncpJKGXFgPEvLxBtmbhKZshsVSdMSLTkYFTkoKdPVFfqd",
+          "computeUnitPrice": 20000,
+          "sendIndex": 5,
+          "sentAtMs": 1793623492242,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499989,
+          "blockIndex": 117,
+          "totalTxInBlock": 467,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 7
+        },
+        {
+          "signature": "KLm9MUNo3ZiP5L6UurbUr5bDNv82ZobSv7Su5s9qtXk7eiQ9gXwZq3ZoEqeoCs3rpaAx5aTenJEjKVYee13neXW",
+          "computeUnitPrice": 50000,
+          "sendIndex": 4,
+          "sentAtMs": 1793623487976,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499976,
+          "blockIndex": 31,
+          "totalTxInBlock": 322,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 6
+        },
+        {
+          "signature": "2kN4ykCBPCTowXnPNcoWh7bjLbJHLKjARQUA418Zd2EXxYWFHGkBXnC5bHk3AvHmdFe5xH93yuyvFoiGXJJHJtQa",
+          "computeUnitPrice": 100000,
+          "sendIndex": 2,
+          "sentAtMs": 1793623484155,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499952,
+          "blockIndex": 61,
+          "totalTxInBlock": 367,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 0
+        },
+        {
+          "signature": "L2omn3CT6YgqpfB4DSMrbzKoUi9uwmumtdxwLkasQuT4bDcfeKwsVBKcXmXkjkzaN89Q6sQzBufyasCYXJjK5wk",
+          "computeUnitPrice": 250000,
+          "sendIndex": 3,
+          "sentAtMs": 1793623485976,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499965,
+          "blockIndex": 229,
+          "totalTxInBlock": 330,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 4
+        },
+        {
+          "signature": "GGvtmPYTDJBWh1TVMXto7RQdwmRpa82JSNe9PLYPesnNxSkYw46n6md7Gw3tLw3BYFea2ok3gxgi5zroXPUFfRR",
+          "computeUnitPrice": 500000,
+          "sendIndex": 7,
+          "sentAtMs": 1793623488050,
+          "sentAtSlot": 464499950,
+          "landed": true,
+          "slot": 464499976,
+          "blockIndex": 29,
+          "totalTxInBlock": 322,
+          "err": {
+            "InstructionError": [
+              2,
+              "ProgramFailedToComplete"
+            ]
+          },
+          "rankAmongOurs": 5
+        }
+      ],
+      "landedCount": 8,
       "sentCount": 8
     }
   ]

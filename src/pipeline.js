@@ -18,6 +18,7 @@ const { fundSigners, sweepSigners, amountPerSigner } = require("./fund");
 const { collect } = require("./collector");
 const { analyze } = require("./analyze");
 const { buildReport } = require("./report");
+const { redactRpc } = require("./config");
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -71,7 +72,10 @@ async function buildCandidates(cfg, conn) {
     const node = nodes[identity] || null;
     const client = classify(identity, node, context);
     const allSlots = schedule[identity];
-    const windows = futureWindows(allSlots, info.absoluteSlot, slotsPerWindow, 8);
+    // Leave a few dozen seconds before the first window. Funding eight signers
+    // takes longer than eight slots, and a window that opens during funding is
+    // already gone.
+    const windows = futureWindows(allSlots, info.absoluteSlot, slotsPerWindow, 300);
     candidates.push({
       identity,
       node: node
@@ -137,8 +141,8 @@ async function runPlan(cfg) {
     selectionOk: selection.ok,
     selectionReason: selection.reason,
     families: selection.families,
-    rpcUrl: cfg.rpcUrl,
-    sendRpcUrl: cfg.sendRpcUrl,
+    rpcHost: redactRpc(cfg.rpcUrl),
+    sendRpcHost: redactRpc(cfg.sendRpcUrl),
     generatedAt: new Date().toISOString()
   };
 
@@ -180,15 +184,27 @@ async function runBuild(cfg) {
   }
 
   const lamportsEach = amountPerSigner(cfg, plan.targets.length);
-  log.step("funding ephemeral signers", { count: signers.length, lamportsEach });
-  const fundedAt = await fundSigners(conn, funding, signers, lamportsEach, budget, log);
+  const need = lamportsEach * signers.length + 5000 * signers.length;
+  const balance = await conn.getBalance(funding.publicKey, "confirmed");
+  if (balance < need) {
+    throw new Error(`funding balance ${balance} lamports is short of ${need}`);
+  }
+  log.step("funding ephemeral signers", { count: signers.length, lamportsEach, balance });
+  let fundedAt = [];
+  try {
+    fundedAt = await fundSigners(conn, funding, signers, lamportsEach, budget, log);
 
-  const sendConn = rpc.connect(cfg.sendRpcUrl, "confirmed");
-  const signersByPubkey = {};
-  for (const s of signers) signersByPubkey[s.publicKey.toBase58()] = s;
+    const sendConn = rpc.connect(cfg.sendRpcUrl, "confirmed");
+    const signersByPubkey = {};
+    for (const s of signers) signersByPubkey[s.publicKey.toBase58()] = s;
 
-  for (const batch of built.batches) {
-    await sendBatchLive({ conn, sendConn, batch, signersByPubkey, cfg, log });
+    for (const batch of built.batches) {
+      await sendBatchLive({ conn, sendConn, batch, signersByPubkey, cfg, log });
+    }
+  } catch (err) {
+    log.error("live run failed after funding; sweeping signers back", { error: String(err && err.message ? err.message : err) });
+    await sweepSigners(conn, funding, signers, budget, log);
+    throw err;
   }
 
   writeJson(cfg.dataDir, "batches.json", {

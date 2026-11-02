@@ -47,7 +47,7 @@ async function clusterNodes(conn) {
  */
 async function getBlock(conn, slot) {
   return conn.getBlock(slot, {
-    maxSupportedTransactionVersion: 0,
+    maxSupportedTransactionVersion: 1,
     transactionDetails: "full",
     rewards: false,
     commitment: "finalized"

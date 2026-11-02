@@ -1,8 +1,8 @@
 {
-  "live": false,
+  "live": true,
   "cluster": "mainnet-beta",
   "epoch": 1075,
-  "absoluteSlot": 464485045,
+  "absoluteSlot": 464498207,
   "epochStartSlot": 464400000,
   "slotsPerWindow": 4,
   "alpenglowDateUtc": "2026-10-21",
@@ -18,7 +18,7 @@
     "FireBAM",
     "HarmonicAgave"
   ],
-  "rpcUrl": "https://api.mainnet-beta.solana.com",
-  "sendRpcUrl": "https://api.mainnet-beta.solana.com",
-  "generatedAt": "2026-11-02T11:51:33.856Z"
+  "rpcHost": "mainnet.helius-rpc.com",
+  "sendRpcHost": "mainnet.helius-rpc.com",
+  "generatedAt": "2026-11-02T12:38:30.570Z"
 }

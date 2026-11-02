@@ -39,7 +39,7 @@ function buildReport(context) {
   lines.push(`Cluster: ${manifest.cluster}`);
   lines.push(`Epoch at run: ${manifest.epoch} (slot ${manifest.absoluteSlot})`);
   lines.push(`Alpenglow side: ${manifest.alpenglowSide} (boundary ${manifest.alpenglowDateUtc}, slot ${manifest.alpenglowSlot ?? "unset"})`);
-  lines.push(`RPC: ${manifest.rpcUrl || "(not recorded)"}`);
+  lines.push(`RPC: ${manifest.rpcHost || manifest.rpcUrl || "(not recorded)"}`);
   lines.push("");
 
   lines.push("## Budget");

@@ -102,14 +102,23 @@ async function buildBatches(cfg, conn, plan, signers, budget) {
   return { batches, budget: cap };
 }
 
-async function waitForSlot(conn, targetSlot, windowEnd, maxWaitMs) {
+async function waitForSlot(conn, targetSlot, windowEnd, maxWaitMs, onNear) {
   const start = Date.now();
+  let notified = false;
   while (Date.now() - start < maxWaitMs) {
     const slot = await conn.getSlot("processed");
     if (slot > windowEnd) return { missed: true, slot, reason: "window already passed" };
-    if (slot >= targetSlot - 1) return { missed: false, slot };
     const slotsLeft = targetSlot - slot;
-    const sleep = slotsLeft > 80 ? 3000 : slotsLeft > 20 ? 400 : 80;
+    // Fetch the blockhash a few seconds out, then send about two slots before
+    // the window so the RPC hop still lands inside it.
+    if (!notified && onNear && slotsLeft < 40) {
+      notified = true;
+      Promise.resolve(onNear()).catch(() => {});
+    }
+    if (slot >= targetSlot - 2) return { missed: false, slot };
+    // A leader window is only a few slots. A slow getSlot can step over it,
+    // so once we are close we poll as fast as the RPC answers.
+    const sleep = slotsLeft > 150 ? 2000 : slotsLeft > 40 ? 200 : 40;
     await new Promise(r => setTimeout(r, sleep));
   }
   return { missed: true, slot: null, reason: "timed out waiting for window" };
@@ -123,7 +132,16 @@ async function waitForSlot(conn, targetSlot, windowEnd, maxWaitMs) {
 async function sendBatchLive(opts) {
   const { conn, sendConn, batch, signersByPubkey, cfg, log } = opts;
   const windowEnd = batch.windowSlots[batch.windowSlots.length - 1];
-  const waited = await waitForSlot(conn, batch.windowSlots[0], windowEnd, 30 * 60 * 1000);
+  const nowSlot = await conn.getSlot("processed");
+  const slotsLeft = Math.max(0, batch.windowSlots[0] - nowSlot);
+  // Slots are about 200ms. Wait for the real gap, plus three minutes, and no
+  // longer than the rest of a long epoch. A fixed 30 minutes misses later windows.
+  const maxWait = Math.min(12 * 60 * 60 * 1000, slotsLeft * 250 + 3 * 60 * 1000);
+  let bhPromise = null;
+  const waited = await waitForSlot(conn, batch.windowSlots[0], windowEnd, maxWait, () => {
+    bhPromise = sendConn.getLatestBlockhash("confirmed");
+    return bhPromise;
+  });
   if (waited.missed) {
     log.warn("window missed before send", {
       validator: batch.validator,
@@ -134,7 +152,7 @@ async function sendBatchLive(opts) {
     return batch;
   }
 
-  const bh = await sendConn.getLatestBlockhash("confirmed");
+  const bh = bhPromise ? await bhPromise : await sendConn.getLatestBlockhash("confirmed");
   const ready = batch.probes.filter(p => !p.skipped);
   const rng = mulberry32(batch.windowSlots[0] >>> 0);
   shuffleInPlace(ready, rng);
@@ -175,6 +193,21 @@ async function sendBatchLive(opts) {
       }
     })
   );
+
+  // One resend of the same signed bytes while the window is still open.
+  // A 4-slot window is under a second. The first forward often arrives late.
+  await new Promise(r => setTimeout(r, 180));
+  const again = ready.filter(p => p.raw && !p.sendError);
+  await Promise.all(again.map(async p => {
+    try {
+      await sendConn.sendRawTransaction(Buffer.from(p.raw, "base64"), {
+        skipPreflight: true,
+        maxRetries: 0
+      });
+    } catch (err) {
+      // The first send already recorded the signature. A retry failure is noise.
+    }
+  }));
 
   batch.sendResult = { sent: true, sendAtSlot, sendAtMs, count: sent };
   return batch;

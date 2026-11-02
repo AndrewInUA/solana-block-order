@@ -33,6 +33,15 @@ function num(value, fallback) {
   return Number.isFinite(n) ? n : fallback;
 }
 
+function redactRpc(url) {
+  try {
+    const parsed = new URL(url);
+    return parsed.host || "rpc";
+  } catch (err) {
+    return "rpc";
+  }
+}
+
 function load() {
   const network = readJson(path.join(CONFIG_DIR, "network.json"), {});
   const overrides = readJson(path.join(CONFIG_DIR, "overrides.json"), { identities: {} });
@@ -57,9 +66,9 @@ function load() {
       priorityLadder: numberList(process.env.PRIORITY_LADDER, [0, 1000, 5000, 20000, 50000, 100000, 250000, 500000]),
       signersPerWindow: num(process.env.SIGNERS_PER_WINDOW, 8),
       windowsPerValidator: num(process.env.WINDOWS_PER_VALIDATOR, 3),
-      cuLimit: num(process.env.CU_LIMIT, 1200)
+      cuLimit: num(process.env.CU_LIMIT, 10000)
     }
   };
 }
 
-module.exports = { load, readJson, DATA_DIR };
+module.exports = { load, readJson, redactRpc, DATA_DIR };
