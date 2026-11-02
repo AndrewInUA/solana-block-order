@@ -1,0 +1,9 @@
+node_modules/
+
+# Secrets: keys never live in the repo. Only via volume or env.
+.env
+*.json.key
+keys/
+secrets/
+
+# Raw measurements in data/ are part of the submission. Do not ignore them.

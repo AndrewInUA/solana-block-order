@@ -1,0 +1,1924 @@
+{
+  "budget": {
+    "capLamports": 50000000,
+    "capSol": 0.05,
+    "spentLamports": 0,
+    "spentSol": 0,
+    "projectedLamports": 740016,
+    "projectedSol": 0.000740016,
+    "remainingLamports": 49259984,
+    "remainingSol": 0.049259984,
+    "transactionsAccounted": 144
+  },
+  "batches": [
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485096,
+        464485097,
+        464485098,
+        464485099
+      ],
+      "tpu": "198.13.140.105:12341",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "lwmuR5aPVzfLbf/YptYOIV/l5MK7zlAI+hdmQwgchFF1cLaSeOB8ZcmPg9BssHBrmmKGMLf7UgiFvt+zxla2Bw==",
+          "signature": "429NW5RBVxaDgdzNE1dQKwpfuszDaEWEFfsARrMBd8LuF2Z2cCHVtCz9vajd6T3Y9Y7vfGDXfxFDqhj81NYA14wp",
+          "raw": "AZcJrkeWj1c3y23/2KbWDiFf5eTCu85QCPoXZkMIHIRRdXC2knjgfGXJj4PQbLBwa5pihjC3+1IIhb7fs8ZWtgeAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "ySVRo2bW2BYXlyAkxKHYqgIE2bk9BbWSwam68+3Xy4rl7Z4YeMyfD179mKT82nJXaCYpWUJbkIo8YANQDz6/Dw==",
+          "signature": "52FVLjW1djUXLu7qquw9nxXnimdUwL6hSy3SxHQ5UQHngkRK2pzQYzMpaZyojDp2e9DM2sJU6j4tdAVdNTXY6SYE",
+          "raw": "AcklUaNm1tgWF5cgJMSh2KoCBNm5PQW1ksGpuvPt18uK5e2eGHjMnw9e/Zik/NpyV2gmKVlCW5CKPGADUA8+vw+AAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "y35zTjYvkvYNRquP5kd8/PM8rSfsmqzHbvvlfuE4w78iUj7m0xZfKaKUyjLz8Xma5ecQ7IOGuSU3lQuv774yBQ==",
+          "signature": "54yRMEhpRmc3kEyJS6KPKxPvpYwjHiTfNPk4sJR1mNosmtdnaJYqnPPHc9z7TXjtqTrgBL8nUaWEhWFeX2ZT3oFr",
+          "raw": "Act+c042L5L2DUarj+ZHfPzzPK0n7Jqsx2775X7hOMO/IlI+5tMWXymilMoy8/F5muXnEOyDhrklN5ULr+++MgWAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "R2sDzb2KOqPJ+EVQPu7w6eQPjkdl1XhKIZP4Naj4/hWeBfnmALW8gINwQczBl3v1E7OblKxx3UuEysi3BQkgAg==",
+          "signature": "2RpNZue4iFYsFack8w1AGfxwcEU8qpgEr8t7mw6AizBiBcbxCswVAERqrcqCPZqajzhGfF1n7Dx2m1UgFZhq9Dzh",
+          "raw": "AUdrA829ijqjyfhFUD7u8OnkD45HZdV4SiGT+DWo+P4VngX55gC1vICDcEHMwZd79ROzm5Sscd1LhMrItwUJIAKAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "3XaXOozQcwpp30z4ODOG7uhSNnKbqnYx8eyUPcCbCewVY+x6KtU/WFXbLChXCi1OhQFU8utmfkODqF/KU0m8Bg==",
+          "signature": "5Roz2scRK8L5UtYV3ED42NTxXc9R791QsYw6V8bE9FZqAT9Ky6KfJTUf5AfpC4RRqrKaCTmXqvRtgaQPxJwcPYeh",
+          "raw": "Ad12lzqM0HMKad9M+Dgzhu7oUjZym6p2MfHslD3AmwnsFWPseirVP1hV2ywoVwotToUBVPLrZn5Dg6hfylNJvAaAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "WYtGJReUqeYcbpn9zYlq+Y+acdBbVQ29/xdfLzoxXpftXCXtfUh4erEmgnsXFeOpnT1Ij7689UwlsBmrkHdXBg==",
+          "signature": "2nqUabA5WTZYx973iN8DCkgHzfeppT4f1BjgiyXf9pGF2crZjBUj1Uz7TCgPsom1hvqVNjoC88Rz4RaBi6F1eWjf",
+          "raw": "AVmLRiUXlKnmHG6Z/c2JavmPmnHQW1UNvf8XXy86MV6X7Vwl7X1IeHqxJoJ7FxXjqZ09SI++vPVMJbAZq5B3VwaAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "gHmMjBqpPAlPLSxJ4siVneI1MKqUaLREKieed1HfYlUsZWLZeKkMxgiIRSNzWOAyzzsgO5V6A3KwocuYEsx1AA==",
+          "signature": "3Zyr8HASDQEA9Hqb3yFPLD6bxwtQ5Jb6LEZbnBMj3SV5nurn4ZbFSy5986B1KHKkZuqYxDzQjSkGkBWovpvgobhh",
+          "raw": "AYB5jIwaqTwJTy0sSeLIlZ3iNTCqlGi0RConnndR32JVLGVi2XipDMYIiEUjc1jgMs87IDuVegNysKHLmBLMdQCAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "1GKXHto4dxIDRewVfC08K8//L35jbdYFmyObQQOe9guT0cGWXDl2ktH0MvvvihZW01ORF4buZmROKa+DuRFrDA==",
+          "signature": "5FHR3UMpsnfJpgpjst67BsDFGP3SoD6xbEcCp5au2XJ1NeoncLuewkP8cYXUjGyZLUyqmoAmNFs8VE9dTqNo7aeP",
+          "raw": "AdRilx7aOHcSA0XsFXwtPCvP/y9+Y23WBZsjm0EDnvYLk9HBllw5dpLR9DL774oWVtNTkReG7mZkTimvg7kRawyAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1MDk2OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485096:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485104,
+        464485105,
+        464485106,
+        464485107
+      ],
+      "tpu": "208.91.105.53:5010",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "bgiRzZG3kG5ShdPQzhIAcCFFOfzC8cey1UHnrWO2GTPAXMCn4ho2dULVPrWzKxQPXjS7v1HTBvS523vHkJxCCA==",
+          "signature": "3CbY6uqybcf2jwytFojz3DMCV9md1NLWRkiyG7gcYFU3YBNWFSCxECEGJNAX5eEe6MWNDkrygNFWXecbkQFfjFhH",
+          "raw": "AW4Ikc2Rt5BuUoXT0M4SAHAhRTn8wvHHstVB561jthkzwFzAp+IaNnVC1T61sysUD140u79R0wb0udt7x5CcQgiAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkRScGJDQjp3NDY0NDg1MTA0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "aub2KL+/oWguxPTLxQVMXVNZ9BcIihPvGL/j/Bjb32yqscUh002NZG4tSdw+O/wcAboxzQVVxCmG7OAGqPaqCw==",
+          "signature": "38xwF9Q84L9Z3wybPhauTYrH9FvEKmgtMfzkYGH8m9JmqsEPHQZEVtqzz9QwhPuG2DiJAVPaqBk2VAgkhx8XsLM8",
+          "raw": "AWrm9ii/v6FoLsT0y8UFTF1TWfQXCIoT7xi/4/wY299sqrHFIdNNjWRuLUncPjv8HAG6Mc0FVcQphuzgBqj2qguAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkRScGJDQjp3NDY0NDg1MTA0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "ulhhraaRnKHwkwc3LbFFz06lGTtWq0KTbrGvaLK7u0kOGTqTrA8Ci0w6zKku+ja/vgrS8Ikj/cVkzKXVp4HLCw==",
+          "signature": "4j63ivtuxt7vG7E5sK9XLfcKU6brXw1W1UMnonycu2ABivVQ6E2AJSBrFBggTAaDUmx9j7dRrpShQq5CBhDrp1va",
+          "raw": "AbpYYa2mkZyh8JMHNy2xRc9OpRk7VqtCk26xr2iyu7tJDhk6k6wPAotMOsypLvo2v74K0vCJI/3FZMyl1aeBywuAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkRScGJDQjp3NDY0NDg1MTA0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "0Kc2fdBBRDHyNPlSMS0j5HuWS32INeCRLOPEH+PhZvZts2cFqUYccthpVvoil25Gsal/SaW8RHupYUD1VjOTAg==",
+          "signature": "5AxR48BMMg9ehgb1EM5FGgXHHkPx2rix4cbxTbLH8pHUYK2sTt7kJpi5JwZZE4N77rsWeH1rAWN9F9iCf4VEESe5",
+          "raw": "AdCnNn3QQUQx8jT5UjEtI+R7lkt9iDXgkSzjxB/j4Wb2bbNnBalGHHLYaVb6IpduRrGpf0mlvER7qWFA9VYzkwKAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkRScGJDQjp3NDY0NDg1MTA0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Xf+dC3W9N0y95WHgu7vuRXEH/RkYEeYw4+TxAWh6xjl0alELD5DSbd9h+FcyyEzUBPfJN4mRLfWox7PBdQ4TDw==",
+          "signature": "2t151Ve8KVVo5p85Rb5AGDB1nTydVpcGu2zAWJimBuLaHg4NLnDTbtGcKLPKJYmPQhKaCECcQQTpK4UxLnve93dp",
+          "raw": "AV3/nQt1vTdMveVh4Lu77kVxB/0ZGBHmMOPk8QFoesY5dGpRCw+Q0m3fYfhXMshM1AT3yTeJkS31qMezwXUOEw+AAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkRScGJDQjp3NDY0NDg1MTA0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "o3ysIQkR/bLVo35WBvXYZbGRnp+wDo69tIy05qickS2lcRCd5rOwF/v1EYvG1wquJLxe+cTfbRoZyuVymD3VBg==",
+          "signature": "4GafhkwDPNxDMAziDbma7eG8j8wiP1E6KSFnNjifBdgmRj4iV9VZxbngyZHo2eFjGVS41CfNLaAezCGdqVGbMsFs",
+          "raw": "AaN8rCEJEf2y1aN+Vgb12GWxkZ6fsA6OvbSMtOaonJEtpXEQneazsBf79RGLxtcKriS8XvnE320aGcrlcpg91QaAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MTA0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "bGgs0WZV14xKKW6h2IG1gFfnuYkPhMZ6LizqTKlLEaoXpXR61lNpdHYNB07ZDV+F2k9uBYLMyoPqMCdI7t+FDw==",
+          "signature": "3Ai979d1vbkS47W6piyAHdNG8xiWenGrZGRkU2SKPP9QM8aDaRTiM7QHvGn47tyXUsuKVfbGybtdeaMG8tJ2AEXQ",
+          "raw": "AWxoLNFmVdeMSiluodiBtYBX57mJD4TGei4s6kypSxGqF6V0etZTaXR2DQdO2Q1fhdpPbgWCzMqD6jAnSO7fhQ+AAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MTA0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "RGanLbpijIrcAi8l4PEyUI1DWME2ZNAalFxx0MrKHHJzSXvj57UY9m4XyBg+bc/fBvLoc1KOR09z6YJBDLYpDg==",
+          "signature": "2NKTMvkbiXwswt2Gzb4WJDXx6zYD7GMJPF4TaEz5rn9gWEpEp4WMo2uY37RYUxbvbe7k76zcs9ugfXdJoQ4voFNu",
+          "raw": "AURmpy26YoyK3AIvJeDxMlCNQ1jBNmTQGpRccdDKyhxyc0l74+e1GPZuF8gYPm3P3wby6HNSjkdPc+mCQQy2KQ6AAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MTA0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485104:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485108,
+        464485109,
+        464485110,
+        464485111
+      ],
+      "tpu": "64.130.57.215:8002",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "TkQKugKas1wOggEwbn7J0H2JXYeM9a7pplMj3J5VQ7jXF56KUtSRGtQlm7fcThfuoUauWZCRQMkwVW3dPYvnDg==",
+          "signature": "2Zkw6b1Lz6CQB1HVZZwjqVtvJn79M75XQGYBFkryiCR5VKnjSEQ3juR9EhttYLNK4R1xbBs6ri8huEsjiqqEAA5j",
+          "raw": "AU5ECroCmrNcDoIBMG5+ydB9iV2HjPWu6aZTI9yeVUO41xeeilLUkRrUJZu33E4X7qFGrlmQkUDJMFVt3T2L5w6AAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "EqGs/ZGq+ae+5HYzBDIr1cjcE38qmeO1hz07mOtZOtA3yIwcjEjFcEMJtx9rSDcE1LqIhYa1JqdwDUcA5sqjDA==",
+          "signature": "Nc74B3HcFUTz36w71WRyhmKgAen2EH9uEc9Tkp8Ye6bPxS1E5JmkF9fghPQixtT6L4N842oF8Zi9AeXnay7QtYb",
+          "raw": "ARKhrP2RqvmnvuR2MwQyK9XI3BN/KpnjtYc9O5jrWTrQN8iMHIxIxXBDCbcfa0g3BNS6iIWGtSancA1HAObKowyAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "yc1/HpqTFcAokUHh+tMY7O1hz6lXuUPP5sX7r3uqvYjMRcD04T/z4o1ZJWoWUDAbvv+oiG0v1utCZfvfetzHBg==",
+          "signature": "531g2HMSSfwT5q5xpKhd1Zsmm72VFaacWXFU9DLJnSb6iZtdtJ9L4SWVu9J4AtaWbM3Boi2tVJaZtaosRW34eArq",
+          "raw": "AcnNfx6akxXAKJFB4frTGOztYc+pV7lDz+bF+697qr2IzEXA9OE/8+KNWSVqFlAwG77/qIhtL9brQmX733rcxwaAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "n6VqGSNuTFlpQ8HsaD5ELj0Iu/2WO2ri5M9lPKcYQmiyFrkto/4xCmm9Y0TwlfEStyS3J1rYUsgmVNf0ZLILBA==",
+          "signature": "4C8Lsd9MPWqKitiLh4kRqyWiydfa6HMbb5FaoksgJxq5yCGaV5oYM3iUhHrStEjBMUyx8gfknf1VA7GdQg5ttKes",
+          "raw": "AZ+lahkjbkxZaUPB7Gg+RC49CLv9ljtq4uTPZTynGEJosha5LaP+MQppvWNE8JXxErcktyda2FLIJlTX9GSyCwSAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "aNxElhko9SSRhNVDW1anwb7alsDUzwBP1mut2tZZLpWM24TpPzzyytBBBxoCheyIfMSfHfINXhv/gEtFW6iABg==",
+          "signature": "36bcU6J3oRPhPc1f1TjC3w1pNAQPmjy3VURPoMnaCzLDSE5cG9o7XAR65buv2newCfVx7EdKG9XhwJoMXnxuHJhs",
+          "raw": "AWjcRJYZKPUkkYTVQ1tWp8G+2pbA1M8AT9ZrrdrWWS6VjNuE6T888srQQQcaAoXsiHzEnx3yDV4b/4BLRVuogAaAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "IRNg5S0NRUzrBEuhFUuYcz6J80KLVmmvxWBX/C6F8X0m2lwhN65WHl1j0yVGPmENFQcIyLPZ0H8lTiP5/mRuBQ==",
+          "signature": "fMaSms8pxPrfXGp9GcwCsLYxhQdN9HHcgDSMrtbtCqjTt4ifQYSJwzhe2LT79u5B9t4PoTmLS8T9HrDyiG4wyuW",
+          "raw": "ASETYOUtDUVM6wRLoRVLmHM+ifNCi1Zpr8VgV/wuhfF9JtpcITeuVh5dY9MlRj5hDRUHCMiz2dB/JU4j+f5kbgWAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "qCHiZhUUb358XxqFT9ZpLBxaenQ642dtbK3IkENEME+Xn558rxIPryXPg2qsuOA6ul8/RvtnTPfWMQYOkMROCA==",
+          "signature": "4My6rFWxehAF1GGnkS5abhsE3xCD2dAUira9SMpjWfWw32C3mUYfHsyyhMdP2b1poL6BCTX94vZbfy1DUBC9jHNP",
+          "raw": "Aagh4mYVFG9+fF8ahU/WaSwcWnp0OuNnbWytyJBDRDBPl5+efK8SD68lz4NqrLjgOrpfP0b7Z0z31jEGDpDETgiAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "5O1EmaSiTb5V5z5EKMSsAZqU9JNzEsEDX6bklIZAc2hVJ+Aaj4AaybjosfrGzIbFLhCkbhiC/N5KLb2IlfnADA==",
+          "signature": "5aTxpuwn4Wvs2qESMcDkdMzYVqJ1nfhKk7Jecm6XVwhNawMKLvLHo7dXzMFKDJgtNc15oWfFtqhL8MVckuZn26gB",
+          "raw": "AeTtRJmkok2+Vec+RCjErAGalPSTcxLBA1+m5JSGQHNoVSfgGo+AGsm46LH6xsyGxS4QpG4YgvzeSi29iJX5wAyAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MTA4OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485108:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485128,
+        464485129,
+        464485130,
+        464485131
+      ],
+      "tpu": "208.91.105.53:5010",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "Ags5P6Zc6SerZTML76tqhv7vC5FLmVldqjBX2JFqC1ASUeaEwnqOaW+u0fIj3esrqQZvGaGLXqy9mu2EC4QSBg==",
+          "signature": "3NTrTJ8tgZZYD8x5VVHpV4dXRh9FaHrP1QuYBW3yeSQTacgQjB6rK3QxkyLKUnLCHAPK7i5aTzrPnBNxKj1A5X3",
+          "raw": "AQILOT+mXOknq2UzC++raob+7wuRS5lZXaowV9iRagtQElHmhMJ6jmlvrtHyI93rK6kGbxmhi16svZrthAuEEgaAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkRScGJDQjp3NDY0NDg1MTI4OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "6Q/KdYC2HWmFo1GN5ZcS3hZyUnDfb/k/oe9gj7620BuD6H7dqxrSyFURMNv8V/4yl9JSIOnHW3ujvtYdqPDDBA==",
+          "signature": "5fG4YGmTxx8fmhtQ69enmjEhJxYgcyK4DixB6egFhvTsZdzcr4e7HFSEwpDsji9m2eNfkax3gVSzAJD99t1vf3HV",
+          "raw": "AekPynWAth1phaNRjeWXEt4WclJw32/5P6HvYI++ttAbg+h+3asa0shVETDb/Ff+MpfSUiDpx1t7o77WHajwwwSAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkRScGJDQjp3NDY0NDg1MTI4OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "GLk07Hs0RSZ3RnkGuUT8eZ88D7NNcSk7IXrWvY1spMgcOetwaljN6Q8SPGa9mwHkWmJVxFmPzW8QhQiGm6nTCQ==",
+          "signature": "Vfq6tV7JsyBRvQB44NaGJGCW6e3X9JiwbxiRx1WX96aXWTsig7nrh8HX37FVonni1d5BtAGhnGGcTjoRgMfAujn",
+          "raw": "ARi5NOx7NEUmd0Z5BrlE/HmfPA+zTXEpOyF61r2NbKTIHDnrcGpYzekPEjxmvZsB5FpiVcRZj81vEIUIhpup0wmAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkRScGJDQjp3NDY0NDg1MTI4OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "anVRihReHJ8fZpN1oxejb+wOKkerXyxIxGGVwWruG88REphyfLxEHsalv5O7PUKkLcugFbreizjbt18uspjHCA==",
+          "signature": "38T5ZLDVbpBPhu1AoW88Ki5btrTEmXkLe7oj7ssigHp8iCxuajmSY4rwYWbQibdSBgvMGMn7Z1qgSaiVUns3rFFV",
+          "raw": "AWp1UYoUXhyfH2aTdaMXo2/sDipHq18sSMRhlcFq7hvPERKYcny8RB7Gpb+Tuz1CpC3LoBW63os427dfLrKYxwiAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkRScGJDQjp3NDY0NDg1MTI4OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "EdZ4XjD0w6LYiStqOS2Sm1enS2sBGb+p+jrXepsbT7iNx7xDxzrXyufgdOV+hLCDnIBKY7dN1Y0neuaCZU4tCg==",
+          "signature": "MgicweGg6UxYRxuGd1dhqknGfsdnavom1nS8KqpeUPWCzf34YVgy3a6HAvMF22XHyu2PeRDeqACiKa9RNR1WQ17",
+          "raw": "ARHWeF4w9MOi2IkrajktkptXp0trARm/qfo613qbG0+4jce8Q8c618rn4HTlfoSwg5yASmO3TdWNJ3rmgmVOLQqAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkRScGJDQjp3NDY0NDg1MTI4OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "REYfNfN6wlqW5nq2ZnBxOjWz91vn1eTxfR4bBIAOMYHljXxUEA2nwvyAP2G9wd/952kYaycdCy0BkNZHcV4ABw==",
+          "signature": "2NAuetp7yGZzaDs3Uq59ovivxbat3G8vvuLL7wRTZftk9rmf78ASEZFrSyTDFQSLqN8TBEvZxjYJF3NweUn66FjL",
+          "raw": "AURGHzXzesJaluZ6tmZwcTo1s/db59Xk8X0eGwSADjGB5Y18VBANp8L8gD9hvcHf/edpGGsnHQstAZDWR3FeAAeAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MTI4OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "B5A3p2LNnfUNUytgTGs8+08x5Bmmv/wry0EL7Rm5JzVWYVXwsU676xbYgE6ZtK+0L2Kmugwxt/A4a3MMWR1JAg==",
+          "signature": "9mgyTbzhwhqe3RHxvBzvjXwJPe4nfpTk2SqLDnzUyVCoXMvoPBoV6TXWu52rSRKwDwGCFDaciECFgEz62yMJjBo",
+          "raw": "AQeQN6dizZ31DVMrYExrPPtPMeQZpr/8K8tBC+0ZuSc1VmFV8LFOu+sW2IBOmbSvtC9iproMMbfwOGtzDFkdSQKAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MTI4OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "ZUFb0RxYlKpqha4zq1j0Gch2eCSxff9Suzi3lAmcUSVwlFveHI6aUdYthxItZEFOfnK0k4lDURCXKBr0NU1oAw==",
+          "signature": "32R9EAb8yFMHb6RqWgp4xPyt7GNpU19om9FGxfRmcHuaPYihEdfgxGhCoy4eT24nQVQx9RJHaWCbj9dMhsY3m6VQ",
+          "raw": "AWVBW9EcWJSqaoWuM6tY9BnIdngksX3/Urs4t5QJnFElcJRb3hyOmlHWLYcSLWRBTn5ytJOJQ1EQlyga9DVNaAOAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MTI4OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485128:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485200,
+        464485201,
+        464485202,
+        464485203
+      ],
+      "tpu": "86.54.152.246:9007",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "taLVn8m8lbUNfK6tLYO51My/syfb2H4u6yTu1WblLLrIqpbvV/YB8O0Q5DH9MIXX0SAMv5GJrcuLMZkLwdjQDA==",
+          "signature": "4ddKfU3PegWbjf5JCHso5CAxkH9xWX7zs4ZwEuFK96RVjyD1fYvctByCt5ovQPFLkNxWxm9rtvowRCExh3Pm4iX5",
+          "raw": "AbWi1Z/JvJW1DXyurS2DudTMv7Mn29h+Lusk7tVm5Sy6yKqW71f2AfDtEOQx/TCF19EgDL+Ria3LizGZC8HY0AyAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjllR3JEbzp3NDY0NDg1MjAwOnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "0NYtSOgmPqp9HW4DF5qE/vsRisPX6ckzTBHkJYwDkDZ1oBDs/LbMElwr8eiTsMp9QsOK0LZNu2npCOrEkyvIBQ==",
+          "signature": "5BAkgycf3dwMXvFDj1cqnRHAqt5WWdw5Wvd1SWSrpLZBKcQof5Kprwwwe1gMPEMMhWumAFD5H3kacXk63A1joLUk",
+          "raw": "AdDWLUjoJj6qfR1uAxeahP77EYrD1+nJM0wR5CWMA5A2daAQ7Py2zBJcK/Hok7DKfULDitC2Tbtp6QjqxJMryAWAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjllR3JEbzp3NDY0NDg1MjAwOnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "GSFDQgggPuJT8fM887/NFHyHFEb6qDb9nYPtsO6lhHdHlQq/CQeuzNfaE50FZfV3NnWxxlA5/V4JcJ6uIXOKBQ==",
+          "signature": "W9Ahf3oy87YfteHaZrNptTAREJPKEgtaVB77QBtGkMgKDSFezPuYexqENgtsyDdEDvfK2ZxiSKfdBjZQnb4TU9i",
+          "raw": "ARkhQ0IIID7iU/HzPPO/zRR8hxRG+qg2/Z2D7bDupYR3R5UKvwkHrszX2hOdBWX1dzZ1scZQOf1eCXCeriFzigWAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjllR3JEbzp3NDY0NDg1MjAwOnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "fFuHmyKG/yJoHQ4Lnh2sQnpZhuJ9Ahj3VyFgED0Wf8b3MykHCpCisy+xznNKLjO5AJD64zuX0D4F8RMcz8XiBw==",
+          "signature": "3VCw3C562d9PvriXpn6VCCWFzHu54ANgeEPTcba2bzWHii7HYFTeceDu5q3HRLFg8B8mqohGD9FuF7cbMmMEJSRU",
+          "raw": "AXxbh5sihv8iaB0OC54drEJ6WYbifQIY91chYBA9Fn/G9zMpBwqQorMvsc5zSi4zuQCQ+uM7l9A+BfETHM/F4geAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjllR3JEbzp3NDY0NDg1MjAwOnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "yPV/wMSHjl2kfQ4wg0Q57r+G6Nn9jvaU7tNrVCu/Ee6N0Ee3301nseUjLi6nOuug0RLEH6gMLng3Luldft4/Ag==",
+          "signature": "522vfVwcsLTKQdA7F2aR5LMsmdVi6JJWTdWnp8qLCBw3C9NAxJmhp3NgYskJwECkPhvMbCYFLc4vksaQ8m2kuBWR",
+          "raw": "Acj1f8DEh45dpH0OMINEOe6/hujZ/Y72lO7Ta1QrvxHujdBHt99NZ7HlIy4upzrroNESxB+oDC54Ny7pXX7ePwKAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjllR3JEbzp3NDY0NDg1MjAwOnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "vHS9RMfZOfgTbbWxsFplHtxLznEuhQm3SygxN0aIb/7YiKj+c7x8n5585+Hl6mtkPJk6m6M2medLwAIuTtS7CA==",
+          "signature": "4mY1fZDfHbH1jBujHGmFVrNY1U8s32RhniemEUta2NT69BgnMavawc7AtdUPf3VBwWgs8bdZNEy1ny9Zd9jaZCUF",
+          "raw": "Abx0vUTH2Tn4E221sbBaZR7cS85xLoUJt0soMTdGiG/+2Iio/nO8fJ+efOfh5eprZDyZOpujNpnnS8ACLk7UuwiAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1MjAwOnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "XawA4J+s9nMxjFFyB+nKa3VD9+dKbUsIL8+vW5YKYTuw78ed3C8Y+dtzisTGylaxSvuf6ov+RtO5UqFBY8O+DA==",
+          "signature": "2sd6xtKJRyhPYy3FEuyVPUkQwkveYgcqro7NXT6HsCKweJbd62mRV8rstHB1eJxrWb2jvueezK4MinScdZY1n5YF",
+          "raw": "AV2sAOCfrPZzMYxRcgfpymt1Q/fnSm1LCC/Pr1uWCmE7sO/HndwvGPnbc4rExspWsUr7n+qL/kbTuVKhQWPDvgyAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1MjAwOnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "rTfWkxx4euma6xZO9mXp5rhDNlhcLyY4jd+ZGMyo8UC9zubNkLAnxK5B14kWHOrSQXheK7I4QRwuU66y5loXDg==",
+          "signature": "4Ts9x45kZjq74RhZu4vW5PZbpoDEnwdWN4vw2Qv2bwCKxkF4L48Vqs41Li2GRT6pep4ARUsp4ED6r8xjbLWXr1p1",
+          "raw": "Aa031pMceHrpmusWTvZl6ea4QzZYXC8mOI3fmRjMqPFAvc7mzZCwJ8SuQdeJFhzq0kF4XiuyOEEcLlOusuZaFw6AAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1MjAwOnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485200:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485212,
+        464485213,
+        464485214,
+        464485215
+      ],
+      "tpu": "208.91.105.53:5010",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "2G5Sfkty/xzr2LZEH7l0+c8ZcV7KUQ28K12WqEfkrEzNNp4heQVrU877GGqjYAvWenq6f0T7KLwK91kMsf5QCA==",
+          "signature": "5KyXUANGm2NcCAYurVKns6UiAK9jcmHJeTKZpX99ZH39DULsEPHK5FN8k92dQFHk6E8ieQJuu4ccZD6PBYZMStc7",
+          "raw": "AdhuUn5Lcv8c69i2RB+5dPnPGXFeylENvCtdlqhH5KxMzTaeIXkFa1PO+xhqo2AL1np6un9E+yi8CvdZDLH+UAiAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkRScGJDQjp3NDY0NDg1MjEyOnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "/eKgsEYqt3BJas+6xlGYH9qahq47/XmOgrpJ1iqtr4ImceAGeDkUtHrRFY/kypiJ80LQGx4AO58m9uSxk0csBg==",
+          "signature": "65QbY4LrLVUuS3UYmEXKahyHEr44FoRrqPen67L28KTL6GwDsMj5rbfrVXYVwBM7P3wnVcywnvzHdZV7hYPJQEmK",
+          "raw": "Af3ioLBGKrdwSWrPusZRmB/amoauO/15joK6SdYqra+CJnHgBng5FLR60RWP5MqYifNC0BseADufJvbksZNHLAaAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkRScGJDQjp3NDY0NDg1MjEyOnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "xnWLeoKqgA1oBXYynsnVOhoMtHvdlSye3Jk5nQYqOIHB9UMQFJNqGnWlP5azI7so5kjY7dYz/Ywy9PIA9nc4DA==",
+          "signature": "4y8o5UdnZc9rdnZmA4yUabQodgpJWpZbvMvRe5bGKKatSrFE2As2nXpNdZXb4ZbNYPHcwLyFFFBwGzTiYv7R2MAB",
+          "raw": "AcZ1i3qCqoANaAV2Mp7J1ToaDLR73ZUsntyZOZ0GKjiBwfVDEBSTahp1pT+WsyO7KOZI2O3WM/2MMvTyAPZ3OAyAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkRScGJDQjp3NDY0NDg1MjEyOnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "okfPdDkzdV8qxcei6FolKB0QJMzjthYSJGPbKjgxxK/rgTDJ7/AVPIB/fXOph0A/eqymI035wtUa+PmjrJ7zBA==",
+          "signature": "4FBXHGaHy6yS3Y917nwGHHE9PWWsPJAuWmqPAfH7mxNrSCdC9wDoQ2XrZcaZXz3UvS6F1eidCJah34aLs8CiRTBh",
+          "raw": "AaJHz3Q5M3VfKsXHouhaJSgdECTM47YWEiRj2yo4McSv64Ewye/wFTyAf31zqYdAP3qspiNN+cLVGvj5o6ye8wSAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkRScGJDQjp3NDY0NDg1MjEyOnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "w4moc2qHiT+2xyCH87qP8UiufQQGpL4UZYA0NoXKDr/Nj9oDNXKFZ+ckZmuG9vz++WHrpZDRViJub4I5AFZ8Cg==",
+          "signature": "4ukJpWcwcwCFqGA9kRUFoZZ436yATAztEDDQirmGFMT16u3TgbhBjeU2KN5KHDwcfDnvacYk2pFBqcpazPLX2mku",
+          "raw": "AcOJqHNqh4k/tscgh/O6j/FIrn0EBqS+FGWANDaFyg6/zY/aAzVyhWfnJGZrhvb8/vlh66WQ0VYibm+COQBWfAqAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkRScGJDQjp3NDY0NDg1MjEyOnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "lLkcvYBlx54z9+XaXRUGQCdw2Cze7Az+neo+yYc0/ajeLF8hquVKaaYXJG6xxF+GriM0HWdN95AbZesFbSlQDw==",
+          "signature": "3yTgyZNhhBRJfDWv4XgX1LZW13LHC2YmkqhTcmoerg9ts5t2ENtCB1u67JXnBCCV9HhEwrt28rkivLeprsSjxLVt",
+          "raw": "AZS5HL2AZceeM/fl2l0VBkAncNgs3uwM/p3qPsmHNP2o3ixfIarlSmmmFyRuscRfhq4jNB1nTfeQG2XrBW0pUA+AAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MjEyOnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "xdc3cO930KLmgWqZHjlnckhvGaHgGqNTrvarMi8jHfBqTBozbPvOYlx8bwcpkWhjGfyiUJdtLGXxBFuNuv3YCg==",
+          "signature": "4xRCUpuXGSM6NR7BkA1rKrVVL8iNYy4kE4a47kv9Qb9oDLFhNttcRhdpZHSZ4w2dTWs18bgsFJ1Lbh3NiQNBUgQZ",
+          "raw": "AcXXN3Dvd9Ci5oFqmR45Z3JIbxmh4BqjU672qzIvIx3wakwaM2z7zmJcfG8HKZFoYxn8olCXbSxl8QRbjbr92AqAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MjEyOnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "+25SHrIwqmpK0NJ+PCNnrJgkbvY/CGnTsUcDPCPhAQsh1hpQMpnDQuUHDuUgB7pUECEeh5A+wbPUEMjliHSkAQ==",
+          "signature": "62ZXRvDdofy5TAnrDiTimB2WZg7cvZXxZMWhgaA9VEAn3M2jV3wgEhWA3hB6szxpQac5u6wYwAvDZB9B2AMc6RZi",
+          "raw": "AftuUh6yMKpqStDSfjwjZ6yYJG72Pwhp07FHAzwj4QELIdYaUDKZw0LlBw7lIAe6VBAhHoeQPsGz1BDI5Yh0pAGAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkRScGJDQjp3NDY0NDg1MjEyOnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:DRpbCB:w464485212:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485220,
+        464485221,
+        464485222,
+        464485223
+      ],
+      "tpu": "64.130.57.215:8002",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "rKkqrVEBtw8iSjG/JqGaH32mfqxQNXe8yVn6bUx7jIaDRQFOUwdVBdQVIHbmc/aWStaA1YD+yESyK8K/ETYcAQ==",
+          "signature": "4TDfvth5dyFhkxduWaFT7Ass5oxFkYRNdd31hsa57uSDEMAmrARcV6gACJZVeHxnK9GLf76hWDS3ij2DWHWMyAme",
+          "raw": "AaypKq1RAbcPIkoxvyahmh99pn6sUDV3vMlZ+m1Me4yGg0UBTlMHVQXUFSB25nP2lkrWgNWA/shEsivCvxE2HAGAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "8HoN7WOA/R3BgYadD5eBJT7CvXGbq3epmJlwoxs/aW5bUYsPsrNw7+tePVdwPWXl3sMm7U7k+gCgGR/vei53Dw==",
+          "signature": "5ornB67o7Wh34SJYFQ9coPWX93to1rdiAzdrUgygnS58RgT4yvZ8EQGsdXUpJEVeYZUSe7obFcNBkPJDC5kyfXqg",
+          "raw": "AfB6De1jgP0dwYGGnQ+XgSU+wr1xm6t3qZiZcKMbP2luW1GLD7KzcO/rXj1XcD1l5d7DJu1O5PoAoBkf73oudw+AAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "t2aMEtwK8OSDaCbzIGY5YA4LO8klpJZtpnjqtFNGckpqTFOBtnnq48MSltD+h4QEvcZOSF0R5h8aAzrt8wapAg==",
+          "signature": "4ffzqVzK281ZfHFttpWD6CyrLHUuwD7RBMjRufiF7BoPFA3KpkUtmENcixwyGEciUX8tAMfCpcwoKyeitgyqYp2M",
+          "raw": "AbdmjBLcCvDkg2gm8yBmOWAOCzvJJaSWbaZ46rRTRnJKakxTgbZ56uPDEpbQ/oeEBL3GTkhdEeYfGgM67fMGqQKAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "8GstfEbq0Sgkc7UxqlxhgSRRErp9z2nRfz/R9irdp0FelWx2gCthZsVz9OUrAp2zboQdLPzwUia8Czafq6mdBw==",
+          "signature": "5onsV2WvgbYKdnvcYcmn5RcKiYwUVHJ9DjqDBuQwp35rTetKLmXMT6Vww714RXrNEMaonPjqYuUfqHuwBYq6eW1U",
+          "raw": "AfBrLXxG6tEoJHO1MapcYYEkURK6fc9p0X8/0fYq3adBXpVsdoArYWbFc/TlKwKds26EHSz88FImvAs2n6upnQeAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "UGjEBTjSbOkaiSeqHE2OQgE/1f1ALf8hH7Z4yBmadE/dR0njk9FPFcLAqXnicCpeIhkrOPELJ+8tW7DC5nTVAQ==",
+          "signature": "2cF6X7i3tVzGw5q5LLNjKFwW8ZupH64R6K8qniJvH7WeMauYHbcyRBP34tdomN6fCzE8PHZUmtQRzaZbkfEqZbTv",
+          "raw": "AVBoxAU40mzpGoknqhxNjkIBP9X9QC3/IR+2eMgZmnRP3UdJ45PRTxXCwKl54nAqXiIZKzjxCyfvLVuwwuZ01QGAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "NgWfjgtDytpa+t02K8qkJlB5WRRHTMinzhxwKQbK5RwFWTJgXhnVhRA+huD3PwuP46FSdD3IzpEvBib8iWXnBw==",
+          "signature": "25eN2uvciR9an4Cr7gnmUQ6zKcwmT5zwB8kFirec5SRE69vJ6YJrrUZtkG54N2hzkR57HSaqTjB5zmNtX2gmeBGJ",
+          "raw": "ATYFn44LQ8raWvrdNivKpCZQeVkUR0zIp84ccCkGyuUcBVkyYF4Z1YUQPobg9z8Lj+OhUnQ9yM6RLwYm/Ill5weAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "vMfsQ92YemZua7QwLqUr7rDJYu9cKMl8zH0xppjzsyf8Ih9FWoq83yVZYJ0141x/gYjhmNbsZ3qyg330lOWgCg==",
+          "signature": "4musDGawmbwkzgQucVB71ccjKoTrzxuLh7mnEtUgxdpwwtbJngst1Y7qRRECn4iqb9jmSdS731GyPVF2q2jvXgEV",
+          "raw": "AbzH7EPdmHpmbmu0MC6lK+6wyWLvXCjJfMx9MaaY87Mn/CIfRVqKvN8lWWCdNeNcf4GI4ZjW7Gd6soN99JTloAqAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "zZyub3z8mykg3D5vklCPduKDsaMnBuHOl7ndDXocXi+xPgwYeHZ2BEkkgZpTFGVPnPJWh/SI83Ke8FMEcVZ+AQ==",
+          "signature": "57RsqQBVBvuJUrms78PiQgFrdQ4Kmm5tsePVSdFcz8SZL1jCfnApAEwTAaJhaYvbmV72cctDj9kMahfFALMJE9qi",
+          "raw": "Ac2crm98/JspINw+b5JQj3big7GjJwbhzpe53Q16HF4vsT4MGHh2dgRJJIGaUxRlT5zyVof0iPNynvBTBHFWfgGAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MjIwOnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485220:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485248,
+        464485249,
+        464485250,
+        464485251
+      ],
+      "tpu": "64.130.57.215:8002",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "AwMG1q1dnFpLPWjcOUGt3AuIocPIg7zVh9+2TuDkIoZFGqWEGkj3VARaTs0QciKykxhWekAXu/6gTNPlUpvCCg==",
+          "signature": "4VZs1toYDH8hFEzTzCqjrN34ozetuu1sgaPa39ho3MYwbZFnGfA2zAt3A1LBFttY4fsMtMtU9PZTWFS6cNvqGD7",
+          "raw": "AQMDBtatXZxaSz1o3DlBrdwLiKHDyIO81Yfftk7g5CKGRRqlhBpI91QEWk7NEHIispMYVnpAF7v+oEzT5VKbwgqAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "/YPVRsT9BfztCLK8Nio5BeV147vDR2J7Ypg2P6EU52zyDb8fxHiwy4BDScgvxIK9wl56uICbDP2MANnzkNCJBA==",
+          "signature": "64yh4Y14cNHhtscwmj48wVqyntKDV7a8R2wjd72kDunRAh9BmUWntUZC5nND72mWnBpZSB7PVpzR8f3BNPptvCaf",
+          "raw": "Af2D1UbE/QX87QiyvDYqOQXldeO7w0die2KYNj+hFOds8g2/H8R4sMuAQ0nIL8SCvcJeeriAmwz9jADZ85DQiQSAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "tgIg7iQpGSRqnLg2GCe+f7vMOomuadlytaWuXITFgfEnuV949mKH5pkzwr3PThTvNLBzSNbu9BhEgNFvRo3RCA==",
+          "signature": "4e4MkXNMQdnm7gtkyn85Ce9Z3cAjk3FczjQrixdx556BqW6SShfkNSqoUCZSVWMvSAJ2ByvVB2811N9jW7tQq4DM",
+          "raw": "AbYCIO4kKRkkapy4Nhgnvn+7zDqJrmnZcrWlrlyExYHxJ7lfePZih+aZM8K9z04U7zSwc0jW7vQYRIDRb0aN0QiAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "9BOL7kgmBRqrQ/HHr/VD4boRxgZPJkmCbcn7mvv/gR3GFzNrM1m0wm5ulMVnO+9suH79Z8RWVtPkQj92lyEOBg==",
+          "signature": "5t2spcyCpJRGxXToFUyLuPRoRgnQfX3XMikXt92MLf7pbMQJTkyhCiyqzQLuJN8ZVsJoAJot7TKZkmn9pFHi8YXw",
+          "raw": "AfQTi+5IJgUaq0Pxx6/1Q+G6EcYGTyZJgm3J+5r7/4EdxhczazNZtMJubpTFZzvvbLh+/WfEVlbT5EI/dpchDgaAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "KyM9O2xSlm6WEAXFTgX4g9+RT2i3JMFwKGqeYsRNpLfPbYlY+eORbXy9+go0vz88BJsVtI3S4yunv59CxyD1AQ==",
+          "signature": "s2KGUhr8mQvWixnMzmbr6BQwwAigu1zNs9wW2EJ43gmNtKqNvCQJmbQWnCToBs7SfMufSW54za67NYgxYYQJDtC",
+          "raw": "ASsjPTtsUpZulhAFxU4F+IPfkU9otyTBcChqnmLETaS3z22JWPnjkW18vfoKNL8/PASbFbSN0uMrp7+fQscg9QGAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "sZr9P/LhDPIWxZyHzCmqAHdIOtjId2cvDuv8+QabJtrIAUEsxqKkfHJfHIOiJ5yWmiS4noI/hoonLDNqDQQTDw==",
+          "signature": "4YxETrfAmi1gt84izsGG3Wm9ng64NxM5EKiWV5fzhbx6hqjHpyr8nS1x9eej7AHq89QuoJDGr1dKYPBNvJFDZyDx",
+          "raw": "AbGa/T/y4QzyFsWch8wpqgB3SDrYyHdnLw7r/PkGmybayAFBLMaipHxyXxyDoieclpokuJ6CP4aKJywzag0EEw+AAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "23wlgGVBgd/I0YD+4RdTBdqNoznW35lC0EJ+SMdjWbKVUPvhe/p4CMFSviG/jo7Dcik9UH3Mujp0RcoFcnYuAQ==",
+          "signature": "5PWvs3rCczNyBtGaK5E36HDqJ4uNgQT1hqQA9c8yo5Wp4qdFwehDjDv2j7gxPHk9LMx1Nt9d8svWxTfnC4v2uQhe",
+          "raw": "Adt8JYBlQYHfyNGA/uEXUwXajaM51t+ZQtBCfkjHY1mylVD74Xv6eAjBUr4hv46Ow3IpPVB9zLo6dEXKBXJ2LgGAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "aWO8Un325IPafP9mtKi+TGuGFBZtN4SnDr3HtaXTfHqY/hcvv7Tdp+DN5Mb/EopvHzHpga5JmxzBjQYtOFvhDw==",
+          "signature": "37DCiZuUsoWziCZ6RSSqrbAGvZBUoiVKLCdMvQ1VQkjqz8NNysuzAf4sC3WzR5immd98g3ZCzVjhw7mhPYCc739x",
+          "raw": "AWljvFJ99uSD2nz/ZrSovkxrhhQWbTeEpw69x7Wl03x6mP4XL7+03afgzeTG/xKKbx8x6YGuSZscwY0GLThb4Q+AAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkhFTDFVUzp3NDY0NDg1MjQ4OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:HEL1US:w464485248:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485368,
+        464485369,
+        464485370,
+        464485371
+      ],
+      "tpu": "198.13.140.105:12341",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "AOqpLYhnhHx6RWgMDWttf/e+vBbksHqXqtpWTifXWOUtY5f8Cm0HjfohSnG1VYxqF9LWFpfGsJbpQbHUs5aNAA==",
+          "signature": "124ekSnom2fFPM1G2qnfcggWh7Ud5kbbczwUpmwUZgjt3GtVQTwFzCRxY3gdHF6JaUjGBt72AQmMcafNfaNr9gpo",
+          "raw": "AQDqqS2IZ4R8ekVoDA1rbX/3vrwW5LB6l6raVk4n11jlLWOX/AptB436IUpxtVWMahfS1haXxrCW6UGx1LOWjQCAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "3wPON28+3A69r3w34mNbkonyw29p4PTDZyKsd+eMVI/WOQEDWUl8VKr4SN3kB0mo3j2wEo4D5ytzf4L4S66NCw==",
+          "signature": "5TcLmd4ocENQdB1BYoTTGazKqde7Siwsh5z74oE36NvN73ZroRqQCvax93LVF2skeH2bxc7AAU7aMWyC1MyXiiEE",
+          "raw": "Ad8DzjdvPtwOva98N+JjW5KJ8sNvaeD0w2cirHfnjFSP1jkBA1lJfFSq+Ejd5AdJqN49sBKOA+crc3+C+EuujQuAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "+BMMvJe4+oVa2NFRukRD7rC0HxXAoPIk0n/36JAJQ15EE9Tz7NnFUtArcTBE7FHFeHVlKiVq0GulmxUQYMTHAw==",
+          "signature": "5xfmuWRBa7UfTpBniRfMtFjybNJtJZ3s1pVFDG9ruR1c7TZmvSeMii96URuD4iHuc6iTFAPD2ot4gyS8KZzwMZZc",
+          "raw": "AfgTDLyXuPqFWtjRUbpEQ+6wtB8VwKDyJNJ/9+iQCUNeRBPU8+zZxVLQK3EwROxRxXh1ZSolatBrpZsVEGDExwOAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Yh/Peta1j8JahdFiyqP4thWf0dmaTvI9RGhQJD2dQJ6ExRZPH0bvBQwGE3YlSWDc/niyd9nFGLskMDlxzdrACA==",
+          "signature": "2xnZHF87x3Ry6TWbayG574TL5NWuvBUqwt2qjx9yzRpTMt7o21o4KL7X8EjQYt7VaV11Cnf1DBtZqwKpunFoK4JK",
+          "raw": "AWIfz3rWtY/CWoXRYsqj+LYVn9HZmk7yPURoUCQ9nUCehMUWTx9G7wUMBhN2JUlg3P54snfZxRi7JDA5cc3awAiAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "wO0JXVWzenqgvUbiQeUDcUfK8TPS+oDDIQkUahto5Rv7CeHwJ5tpWIg7CdFUadEf3cnOA6JN/GG6Fn9qBx+wAg==",
+          "signature": "4rieQN9CYFA2LkkE5pUuYyZtXPhgys6x4mDfunyxQFTQjSMSYGBZY8VVoYYzULncCHyuj2Uwzq1GKa1dZxmtJcTT",
+          "raw": "AcDtCV1Vs3p6oL1G4kHlA3FHyvEz0vqAwyEJFGobaOUb+wnh8CebaViIOwnRVGnRH93JzgOiTfxhuhZ/agcfsAKAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Jtg0UZXOy54NmPD/6CMoyZ/LGz13gY5NR3EJ0ALTaGxqwe/4sBropq5xJ5S3/TO96TXtaIeoQBCAb9VuXEZBBA==",
+          "signature": "n3aEeCD9R8mpk8nsaL9ZQmM8Z6upCA4xQS9oUezC62zhtHPnDrwvYMWaXZ2ixZcGy7gVpjYhzC44MfDAsE72bjH",
+          "raw": "ASbYNFGVzsueDZjw/+gjKMmfyxs9d4GOTUdxCdAC02hsasHv+LAa6KaucSeUt/0zvek17WiHqEAQgG/VblxGQQSAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Eo+dSeobPSLjk70mMaIaGLd/hNr+Xhbzgg8MgJNKeLfbLeTh5VjDBe1GpNvzhKxj4Tl7davaUE3AT7g6EKlEDg==",
+          "signature": "NXMqYxSukpQMvPotuofs8qLCDebNaaQXuE1ubsgzSbGNbQx3YqM2RiRTfaB73rw6gB8rYcYikFxNSvAa4R1kii9",
+          "raw": "ARKPnUnqGz0i45O9JjGiGhi3f4Ta/l4W84IPDICTSni32y3k4eVYwwXtRqTb84SsY+E5e3Wr2lBNwE+4OhCpRA6AAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Sa8YPatneT2gYA6TiVt4REIRvgQ1C3tlHE0swXn6ezt16H+UzBRe2FUScB4wRwwq75r9wLVzbKDZ5MeN+f8sAw==",
+          "signature": "2USmnvMua3g5w9A16fXzR6BFa8smWC6Dvb6WrYUighansdyESANXQs6RPtFkSADKAe232xfHbWPCC2MmxjwoU5ML",
+          "raw": "AUmvGD2rZ3k9oGAOk4lbeERCEb4ENQt7ZRxNLMF5+ns7deh/lMwUXthVEnAeMEcMKu+a/cC1c2yg2eTHjfn/LAOAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1MzY4OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485368:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485388,
+        464485389,
+        464485390,
+        464485391
+      ],
+      "tpu": "198.13.140.105:12341",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "XfBQL8mK287LLb8kkkNNrs9Z2tvJuk7D+JKTbVPUHrb34b62FF3s8RK4Qq5aLJhT2ZpJDdubP5X5qJWhmk5tBA==",
+          "signature": "2sw3s9Bz3gsApcZRE8pZ7yfw9Hpcm2SuGHemWCiddHnwAV4A9cfq1nN9NF56a7nd5CRtHYZZzjff4ZP9Y2yJ8zcj",
+          "raw": "AV3wUC/JitvOyy2/JJJDTa7PWdrbybpOw/iSk21T1B629+G+thRd7PESuEKuWiyYU9maSQ3bmz+V+aiVoZpObQSAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "999Pn9KU/oqFeyrB72rBhOpbE9rp/rPf98TE1ipIVYeMyvk5VVRLP6ibP+NrOyTWoL8OY7jYaCrdhk8SU/L3Dg==",
+          "signature": "5xSBWnZbgh8Q7WE9N6ZA95iRjGn4XqAkWX2UbGa4MDPPrWJUEVhb4KxmDDMCf1fFV21roh7ogAUkMmqrzFg2zMT3",
+          "raw": "AfffT5/SlP6KhXsqwe9qwYTqWxPa6f6z3/fExNYqSFWHjMr5OVVUSz+omz/jazsk1qC/DmO42Ggq3YZPElPy9w6AAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "50cc536ao2SKO5c+zdYGiB3xQGzv24rM7di/6zDSekVekMbG30YLasu8dfnTK6e3Udytal6VF9x5VFa+wZcCAQ==",
+          "signature": "5dC5hweZVcsvcFG74JqFPujfzrMCSA1kNQUZDZvbhym1vHvxYGWXRE637h9DF2GXWpShB3KnnzkDt65GcfKBvwnG",
+          "raw": "AedHHOd+mqNkijuXPs3WBogd8UBs79uKzO3Yv+sw0npFXpDGxt9GC2rLvHX50yunt1HcrWpelRfceVRWvsGXAgGAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "5iVUGhFtrDrBF4vAIqjcZ6y/Mxa9y7ohk83cI7RiK1VwoqK24q8oR/uwefgUafBQs3/e7LViUDxrCHTC1OyBCQ==",
+          "signature": "5bswzGy19DDcSrRZYqNzCEjsRWe2AHdfQifvmtREwKNN1os5G11mKoHKh89toZUGfLqJeEp6QWg9scSva64DidPv",
+          "raw": "AeYlVBoRbaw6wReLwCKo3GesvzMWvcu6IZPN3CO0YitVcKKituKvKEf7sHn4FGnwULN/3uy1YlA8awh0wtTsgQmAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "3ZGt9t4LIcrvEsSJdBWaVnubvc4NTGWW1MsCP6XDC7eZTFpSd8qTL2RtCCu+U9clsyyUmPCGP3EC48yJPNunBg==",
+          "signature": "5Rw6oz8ivUaZBC889oaR1WG6Vmz5TV4ZwKgM3pjwr97Dci3ezkKvBRZVRyGw987CFTKSu4BN8FL549HNxyXmXFnm",
+          "raw": "Ad2RrfbeCyHK7xLEiXQVmlZ7m73ODUxlltTLAj+lwwu3mUxaUnfKky9kbQgrvlPXJbMslJjwhj9xAuPMiTzbpwaAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "cCzIgU+Z2XvyD0JNaX3b4pvIdFSMSpPhUCAy44KeaNHOP7R3Ov8DWyCvZy1yDLwIAUG49VihXKlwq2RaVcdXAg==",
+          "signature": "3F5ZkbNnCpJoVi3BUoKQqoKpqPBhXyZhrYdcbUruXqsGYsBEBdetk8pWmm7rctV49X8VdgyQbPQnvwmeY5etZwW9",
+          "raw": "AXAsyIFPmdl78g9CTWl92+KbyHRUjEqT4VAgMuOCnmjRzj+0dzr/A1sgr2ctcgy8CAFBuPVYoVypcKtkWlXHVwKAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "1u0guc941m/f+CYg8leFqp+7aZGw0nJoKs2PjudSGlpMlC+FgAOTEupfCPFVJnJZcvPuBQnnmi6qRxw/UkOJDQ==",
+          "signature": "5JEKu3Z9w7HoEoQvinJL4YKT6u61EjjUxhbQRD196EKcRBPHBUV1UiA3iMxqyLq1cPCaNvNQVoW9KQvdru4d4ZR6",
+          "raw": "AdbtILnPeNZv3/gmIPJXhaqfu2mRsNJyaCrNj47nUhpaTJQvhYADkxLqXwjxVSZyWXLz7gUJ55ouqkccP1JDiQ2AAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "rzoKMtZq0YspGVA7k1c2Ht9EFoBOpstp86uj0H/KbTYUIOYtjqSbUC5jxP48T/DS4TBoii9VKYf3avH1lzvnBA==",
+          "signature": "4WCFKt6igzMTBrLaNDc69bqEQscmXNjVF1ut1Qn9jecQzXQHkku6U7nQ7XB4s3fKdputNn9N2qEtmjvX69AFvr4j",
+          "raw": "Aa86CjLWatGLKRlQO5NXNh7fRBaATqbLafOro9B/ym02FCDmLY6km1AuY8T+PE/w0uEwaIovVSmH92rx9Zc75wSAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOkZkN2J0Zzp3NDY0NDg1Mzg4OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:Fd7btg:w464485388:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485744,
+        464485745,
+        464485746,
+        464485747
+      ],
+      "tpu": "86.54.152.246:9007",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "5VLvyngp5A41vYW/eAYaI1orETIf9EQcNuxyfOuqi5eM9+9iB5s3GtGBCVx/MeXhuT6V0Dym7knhZpzOlAUVCg==",
+          "signature": "5avg3oWyyWJKbDQkFpqwim5rXsVL1cfsUyAt2oVxygFQoMSkS5k8RSUs3wSNmLFSyPkNHjNBh74ykT6JuQsdcEC1",
+          "raw": "AeVS78p4KeQONb2Fv3gGGiNaKxEyH/REHDbscnzrqouXjPfvYgebNxrRgQlcfzHl4bk+ldA8pu5J4WaczpQFFQqAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "y66Djms/ECyJU3+3qs80kxUqII5BsWsYDdHxfGkWXCE/wuf8U5ZD/4GAt9XST3zR+FP66rEwEOlVEtVUypt/Bw==",
+          "signature": "55C3jn6KspoyQXgkxjddwyWdjtpkntP3VS5tt9LvqyLcAHoEnhKzxeow9frZagmjuR6U22iELXxNhFuZHsLrutQN",
+          "raw": "Acuug45rPxAsiVN/t6rPNJMVKiCOQbFrGA3R8XxpFlwhP8Ln/FOWQ/+BgLfV0k980fhT+uqxMBDpVRLVVMqbfweAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "AfDgMmWjIRfwxWEMdGphEfRtkX9/QCzbXpXZOqCG9ef/lVjBViMTbtVSZL+5ScBPeqtWWZmQVCtEBj3+pA/kCw==",
+          "signature": "3FYNCL79BbCbKmE8dLtwzFgeECRzqgv7kYwgCkgZGbwjP3LaF8bzueAC4ogT6xeUqJBrWoJN97u2FFXb8AtjYoc",
+          "raw": "AQHw4DJloyEX8MVhDHRqYRH0bZF/f0As216V2TqghvXn/5VYwVYjE27VUmS/uUnAT3qrVlmZkFQrRAY9/qQP5AuAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "fxAbpFPO2eflEyOgyHweq+urlyQCVvokQymgIL6wDoTCB4MJlSA9axqKt+ELUQ18PI5MdOV3hrCEA8B9Lq/QDg==",
+          "signature": "3YLtWQZkmvbXhBMCdcZdpUbZKfSsairvPAu9ANNr9UkAzQgR7fRVfhDTYua692ZYmWu8bpWtLfXy6fDJxGD8SqKb",
+          "raw": "AX8QG6RTztnn5RMjoMh8Hqvrq5ckAlb6JEMpoCC+sA6EwgeDCZUgPWsairfhC1ENfDyOTHTld4awhAPAfS6v0A6AAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "+IfQFi/kE/X70CoYWOF2eLfYzg06tBqsvN09I0RfkT00S5++4ywadmkIVbUWAKqX/GRHCknn1LC3biB7B4wTDA==",
+          "signature": "5yCT8pEDyrYVDkgSMVeyh431LbqWNRATU8dnjFW1hCgv6dQFfW3s3r3dj5pMYKhj5mrFXNmpHSPy9xQZwb2yPUAf",
+          "raw": "AfiH0BYv5BP1+9AqGFjhdni32M4NOrQarLzdPSNEX5E9NEufvuMsGnZpCFW1FgCql/xkRwpJ59Swt24geweMEwyAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "npi/Njo65U44+r1BiHJFfNNDyxaQGmMPrRte8liVR3RccJX/PyW9QGk0OC2bTASxsVt+pvvVr3OdLrDuhmL+Bg==",
+          "signature": "4Aukw46iePGYSfgW7x4EqknUPfByBGiUmgCMaAfvF9Mnmi6dSDwg2MtApQw7wj6UtzQdn5RA63oHxSPUvjhzCeeh",
+          "raw": "AZ6YvzY6OuVOOPq9QYhyRXzTQ8sWkBpjD60bXvJYlUd0XHCV/z8lvUBpNDgtm0wEsbFbfqb71a9znS6w7oZi/gaAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "T7fEtvPW4qGSl94m0yUtF0mi9VsVCmUTXQUT0zgg6ZiZDDtJx/HRcFMNQbOMuUv496E7ZP4p04tsKRuZqjMrAQ==",
+          "signature": "2bSbSmrPP3fWBXtVRZMBQMi8CmRogMUJx3yCwEUsWPfgaNpWXXQDi6LQXeTXq27sQGchCNk6TmBJYBZvMRXk1FtC",
+          "raw": "AU+3xLbz1uKhkpfeJtMlLRdJovVbFQplE10FE9M4IOmYmQw7Scfx0XBTDUGzjLlL+PehO2T+KdOLbCkbmaozKwGAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "VYU6YKOqB1wXbotDVCFBdd/CoeRBu2H2wSiPm3/GlO4y5kQqkqt9Q1XZJ7mnBeSt/XX2lglggtxi3xlP0u+fBQ==",
+          "signature": "2iAro9vgfD184U8pLhvQaRLJhUrCQ3iX4f44FqbMKvtxVuitcEG3H9WKYb1R2HZtUioTZ4ADDTdvMyDnfbkMaNwE",
+          "raw": "AVWFOmCjqgdcF26LQ1QhQXXfwqHkQbth9sEoj5t/xpTuMuZEKpKrfUNV2Se5pwXkrf119pYJYILcYt8ZT9LvnwWAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1NzQ0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485744:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485764,
+        464485765,
+        464485766,
+        464485767
+      ],
+      "tpu": "198.13.140.227:5010",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "9npn+c7W4NqrGeRx1mPV3XvBaoH0Iirqu7s3pZ+FeUPaW+vSdrubJiyHsUYRPJMZVK7g8h/BBARpsNvAy+kpCg==",
+          "signature": "5vpR1yXqejXHpmwpA7EAvf6UVc6PD6UjLdCr2mkCtZfrsg1w2gLwk99ifuEhd4XppniT9FDDVJ4DrKpqKQhckM3X",
+          "raw": "AfZ6Z/nO1uDaqxnkcdZj1d17wWqB9CIq6ru7N6WfhXlD2lvr0na7myYsh7FGETyTGVSu4PIfwQQEabDbwMvpKQqAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjlqeGdvczp3NDY0NDg1NzY0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "JrWtpkQ7Z0/26D1X/Li+37NN7bjGDAQSHVpzxnSv3MMbnmecgwZ4ySZCd+R0fzp4WniNDLFhcYIo3VIXAvNmCg==",
+          "signature": "mtW8VQLuXVQsCokk9HjJKVzEPRk7eiYGbehbDB6ptoKHmxjF7bx2aSSN3EeJb8Ge72si8A5JSRF9ruA6iQZxgkR",
+          "raw": "ASa1raZEO2dP9ug9V/y4vt+zTe24xgwEEh1ac8Z0r9zDG55nnIMGeMkmQnfkdH86eFp4jQyxYXGCKN1SFwLzZgqAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjlqeGdvczp3NDY0NDg1NzY0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Zr4QcRqCnPv7VH3f4DcxvpPBdeEtTmE8PIlApossiBMun17KbMppc/ze77aiBUVtVUrqYrxihrbrF/sO+vVXBA==",
+          "signature": "349AQ3ZZmQ2a6A4DHyzLoTsuX9nZ4HCHpWW3stxnR8rQiFfNQDCF2p398F1pJDHXn2N1v5dbyoWQ9icZrwG32bjH",
+          "raw": "AWa+EHEagpz7+1R93+A3Mb6TwXXhLU5hPDyJQKaLLIgTLp9eymzKaXP83u+2ogVFbVVK6mK8Yoa26xf7Dvr1VwSAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjlqeGdvczp3NDY0NDg1NzY0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "neYA9LK18LufxmjtfzaDGz1fJgX41k2Vb6PJclfsgmG81DgjQiTo5KjGSMj2ZkvTXK1l3ifY9v515pA57bN1Bg==",
+          "signature": "4A6oFgfVEKFkwo6RFAsweb76M8G2ppoGeK3ZhYQJSPf7jXLxJv1uVhbYCMAFV3LSJ3QzPi5zAUvGCSDaHpTUbnWZ",
+          "raw": "AZ3mAPSytfC7n8Zo7X82gxs9XyYF+NZNlW+jyXJX7IJhvNQ4I0Ik6OSoxkjI9mZL01ytZd4n2Pb+deaQOe2zdQaAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjlqeGdvczp3NDY0NDg1NzY0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "7zEryj8z4+OYWp4//w3mZyFW8ENiZRk3fG45oH6pG9l46Z87RyoWQY4yJrX09OVxqvsHta5ZlemucirDFbzjAA==",
+          "signature": "5nNNfj7MD1VswMY5L3e44rejAKvmGFjy6DaJiXdn1JjD3UakecNBuyY55mvfq1DNKC1aH1vBiqJJ91CnJ9CsvqZy",
+          "raw": "Ae8xK8o/M+PjmFqeP/8N5mchVvBDYmUZN3xuOaB+qRvZeOmfO0cqFkGOMia19PTlcar7B7WuWZXprnIqwxW84wCAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjlqeGdvczp3NDY0NDg1NzY0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "B0vOcrcu8pRBEMpR6aFG4GtZkEM+pp54rQeaCQT5tAehhfq9Am60GOn1jKZgMnMQPZ/eNKgzsELWyLylPiBECw==",
+          "signature": "9TiXoK8zHEmLvPg23D9fjnSnWpBZKetx2sNdWA4SX6msQzKpAKXdzxStNuScoUomxk5QG3N2aL2nuuucVn9e6Bk",
+          "raw": "AQdLznK3LvKUQRDKUemhRuBrWZBDPqaeeK0HmgkE+bQHoYX6vQJutBjp9YymYDJzED2f3jSoM7BC1si8pT4gRAuAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1NzY0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "IJRsY2pESgm4c7fmGWhRIo4O/y53ak3D3b5dHRdiB3wzg1HGx9QN0DoAbntHhNBW1LFluQbMHfXJbdQjpwNdBQ==",
+          "signature": "enDukcQkoDK4rkrmpR8EiJqobnwNscpTdyuvsV8Cwr8JDSrupnMx36kCKkX9rsjMegxY8X78oPaZYcHPGUds4yz",
+          "raw": "ASCUbGNqREoJuHO35hloUSKODv8ud2pNw92+XR0XYgd8M4NRxsfUDdA6AG57R4TQVtSxZbkGzB31yW3UI6cDXQWAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1NzY0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "WJkXWY4wt66plihwHic4izqewXgcIVDGlR+zMAVqjOKGFfC0xpzZeyx6/0iIb1dBOGmQD7nbWzFVXfivNi0AAQ==",
+          "signature": "2mjrDFFxYVm79ugGQEzUvh4AKJtLYfhyYnEjo6KPV3Fs2oLXgz4Ce9Wz7wdwaq7Ug3EmPZFDPrDkn2o4ykVfWVbv",
+          "raw": "AViZF1mOMLeuqZYocB4nOIs6nsF4HCFQxpUfszAFaozihhXwtMac2Xssev9IiG9XQThpkA+521sxVV34rzYtAAGAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1NzY0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485764:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485784,
+        464485785,
+        464485786,
+        464485787
+      ],
+      "tpu": "198.13.140.227:5010",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "wCCHJevuUO09gA6YlwAMBBJx8F4PMf5GCEgy6U+Byatw3xVqlRGhBu9RUr/OXtJ7T2j3HgL/iOsyPC0o5KF0AA==",
+          "signature": "4qnv7TCcJtBHwjZfvCZHKnrQJMBEFuUvLmkD6DnPk2ojt66Vc6jNekiNTzLNzvET3UEaFk5GjwW2MA1xQJy26iaj",
+          "raw": "AcAghyXr7lDtPYAOmJcADAQScfBeDzH+RghIMulPgcmrcN8VapURoQbvUVK/zl7Se09o9x4C/4jrMjwtKOShdACAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "l6y5z7GlMOIHZiCPLsWxZ3sldwIcHwc8U3AYGbAWc18ZODEY3A5Abd/JDcQT4sjyLDGDYlsnF+SX6wam3093Ag==",
+          "signature": "42tCyR79s1Jb9RPjfoLZPfj6DCmtZCesmThxyW32VN5c32egv7FrML7rEUXYUvVHbUeJZTvjwxBWoET5xcaLdpSD",
+          "raw": "AZesuc+xpTDiB2Ygjy7FsWd7JXcCHB8HPFNwGBmwFnNfGTgxGNwOQG3fyQ3EE+LI8iwxg2JbJxfkl+sGpt9PdwKAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "fxZuxw54Qx1buk3RQPOEEgW6SCdj/cztNhYULc3dpCWLJjcTeW3A8lS0wGy/+6BoIaPy2cEaq74VW74nAGYUBA==",
+          "signature": "3YNYtE11VezaHT6R1azPHjBDzk2MBug8V6DC4cAvP9LJ4wM3esRzgpSyUWJ3Q24E24iiD18iqTkoqc9tsu52zFMD",
+          "raw": "AX8WbscOeEMdW7pN0UDzhBIFukgnY/3M7TYWFC3N3aQliyY3E3ltwPJUtMBsv/ugaCGj8tnBGqu+FVu+JwBmFASAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "5gFQeksFd4KkRbuQfwjuiEeovPgs+pEDuAcmrvqO1BNdNaW/nk61mUQWM33hBrQKbV2mTWL8MPK5r/htZZOfDQ==",
+          "signature": "5biVCwF9AnPEYf2PsVU6ENFg3rDQkZmxEAUfW71uRyJ2PfiJ5JkmcQ2eRFMFkQR2eWaoGV9tggGLmragp1ZJuL44",
+          "raw": "AeYBUHpLBXeCpEW7kH8I7ohHqLz4LPqRA7gHJq76jtQTXTWlv55OtZlEFjN94Qa0Cm1dpk1i/DDyua/4bWWTnw2AAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "qq4IVJPPUsLJOUDlMPZyM41lR3eqg36/N7kGHFlReHojM0ZIGStYuq1GRtnm5fHryrfLKd8WUhq8fWMFlQCfAg==",
+          "signature": "4QvSFKLFNi4k4mSJG9rwM5t2UnNUgbCMQopRqQKUaWYnBM8V7DjCajogw5M3JXnJYgTggUD63nFAGaSizH4Q9rEV",
+          "raw": "AaquCFSTz1LCyTlA5TD2cjONZUd3qoN+vze5BhxZUXh6IzNGSBkrWLqtRkbZ5uXx68q3yynfFlIavH1jBZUAnwKAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "HmNVHRJkeHc78mKYUGbu//hDtZe84dU/9aV9qo/T9RwQcTa82YoO3LL89Pjkm8XRsLxfuTWraKi9b+n5kgF9Cw==",
+          "signature": "cEp3AB8Jwfge9BQkhDBwyqMk4CNEhowfTUwx6fxp46MBL6FWSwDQkF6R46LwZf2qK1QnbuBCJ324hf5ipDNLhwg",
+          "raw": "AR5jVR0SZHh3O/JimFBm7v/4Q7WXvOHVP/WlfaqP0/UcEHE2vNmKDtyy/PT45JvF0bC8X7k1q2iovW/p+ZIBfQuAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "NVPn3q4PrveyWru5+7VEOc9SUKAvctfqmtFRlveW9mbvV+9QZCgxUKEB4eFiKQMSV4929FEOGfs6JNq9A+kVDw==",
+          "signature": "24qfz2gLFaWhWny7s3nRJgM1X1JbbETNZUpCimaXVep1ABcwFYXa3USfQqCBKCNvayQT3xB74cuL5BkrU47aF3Vp",
+          "raw": "ATVT596uD673slq7ufu1RDnPUlCgL3LX6prRUZb3lvZm71fvUGQoMVChAeHhYikDElePdvRRDhn7OiTavQPpFQ+AAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "pQRDaBxMpWWqynFea3R8/0Cxze4Mp8eG8MP2oK9q4Rp+q1/GJze7JC/C8PeA65V2VwJZMZq2wFCnnFRMotXtBQ==",
+          "signature": "4JMYk8Qx7hkcKDsfko5rjihSGo8WMnS9m1MFtab6dG9i3tzXDes6A7pEv515vLxEnVMRg9S1NLf1AeXiuxC14DdN",
+          "raw": "AaUEQ2gcTKVlqspxXmt0fP9Asc3uDKfHhvDD9qCvauEafqtfxic3uyQvwvD3gOuVdlcCWTGatsBQp5xUTKLV7QWAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1Nzg0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485784:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485824,
+        464485825,
+        464485826,
+        464485827
+      ],
+      "tpu": "86.54.152.246:9007",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "iHySvGXZ5q5KiO03cAbFhyAljSlLIpTRoWpc9iKa2C8C2ZkWNM9IBUDYq+hitFX73wqSy0IlDYxhrsEmb1CQDg==",
+          "signature": "3jGhX4Hqj5syRyXB3gsirG31UGTdpafFvUuVkiWrUYrDy4Ro5tyiehh9fbzt2WA1XLLXcF8E8jHrCniz5WaSHiLD",
+          "raw": "AYh8krxl2eauSojtN3AGxYcgJY0pSyKU0aFqXPYimtgvAtmZFjTPSAVA2KvoYrRV+98KkstCJQ2MYa7BJm9QkA6AAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjllR3JEbzp3NDY0NDg1ODI0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "/YgYcb/EJSw10HEj4CfC8uHp0agYHgKl0Ac9RuNfHVnV01cU7P3NITIV0Rzup6QOMdVQF2YJ93wH5SYjxAwZCg==",
+          "signature": "64zp1dDoRpuN7LNkDBq84eej9Mga93BKTvatUdrPSh8fytFDdgkCto897sj4pCbimWpKkbDap2Y1WBc2eNuTXj7w",
+          "raw": "Af2IGHG/xCUsNdBxI+AnwvLh6dGoGB4CpdAHPUbjXx1Z1dNXFOz9zSEyFdEc7qekDjHVUBdmCfd8B+UmI8QMGQqAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjllR3JEbzp3NDY0NDg1ODI0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "tGxQT4cufZ70lPnl4DT5TgN9HM1fSQ3tjn2p8dBUfk7IRsAKlfYHSvDIifb/l8EzaktmhxTfnIbGs0sxQCEqAg==",
+          "signature": "4cDjxyiw6qM2ZK786Feb58XugompsSvUQT6dqq4tgR5svUEHurvbuxxivc9fpWtnXTL9VKonaXiue8nXB8qsMCoB",
+          "raw": "AbRsUE+HLn2e9JT55eA0+U4DfRzNX0kN7Y59qfHQVH5OyEbACpX2B0rwyIn2/5fBM2pLZocU35yGxrNLMUAhKgKAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjllR3JEbzp3NDY0NDg1ODI0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "XHlSOmHUs2FTvMbF8kQ6ER0gX2NSX+Pt88kYYnzAaMfVK2wcq6lytRc55zOsAOm5RUPRsZq9ph87xD6cJNTqBQ==",
+          "signature": "2rEXktr6mRYgEzBsbebjmdH7zyNJrnePpHnq1bh97iCJWnPWmE7YJNRKGkoTNYwK4tYe4vJgHkNa2SU5r7TsuHB2",
+          "raw": "AVx5Ujph1LNhU7zGxfJEOhEdIF9jUl/j7fPJGGJ8wGjH1StsHKupcrUXOeczrADpuUVD0bGavaYfO8Q+nCTU6gWAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjllR3JEbzp3NDY0NDg1ODI0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Y+x/gTmoMONLvBDP/LS+JOvIXWCEvtJdnfl9/kalhegZTjidowo38AunB36RspY9Rk+5ihIhlyxnHkJOMQd8Bw==",
+          "signature": "2zsbDJeskPW1cHmmjHXVDRFrxn9AkxZ3yV4q932TmyyoWYyZ4BLEzTkXfSET3ijZamNmWvZpwUhTCYoexKj5zwv6",
+          "raw": "AWPsf4E5qDDjS7wQz/y0viTryF1ghL7SXZ35ff5GpYXoGU44naMKN/ALpwd+kbKWPUZPuYoSIZcsZx5CTjEHfAeAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjllR3JEbzp3NDY0NDg1ODI0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "dRygHuA0hs+G7JKEnL5awc13lEmkhEeh8fRfHjwAqlbu9l0s4KzSPR424sXq7kVU4uU0/r5A4ckiEmtMIAngDQ==",
+          "signature": "3Loc7NBcncQHmXbQGg8h2yJTU4mTUxaEWqaUkA8yDJaKS9SkTAGT1WfcixC6TEic1hYPtpkC2PUvMQPXrvfdhrUC",
+          "raw": "AXUcoB7gNIbPhuyShJy+WsHNd5RJpIRHofH0Xx48AKpW7vZdLOCs0j0eNuLF6u5FVOLlNP6+QOHJIhJrTCAJ4A2AAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1ODI0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "YciU8wvL7sGftBx0mZQ+eezPtAT8JLLL28LSmglcFpqcR85OYQ7rncmuDqVFSd5uBIZ+0gIrcJQM/yTndaovAA==",
+          "signature": "2xPe6WSw9PNEXe4XA3HtDY8269UZBKYd6zbP9k5zLsFbPeW2Vmb8XiWGud8GNB88Czg1nGLDJr8QVupoTfgtRqwu",
+          "raw": "AWHIlPMLy+7Bn7QcdJmUPnnsz7QE/CSyy9vC0poJXBaanEfOTmEO653Jrg6lRUnebgSGftICK3CUDP8k53WqLwCAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1ODI0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "ijmXEMyBAE6Ui8K7cYEgIa8PE8ME6E+snZVbdbSqYdL52FFTShCkqkqNeOeoYhqFNNSPmy4YLYnJ0qii+ieeBQ==",
+          "signature": "3mHcfMYdi5SiNYjr19maJH6nmQda42x9Ubbkg28eeBJz7mxUduY9foXBB7rRJFSrqqc4EVKH73E57AyS85shdu96",
+          "raw": "AYo5lxDMgQBOlIvCu3GBICGvDxPDBOhPrJ2VW3W0qmHS+dhRU0oQpKpKjXjnqGIahTTUj5suGC2JydKoovonngWAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjllR3JEbzp3NDY0NDg1ODI0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:9eGrDo:w464485824:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485888,
+        464485889,
+        464485890,
+        464485891
+      ],
+      "tpu": "198.13.140.227:5010",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "KnNmmX5omAs1Xw+jA+h2SlJ9BC+0f4HH/dv4Y3jvjR/7ZKQ6hlGLWMdmGePDm2IVwyQNPq2+n821jZ0vbysEAg==",
+          "signature": "rE7rMYCSaN3tkFT1oSGyoXoz91rfzS4guaBzALSWK739hzVKi9TDZjkpy5rvsuEHfj2C4MjkV6AFXkGjppUBYnM",
+          "raw": "ASpzZpl+aJgLNV8PowPodkpSfQQvtH+Bx/3b+GN4740f+2SkOoZRi1jHZhnjw5tiFcMkDT6tvp/NtY2dL28rBAKAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjlqeGdvczp3NDY0NDg1ODg4OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "xIil+YaTUdB2ar7ali+/LVUek8WYqgge94PKhyOTOUXrzjmFblJB4XOhvej1U2cGhhyBvLeiFLDFEZ4xP3ymDw==",
+          "signature": "4vuJMASNsP9MdeqGh7xsJqL7kmFcLVBz3NkSbvfVmZVWjdVCUR8VSghGhM9p34RpAMPkz7sqffyBtM7cmqRJQ8nz",
+          "raw": "AcSIpfmGk1HQdmq+2pYvvy1VHpPFmKoIHveDyocjkzlF6845hW5SQeFzob3o9VNnBoYcgby3ohSwxRGeMT98pg+AAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjlqeGdvczp3NDY0NDg1ODg4OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "cWt/4j3x96TC8lNp3pHQyvzv3UNVSwmNTGbUOAnZw84lrCsxkenc8wxyEGA72UtOTX55GVKs09WxrIpLLdk3Ag==",
+          "signature": "3GXJLL72sfE3CP48GcbHuAjqhUXFyAdMvPxrrWDDu4yyrgyqepKd6qKKHrb5bJGfL4kfCvW7cbYoyApspzHK1Rff",
+          "raw": "AXFrf+I98fekwvJTad6R0Mr8791DVUsJjUxm1DgJ2cPOJawrMZHp3PMMchBgO9lLTk1+eRlSrNPVsayKSy3ZNwKAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjlqeGdvczp3NDY0NDg1ODg4OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "9ufUQDIX89Il41PJ6+I/X4MmgyB4aIRGiu0ce7IiM3PNrP4he6UiE7wMDMX8zfhUv2WgZwaQDvNdcfVKbqtXBA==",
+          "signature": "5wKAQ4fCFqhWZRHd1gR2xLUXHCzueeJukiHgMYqbGwdRptGB9f4Sfutu3MfH1qpLWzLvsXZgP8rP1JZZrvdoXwtF",
+          "raw": "Afbn1EAyF/PSJeNTyeviP1+DJoMgeGiERortHHuyIjNzzaz+IXulIhO8DAzF/M34VL9loGcGkA7zXXH1Sm6rVwSAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjlqeGdvczp3NDY0NDg1ODg4OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "0lXwzxjxVYEP+Iiv/ce0+5HJi/1bgXRXrL1K98DgKi+2JDUZlP6+H77rmZ7S52XRD1lnQATgP/yihhdftS4QBQ==",
+          "signature": "5CuaThHVkEma2CxGmH449YiW7BADGrPMbdDVV2r9uuFBi1XUjst5AMxbqDxXNJgSwSdkCfASXuHdZS3TTgcKbt8t",
+          "raw": "AdJV8M8Y8VWBD/iIr/3HtPuRyYv9W4F0V6y9SvfA4CovtiQ1GZT+vh++65me0udl0Q9ZZ0AE4D/8ooYXX7UuEAWAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjlqeGdvczp3NDY0NDg1ODg4OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "cghUoBiRKKGavckmVTQtWld7BqLhA0WBprgFdWFv/+KKN+f7QxzsKp9cj4KbQ4VPr/RCtKSFl2e1YJwAAbOQDA==",
+          "signature": "3HEW7iB4k3boi7gFSZa3pm4RzaddPSMGwHmkd1F3HAff9dvPdtj45aifQUcGQEHu9EdrCsEWJVhmJD73RqSVPgbD",
+          "raw": "AXIIVKAYkSihmr3JJlU0LVpXewai4QNFgaa4BXVhb//iijfn+0Mc7CqfXI+Cm0OFT6/0QrSkhZdntWCcAAGzkAyAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1ODg4OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Jun5ozJ1fS41FvhORt/YxKe4m6GRWk/57HyE/TkZ8BhnLd/LuPjkGhLpjQziOpvcxIQ7Gg3jk/R7GGu/O5mSDA==",
+          "signature": "n8F2U7qhrxkZRmESVnDBPMZCGssNb5SV6P7YDwpzk6jsqd7hHGRKiMqgS2vKT5TDhBAZ8fGsEwwNZro75UV8NiP",
+          "raw": "ASbp+aMydX0uNRb4Tkbf2MSnuJuhkVpP+ex8hP05GfAYZy3fy7j45BoS6Y0M4jqb3MSEOxoN45P0exhrvzuZkgyAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1ODg4OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "XvkoDQNMjOroei2l/V9XnGxWAiD18dIPd1HN7A056gBBTuhOPHR7O2OOp1hnhZjx8p/7YpSt4jby2VU4+GhSAg==",
+          "signature": "2u8dXndaWnWw6m1d1zjG1HUCDCrKxpVjLsByzESpM99A21KEm7XGcdwt1HMQQWwVJYkxUUUgkRXUEdSg5VzYLBTo",
+          "raw": "AV75KA0DTIzq6Hotpf1fV5xsVgIg9fHSD3dRzewNOeoAQU7oTjx0eztjjqdYZ4WY8fKf+2KUreI28tlVOPhoUgKAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjlqeGdvczp3NDY0NDg1ODg4OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:9jxgos:w464485888:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464486416,
+        464486417,
+        464486418,
+        464486419
+      ],
+      "tpu": "5.199.172.176:12002",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "k1mMnO9/xob4sY2tsXEC/CNt/aTI1tF3jECaH8LfMoYFX+KWQyjjCZ2VcCcjJ/mQCQ7RXnKzi/X/Gd8bg44VAg==",
+          "signature": "3wsKsuVdvHmdyPCf14qgKQCd3siLGF8CKbvsBsLMrdbcuqDc7Eh2FKUHmFmzPMSeFc5Ag61mmuyWHUtmrWFCE9tV",
+          "raw": "AZNZjJzvf8aG+LGNrbFxAvwjbf2kyNbRd4xAmh/C3zKGBV/ilkMo4wmdlXAnIyf5kAkO0V5ys4v1/xnfG4OOFQKAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjdRUUdObTp3NDY0NDg2NDE2OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "+rp7psbcdrA4CpHMRALE/ekfQm4mB/Zm6Up9HKBpoVUSbt7yHRcm6jViqfiigWaVHE1qThzxHTEFyJqZTuyZBw==",
+          "signature": "61kH5A8SBJk4jKJjf8Zka3vTJtoMBfTwCBMA1VvAjXoDL3NCB33cYzKw13RW4PvFRNfeSEdfcw3ePTLpXmtFWmaN",
+          "raw": "Afq6e6bG3HawOAqRzEQCxP3pH0JuJgf2ZulKfRygaaFVEm7e8h0XJuo1Yqn4ooFmlRxNak4c8R0xBciamU7smQeAAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjdRUUdObTp3NDY0NDg2NDE2OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "KfoZO2Uklpcn/Ktw+X5jN/gfgtEl19Cfsb7kb9zllWzP8ZE78awFSyekMwFRyAs0NKQiFXUlWgLOPy6wIKCHBg==",
+          "signature": "qgFTMqZirL5Jc2MMMcVpe5SMDgp7n3QaVXj8inWRTxyQffpDmqzCm3WufW7nnm59rkWBg8jwszUXykNPFqRemJu",
+          "raw": "ASn6GTtlJJaXJ/yrcPl+Yzf4H4LRJdfQn7G+5G/c5ZVsz/GRO/GsBUsnpDMBUcgLNDSkIhV1JVoCzj8usCCghwaAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjdRUUdObTp3NDY0NDg2NDE2OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "CNlCkcdGNVHoXX0+dQHxi6RdnMIYDUmm2TWLpwX01Ya0qH6VAVEXPK37K21zZQXGcR+JIBTXkym/O8BzujxoAA==",
+          "signature": "BG8ubuSCZrNzBV5uaoAbJfLUgxjFWb87o5GQx36jGAVJtSZP9PUoRFCtR83MwKHLUsVAVHAxNd3N2N7zhAwo1wM",
+          "raw": "AQjZQpHHRjVR6F19PnUB8YukXZzCGA1Jptk1i6cF9NWGtKh+lQFRFzyt+yttc2UFxnEfiSAU15MpvzvAc7o8aACAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjdRUUdObTp3NDY0NDg2NDE2OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "fzYpVqYCmEBjqsO4D4V7kBzPK2BlXVtrYWqKuUJx96dDNd7pUeQgh1trPq4mbEYRFWkSmDP2VJrTlpCHZSM6Aw==",
+          "signature": "3YWtN83cf77N3uur9KeiX4p6TLWhVraH5aA1g79VYefN5rgqycLVrvRbrpnU8ZzgpXt2GdTKDqaPjdqCSUnvBhrA",
+          "raw": "AX82KVamAphAY6rDuA+Fe5AczytgZV1ba2FqirlCcfenQzXe6VHkIIdbaz6uJmxGERVpEpgz9lSa05aQh2UjOgOAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjdRUUdObTp3NDY0NDg2NDE2OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "B7L8BcAtUShznx8vgSLGseXYwYs3mFXhcq4prx1v5oJiPglbJaF9QVmikAj8NspLm5osAqbL8Tbs9dpDYrk0Bw==",
+          "signature": "9vpkcqqqvizSE6YQaFXv6vM23cAkSbbcBfPVqre7rjtHtLUZGg47pcPchj3pj5zxdpdkJkomXvQmFrKKE1R9tg6",
+          "raw": "AQey/AXALVEoc58fL4EixrHl2MGLN5hV4XKuKa8db+aCYj4JWyWhfUFZopAI/DbKS5uaLAKmy/E27PXaQ2K5NAeAAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg2NDE2OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "e514KcGdmHIwN1wL66ujUN88wqHJKUSEviEEYcuvfwPW/Weiw5XCPRCQQ7DlOmf3rv1xr+IibR6ocUCbar6NDA==",
+          "signature": "3ULzujBZaWUGfxY19wUx3LgDjrWaAGU1XqnFEJBt3NXpaW5gxtxgNXtin8bG1sTqxd6HLqRYLwmday2sYpdcdGZZ",
+          "raw": "AXudeCnBnZhyMDdcC+uro1DfPMKhySlEhL4hBGHLr38D1v1nosOVwj0QkEOw5Tpn9679ca/iIm0eqHFAm2q+jQyAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg2NDE2OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "PKnadflnPAoPTEq+CQzYi8OCHRxk209SmONlJu+vdOSvgOokOQdMCX7pbBDrLV88txzJK04p8JT2tbqoBeBgDA==",
+          "signature": "2DM43cZMxyQ1k22GAxPXad3qYTd6UedpBNhYUUm4jZxsYD7N6JKAruxkbFrR9LHj9nBkm4vA4LT5aKrQJFXkVLM9",
+          "raw": "ATyp2nX5ZzwKD0xKvgkM2IvDgh0cZNtPUpjjZSbvr3Tkr4DqJDkHTAl+6WwQ6y1fPLccyStOKfCU9rW6qAXgYAyAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg2NDE2OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464486416:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464488444,
+        464488445,
+        464488446,
+        464488447
+      ],
+      "tpu": "5.199.172.176:12002",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "8h90z8l8JRUkeOk1VYS0A5L84C6sN9eaW34zNVV3s8XcG2yuS3nkJeMg47sD/buL+x1+ary9XlQOHB6d1f7dBg==",
+          "signature": "5qmVUQtEqMohsRTtRpndXszkp6mUfsQTX1UsSaN9N9TzKQrvC5mN5rQvejvGU4ndG1WcUGAM74Cek5zsgZE88LAh",
+          "raw": "AfIfdM/JfCUVJHjpNVWEtAOS/OAurDfXmlt+MzVVd7PF3Btsrkt55CXjIOO7A/27i/sdfmq8vV5UDhwendX+3QaAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Bj/EytQnm9WsJejJC3LW3Cq7MXzlFzlLz7sgTLBWOLrJ6iYbmVo4lMd8wtIGEPSgOwSXGzkJ04VjtLPAvbZ9Dw==",
+          "signature": "8FJBrT3JASNFcafUjuBbdWypZ9zbPz17sf3uhUhFQodEUDr8wu382LomXgiuWhaD6RuSiP6KrSiuzRoYeDkKuXt",
+          "raw": "AQY/xMrUJ5vVrCXoyQty1twquzF85Rc5S8+7IEywVji6yeomG5laOJTHfMLSBhD0oDsElxs5CdOFY7SzwL22fQ+AAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "OGVDoUdTLFyv5+VkBofMoR8flbOwOGLJpw1SlWdxDhJk4nyYrAOmzxe0KjjHoSO7QaZ1BL1/sytR7CQaNIFEAQ==",
+          "signature": "28Q1ESB8mbSw9LGpheY4N96gJBXZWvp21fM5HUuf9QJPdvQrE6euBsobdcvpjbE2PcqPaJP6bvRE9SiQiQ3P4fL4",
+          "raw": "AThlQ6FHUyxcr+flZAaHzKEfH5WzsDhiyacNUpVncQ4SZOJ8mKwDps8XtCo4x6Eju0GmdQS9f7MrUewkGjSBRAGAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "62wmPa2t+JmE4eFVl/7yie4pUUSdILXpRmo7tYo+cUVxvaUl80mOGo8bAo7zVumR8G3qxYu1ia2EgVCEIDoLBA==",
+          "signature": "5hzqioyJg5DEyWbg4Ha2ytv8fXzvkr9sWotegu1rquhkqpXjQpYBZJWbBX2vHD3QEVjAbVXWR6zskysPD4hCvvNP",
+          "raw": "AetsJj2trfiZhOHhVZf+8onuKVFEnSC16UZqO7WKPnFFcb2lJfNJjhqPGwKO81bpkfBt6sWLtYmthIFQhCA6CwSAAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "tFO9RULVqXh8LtCuso7hL8bGqDOu8fTjf7QXu0uW56phOdPGIp9WDlZX4+zT3wRUeTeT+kypnkAXOJCrCATTCQ==",
+          "signature": "4c7HW8HkrPFwLarykdWk1hDsaWF8cXxxwDs62k3Etqw5URFxVQsRXJGKxNjevpNxuYpDFxm5J8AVRwBs4ZPP49pk",
+          "raw": "AbRTvUVC1al4fC7QrrKO4S/GxqgzrvH043+0F7tLlueqYTnTxiKfVg5WV+Ps098EVHk3k/pMqZ5AFziQqwgE0wmAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "R8n23NcKhq/F/5WJsWb+iRFGT+XQXP0Qkm5ZoU/FNkzDGT6PZp7XuuXs7GX3/0J2bifBvD9kdg44IRk1v41IDw==",
+          "signature": "2SFKQJiL3e5fE5HzrijzknB6q5Aiv1ZAhNvYqmnet1nhHC12qyE8mSnCMniiQbdoxc9vznoRTJSDFYNKAacKugpE",
+          "raw": "AUfJ9tzXCoavxf+VibFm/okRRk/l0Fz9EJJuWaFPxTZMwxk+j2ae17rl7Oxl9/9Cdm4nwbw/ZHYOOCEZNb+NSA+AAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Jhk7Y86UxYD0z2C5WEHP0ReVsAc6d4Bnr6kzcPraaz1rRFfpE6qJU99JjsCwmLC2DN9uvOCRzZluxzOC3vHACQ==",
+          "signature": "mBQD6zJZnDJr5CZDJUM9YRS4d6DXQxkxnLWvouk5wDN42p36cChJ5FRrdFejp7aZUWbsCDT3fk2ZXr1DRGJosFv",
+          "raw": "ASYZO2POlMWA9M9guVhBz9EXlbAHOneAZ6+pM3D62ms9a0RX6ROqiVPfSY7AsJiwtgzfbrzgkc2Zbsczgt7xwAmAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "hIt61euCzCLLaPMa0bcAiXQ98d/dicC/VTNu1EJ0z29LsvxzOzZHbA2vbkCdlVRNMBAnCz68lMa8LGBXmdqXCQ==",
+          "signature": "3ehb1YyGxDXKRbJ7KmrtK3qcD3bXxPnaz6wNJpoqur6geuagUgYVpCxsYVLdZCpZjzgBj1ShfjmnL4J1rQkebA9v",
+          "raw": "AYSLetXrgswiy2jzGtG3AIl0PfHf3YnAv1UzbtRCdM9vS7L8czs2R2wNr25AnZVUTTAQJws+vJTGvCxgV5nalwmAAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg4NDQ0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488444:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464488524,
+        464488525,
+        464488526,
+        464488527
+      ],
+      "tpu": "5.199.172.176:12002",
+      "probes": [
+        {
+          "skipped": false,
+          "signatureB64": "tNpHAg+Yov+/BIqL6Pxr+MGJ7uvqfuaRfczBfYF5GT4gKLP1QICNzOh7BYTim6so/5UQpORYqUm8RiG+03ylCA==",
+          "signature": "4cidax2GgV6HKqyJ1BoSh4v58LjZAj4S1V2CRnRmExPeN6puNpxc1vfCcTBbYuerKe3oRCg7VQXadBsAAb9PjyUT",
+          "raw": "AbTaRwIPmKL/vwSKi+j8a/jBie7r6n7mkX3MwX2BeRk+ICiz9UCAjczoewWE4purKP+VEKTkWKlJvEYhvtN8pQiAAQACA9camHFOqKQL+HGPbXz4jilqr52S59pMvoZan1kMXgHcAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAwAAAAAAAAAAAgAYc2JvOjdRUUdObTp3NDY0NDg4NTI0OnAwAA==",
+          "payer": "FUgBDimfqsWwFHNyRQXKXGJar38f83RmnGnpQMf7eiaw",
+          "computeUnitPrice": 0,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p0",
+          "feeLamports": 5000
+        },
+        {
+          "skipped": false,
+          "signatureB64": "n0tUMyguDhXYycqgjHQsA4UmIjKdM6i5ZaOpgDBt2uGYxi+npIHs5VO17LMcpfwkku9QvoVQ4B7eRp0ElGjzDQ==",
+          "signature": "4Big9xCN8zD6n7HSkUfopPNEkLYEFQzfE3fSYyEtUMJLPVFXeYpWzMYSCpKQTGU2UkmJ5o4DAh63iXZ399ZRsvhz",
+          "raw": "AZ9LVDMoLg4V2MnKoIx0LAOFJiIynTOouWWjqYAwbdrhmMYvp6SB7OVTteyzHKX8JJLvUL6FUOAe3kadBJRo8w2AAQACAzuzhOGms6Hkinuy7nYZFFIqogWnRF3TRkYGj0tZa+OhAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA+gDAAAAAAAAAgAbc2JvOjdRUUdObTp3NDY0NDg4NTI0OnAxMDAwAA==",
+          "payer": "523pfLhLVBxnzVy6YXL7qxUTAmN42Xg62pTXV7SY6MXn",
+          "computeUnitPrice": 1000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p1000",
+          "feeLamports": 5002
+        },
+        {
+          "skipped": false,
+          "signatureB64": "xJtExh1Dis+xr93bhXZTEz9Fat7XrFpqibOdgxgro8Aiv5vb/AvDsomfsx64lr9oYtSxARuk2H2EjZHm+nggDA==",
+          "signature": "4vzC5onijoKAkHaEntnvnptCrHReSviKLgk7e5vi4cF3Khj9qznnBojpPAnzeGTfbKyF2Pa3Y67HXPoMQYHtiWEo",
+          "raw": "AcSbRMYdQ4rPsa/d24V2UxM/RWre16xaaomznYMYK6PAIr+b2/wLw7KJn7MeuJa/aGLUsQEbpNh9hI2R5vp4IAyAAQACA0Lc/G/RH8V4KkqOoXFWhqu4hCWnrxeeU7K02iSp0tkUAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA4gTAAAAAAAAAgAbc2JvOjdRUUdObTp3NDY0NDg4NTI0OnA1MDAwAA==",
+          "payer": "5W1MFvM4D1LnUs5JRb7e56k5kPDCjBFcacwnFxsC28Aw",
+          "computeUnitPrice": 5000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p5000",
+          "feeLamports": 5006
+        },
+        {
+          "skipped": false,
+          "signatureB64": "BboWHVAKzE5W6u67Xy24ZUn9s1WFHpyWqNNwbVEO3DkN4M1YC8juqMJis8QMiie+ufs46yB8Jw+xhjkLNwmCDw==",
+          "signature": "7eB9JP2m9RG68W1i2B4mZ7iR55NkPraD5y7ZGEhYUA5cbBbZntCEdnP5WsLKveHS5ogULRjvkNhwNK4EVKyF3Uz",
+          "raw": "AQW6Fh1QCsxOVuruu18tuGVJ/bNVhR6clqjTcG1RDtw5DeDNWAvI7qjCYrPEDIonvrn7OOsgfCcPsYY5CzcJgg+AAQACAwvQrTmUniHhgcpBxSPHVZKeyiRGI8txUvKVYu453ZGQAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyBOAAAAAAAAAgAcc2JvOjdRUUdObTp3NDY0NDg4NTI0OnAyMDAwMAA=",
+          "payer": "o83HSoC8PtmRqJ8pg7mSzqT7JyPokC9qfJtUFQ9dzPH",
+          "computeUnitPrice": 20000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p20000",
+          "feeLamports": 5024
+        },
+        {
+          "skipped": false,
+          "signatureB64": "Hfi+BbcOa2kkszJSrPylZ6H/bOjwaV8j3TBS12U84k6qkWFLAxMKRa3fXjf5xVNyrGThPpG42Z8RnRsCLU/lCg==",
+          "signature": "bkopf23ExWSarkuqjKr2Uz2vYwQeNe5xQdtpcuvjsp8wMuZTJznYNpjsw2rsJejsVpzQUgXex2QBC1cPcRY6QZP",
+          "raw": "AR34vgW3DmtpJLMyUqz8pWeh/2zo8GlfI90wUtdlPOJOqpFhSwMTCkWt3143+cVTcqxk4T6RuNmfEZ0bAi1P5QqAAQACAyGp43LdH3IGvu3mgfz8Zy6Z5EE6hYM9IIcRvGoQo5sNAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA1DDAAAAAAAAAgAcc2JvOjdRUUdObTp3NDY0NDg4NTI0OnA1MDAwMAA=",
+          "payer": "3GQhr6v7Q7EmsSWgXg2x7DtkGSRGAyWCDMTxcbFve7BS",
+          "computeUnitPrice": 50000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p50000",
+          "feeLamports": 5060
+        },
+        {
+          "skipped": false,
+          "signatureB64": "UoiAO4qgcBLwU7HwHlTib6CWR9A0tEHXtyenyYrvhgHiwV6YFjkSK5beyxK9+aQQ/jcXVE3AjhqA/m1f8N3yDw==",
+          "signature": "2ehwviYpMHTujkUArGZVmDKYUuAogvJgw7ToYeAVY6xp8nU2hSEK84CmYH1KjbzXBnsvcc7XDvnKo18GgmAWRfv6",
+          "raw": "AVKIgDuKoHAS8FOx8B5U4m+glkfQNLRB17cnp8mK74YB4sFemBY5EiuW3ssSvfmkEP43F1RNwI4agP5tX/Dd8g+AAQACA+l+9XRVUfQvxbJm2+SANaq9xbseOhukda0J6ufv4Q9IAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA6CGAQAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg4NTI0OnAxMDAwMDAA",
+          "payer": "GiUH3T6BK3Ec5M1nTairYoN284V9TfNQP7ACMAZqX8LF",
+          "computeUnitPrice": 100000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p100000",
+          "feeLamports": 5120
+        },
+        {
+          "skipped": false,
+          "signatureB64": "DT3rjgunxF6tjMlKVXzaSTkluAURLarZtnb9Xgy/1yt18VxEt8t49qjssj0Nw0gQ/5INJDsJ8cbPTUWhRn/4AQ==",
+          "signature": "GMcR5kQqAenAsU1R1wq9kYbV3nrKhSgs8bMpQygFBJfc8g96z1ugCgAw1GsYoF4JWBabtrwueDgHqmza8dpd4rk",
+          "raw": "AQ09644Lp8RerYzJSlV82kk5JbgFES2q2bZ2/V4Mv9crdfFcRLfLePao7LI9DcNIEP+SDSQ7CfHGz01FoUZ/+AGAAQACA9u1+pYBDPWG5AhxrBY5coW/Z19vHy7tVruh5vTrElHeAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJA5DQAwAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg4NTI0OnAyNTAwMDAA",
+          "payer": "FnfEGnAcXWUVu9NTQZehELvrhLjfhuJzVd6Rinc9GbtH",
+          "computeUnitPrice": 250000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p250000",
+          "feeLamports": 5300
+        },
+        {
+          "skipped": false,
+          "signatureB64": "4qe3g9lTYI4AgR6euKO496GYe9CUUXmb98GavP1sWm+R9gRXoAy7r729sSWdHwduG8LFkhVJeP1In2xU57raDw==",
+          "signature": "5XqBBai6PvjEmG7So5DUm4fB8imR3t3BRFrHuXNmGxZnSWfRpM6R8Te3E28c2HftL52b1Q7eDoUFccN1kdQTVK8J",
+          "raw": "AeKnt4PZU2COAIEenrijuPehmHvQlFF5m/fBmrz9bFpvkfYEV6AMu6+9vbElnR8HbhvCxZIVSXj9SJ9sVOe62g+AAQACA2rGTg90sUYD1A9YbAPd0JhsblRQya4pHdnDbggdpjlZAwZGb+UhFzL/7K26csOb57yM5bvF9xJrLEObOkAAAAAFSlNamSkhBk0k6HFg2jh8fDW13bySu4HkH6hAQQVEjf0vFqWqYYv9/rteocZGN5hWhmvV8xdUUqmJTt8vlfH/AwEABQKwBAAAAQAJAyChBwAAAAAAAgAdc2JvOjdRUUdObTp3NDY0NDg4NTI0OnA1MDAwMDAA",
+          "payer": "8Bobg9BabvNLigy68m5JLPu7E5msxAWMTuJMZgTX6meY",
+          "computeUnitPrice": 500000,
+          "cuLimit": 1200,
+          "tag": "sbo:7QQGNm:w464488524:p500000",
+          "feeLamports": 5600
+        }
+      ]
+    }
+  ],
+  "funded": false
+}

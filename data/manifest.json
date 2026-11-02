@@ -1,0 +1,24 @@
+{
+  "live": false,
+  "cluster": "mainnet-beta",
+  "epoch": 1075,
+  "absoluteSlot": 464485045,
+  "epochStartSlot": 464400000,
+  "slotsPerWindow": 4,
+  "alpenglowDateUtc": "2026-10-21",
+  "alpenglowSlot": null,
+  "alpenglowSide": "after",
+  "selectionOk": true,
+  "selectionReason": "",
+  "families": [
+    "Agave",
+    "JitoLabs",
+    "Firedancer",
+    "AgaveBam",
+    "FireBAM",
+    "HarmonicAgave"
+  ],
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "sendRpcUrl": "https://api.mainnet-beta.solana.com",
+  "generatedAt": "2026-11-02T11:51:33.856Z"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "solana-block-order",
+  "private": true,
+  "description": "Measure how Solana leaders order transactions inside their blocks, from transactions we send ourselves.",
+  "version": "0.1.0",
+  "bin": {
+    "block-order": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "plan": "node src/index.js plan",
+    "nodes": "node src/index.js nodes",
+    "run": "node src/index.js run",
+    "collect": "node src/index.js collect",
+    "analyze": "node src/index.js analyze",
+    "report": "node src/index.js report",
+    "test": "node --test src/*.test.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "targets": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485096,
+        464485097,
+        464485098,
+        464485099
+      ],
+      "tpu": "198.13.140.105:12341"
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485104,
+        464485105,
+        464485106,
+        464485107
+      ],
+      "tpu": "208.91.105.53:5010"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485108,
+        464485109,
+        464485110,
+        464485111
+      ],
+      "tpu": "64.130.57.215:8002"
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485128,
+        464485129,
+        464485130,
+        464485131
+      ],
+      "tpu": "208.91.105.53:5010"
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485200,
+        464485201,
+        464485202,
+        464485203
+      ],
+      "tpu": "86.54.152.246:9007"
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485212,
+        464485213,
+        464485214,
+        464485215
+      ],
+      "tpu": "208.91.105.53:5010"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485220,
+        464485221,
+        464485222,
+        464485223
+      ],
+      "tpu": "64.130.57.215:8002"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485248,
+        464485249,
+        464485250,
+        464485251
+      ],
+      "tpu": "64.130.57.215:8002"
+    },
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485368,
+        464485369,
+        464485370,
+        464485371
+      ],
+      "tpu": "198.13.140.105:12341"
+    },
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485388,
+        464485389,
+        464485390,
+        464485391
+      ],
+      "tpu": "198.13.140.105:12341"
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485744,
+        464485745,
+        464485746,
+        464485747
+      ],
+      "tpu": "86.54.152.246:9007"
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485764,
+        464485765,
+        464485766,
+        464485767
+      ],
+      "tpu": "198.13.140.227:5010"
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485784,
+        464485785,
+        464485786,
+        464485787
+      ],
+      "tpu": "198.13.140.227:5010"
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485824,
+        464485825,
+        464485826,
+        464485827
+      ],
+      "tpu": "86.54.152.246:9007"
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485888,
+        464485889,
+        464485890,
+        464485891
+      ],
+      "tpu": "198.13.140.227:5010"
+    },
+    {
+      "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464486416,
+        464486417,
+        464486418,
+        464486419
+      ],
+      "tpu": "5.199.172.176:12002"
+    },
+    {
+      "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464488444,
+        464488445,
+        464488446,
+        464488447
+      ],
+      "tpu": "5.199.172.176:12002"
+    },
+    {
+      "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464488524,
+        464488525,
+        464488526,
+        464488527
+      ],
+      "tpu": "5.199.172.176:12002"
+    }
+  ],
+  "chosen": [
+    {
+      "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "tpu": "5.199.172.176:12002",
+      "upcomingWindows": 401
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "tpu": "64.130.57.215:8002",
+      "upcomingWindows": 3378
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "tpu": "86.54.152.246:9007",
+      "upcomingWindows": 1403
+    },
+    {
+      "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "tpu": "208.91.105.53:5010",
+      "upcomingWindows": 2677
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "tpu": "198.13.140.227:5010",
+      "upcomingWindows": 884
+    },
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "tpu": "198.13.140.105:12341",
+      "upcomingWindows": 3420
+    }
+  ]
+}

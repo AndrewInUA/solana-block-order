@@ -1,0 +1,294 @@
+{
+  "perValidator": [
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464485096,
+          464485097,
+          464485098,
+          464485099
+        ],
+        [
+          464485368,
+          464485369,
+          464485370,
+          464485371
+        ],
+        [
+          464485388,
+          464485389,
+          464485390,
+          464485391
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 24,
+      "landed": 0,
+      "landRate": 0,
+      "samplesUsed": 0,
+      "kendallTau": null,
+      "pValue": null,
+      "verdict": "insufficient-data",
+      "sendOrderTau": null,
+      "sendOrderP": null,
+      "sendOrderVerdict": "insufficient-data"
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464485104,
+          464485105,
+          464485106,
+          464485107
+        ],
+        [
+          464485128,
+          464485129,
+          464485130,
+          464485131
+        ],
+        [
+          464485212,
+          464485213,
+          464485214,
+          464485215
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 24,
+      "landed": 0,
+      "landRate": 0,
+      "samplesUsed": 0,
+      "kendallTau": null,
+      "pValue": null,
+      "verdict": "insufficient-data",
+      "sendOrderTau": null,
+      "sendOrderP": null,
+      "sendOrderVerdict": "insufficient-data"
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464485108,
+          464485109,
+          464485110,
+          464485111
+        ],
+        [
+          464485220,
+          464485221,
+          464485222,
+          464485223
+        ],
+        [
+          464485248,
+          464485249,
+          464485250,
+          464485251
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 24,
+      "landed": 0,
+      "landRate": 0,
+      "samplesUsed": 0,
+      "kendallTau": null,
+      "pValue": null,
+      "verdict": "insufficient-data",
+      "sendOrderTau": null,
+      "sendOrderP": null,
+      "sendOrderVerdict": "insufficient-data"
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464485200,
+          464485201,
+          464485202,
+          464485203
+        ],
+        [
+          464485744,
+          464485745,
+          464485746,
+          464485747
+        ],
+        [
+          464485824,
+          464485825,
+          464485826,
+          464485827
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 24,
+      "landed": 0,
+      "landRate": 0,
+      "samplesUsed": 0,
+      "kendallTau": null,
+      "pValue": null,
+      "verdict": "insufficient-data",
+      "sendOrderTau": null,
+      "sendOrderP": null,
+      "sendOrderVerdict": "insufficient-data"
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464485764,
+          464485765,
+          464485766,
+          464485767
+        ],
+        [
+          464485784,
+          464485785,
+          464485786,
+          464485787
+        ],
+        [
+          464485888,
+          464485889,
+          464485890,
+          464485891
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 24,
+      "landed": 0,
+      "landRate": 0,
+      "samplesUsed": 0,
+      "kendallTau": null,
+      "pValue": null,
+      "verdict": "insufficient-data",
+      "sendOrderTau": null,
+      "sendOrderP": null,
+      "sendOrderVerdict": "insufficient-data"
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windows": [
+        [
+          464486416,
+          464486417,
+          464486418,
+          464486419
+        ],
+        [
+          464488444,
+          464488445,
+          464488446,
+          464488447
+        ],
+        [
+          464488524,
+          464488525,
+          464488526,
+          464488527
+        ]
+      ],
+      "windowCount": 3,
+      "sent": 24,
+      "landed": 0,
+      "landRate": 0,
+      "samplesUsed": 0,
+      "kendallTau": null,
+      "pValue": null,
+      "verdict": "insufficient-data",
+      "sendOrderTau": null,
+      "sendOrderP": null,
+      "sendOrderVerdict": "insufficient-data"
+    }
+  ],
+  "perFamily": [
+    {
+      "family": "HarmonicAgave",
+      "validators": 1,
+      "totalLanded": 0,
+      "verdicts": {
+        "insufficient-data": 1
+      }
+    },
+    {
+      "family": "AgaveBam",
+      "validators": 1,
+      "totalLanded": 0,
+      "verdicts": {
+        "insufficient-data": 1
+      }
+    },
+    {
+      "family": "JitoLabs",
+      "validators": 1,
+      "totalLanded": 0,
+      "verdicts": {
+        "insufficient-data": 1
+      }
+    },
+    {
+      "family": "Firedancer",
+      "validators": 1,
+      "totalLanded": 0,
+      "verdicts": {
+        "insufficient-data": 1
+      }
+    },
+    {
+      "family": "FireBAM",
+      "validators": 1,
+      "totalLanded": 0,
+      "verdicts": {
+        "insufficient-data": 1
+      }
+    },
+    {
+      "family": "Agave",
+      "validators": 1,
+      "totalLanded": 0,
+      "verdicts": {
+        "insufficient-data": 1
+      }
+    }
+  ]
+}

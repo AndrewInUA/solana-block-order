@@ -1,0 +1,8 @@
+{
+  "_comment": "Network facts the experiment must respect. The Alpenglow upgrade changes consensus; measurements must not straddle it. Set alpenglowSlot once the activation slot is known, and the preflight will refuse to mix sides.",
+  "cluster": "mainnet-beta",
+  "alpenglowDateUtc": "2026-10-21",
+  "alpenglowSlot": null,
+  "alpenglowSide": "after",
+  "slotsPerLeaderWindow": 4
+}

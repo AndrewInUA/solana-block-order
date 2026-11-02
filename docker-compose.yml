@@ -1,0 +1,14 @@
+# One command: `docker compose run --rm block-order`
+# That runs the whole pipeline (run -> collect -> analyze -> report) in dry-run.
+# A live run needs LIVE=true in .env and a funding key mounted at ./keys/funding.json.
+
+services:
+  block-order:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./data:/app/data
+      - ./keys:/keys:ro
+    command: ["all"]

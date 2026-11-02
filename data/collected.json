@@ -1,0 +1,1354 @@
+{
+  "results": [
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485096,
+        464485097,
+        464485098,
+        464485099
+      ],
+      "landed": [
+        {
+          "signature": "429NW5RBVxaDgdzNE1dQKwpfuszDaEWEFfsARrMBd8LuF2Z2cCHVtCz9vajd6T3Y9Y7vfGDXfxFDqhj81NYA14wp",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "52FVLjW1djUXLu7qquw9nxXnimdUwL6hSy3SxHQ5UQHngkRK2pzQYzMpaZyojDp2e9DM2sJU6j4tdAVdNTXY6SYE",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "54yRMEhpRmc3kEyJS6KPKxPvpYwjHiTfNPk4sJR1mNosmtdnaJYqnPPHc9z7TXjtqTrgBL8nUaWEhWFeX2ZT3oFr",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2RpNZue4iFYsFack8w1AGfxwcEU8qpgEr8t7mw6AizBiBcbxCswVAERqrcqCPZqajzhGfF1n7Dx2m1UgFZhq9Dzh",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5Roz2scRK8L5UtYV3ED42NTxXc9R791QsYw6V8bE9FZqAT9Ky6KfJTUf5AfpC4RRqrKaCTmXqvRtgaQPxJwcPYeh",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2nqUabA5WTZYx973iN8DCkgHzfeppT4f1BjgiyXf9pGF2crZjBUj1Uz7TCgPsom1hvqVNjoC88Rz4RaBi6F1eWjf",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3Zyr8HASDQEA9Hqb3yFPLD6bxwtQ5Jb6LEZbnBMj3SV5nurn4ZbFSy5986B1KHKkZuqYxDzQjSkGkBWovpvgobhh",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5FHR3UMpsnfJpgpjst67BsDFGP3SoD6xbEcCp5au2XJ1NeoncLuewkP8cYXUjGyZLUyqmoAmNFs8VE9dTqNo7aeP",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485104,
+        464485105,
+        464485106,
+        464485107
+      ],
+      "landed": [
+        {
+          "signature": "3CbY6uqybcf2jwytFojz3DMCV9md1NLWRkiyG7gcYFU3YBNWFSCxECEGJNAX5eEe6MWNDkrygNFWXecbkQFfjFhH",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "38xwF9Q84L9Z3wybPhauTYrH9FvEKmgtMfzkYGH8m9JmqsEPHQZEVtqzz9QwhPuG2DiJAVPaqBk2VAgkhx8XsLM8",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4j63ivtuxt7vG7E5sK9XLfcKU6brXw1W1UMnonycu2ABivVQ6E2AJSBrFBggTAaDUmx9j7dRrpShQq5CBhDrp1va",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5AxR48BMMg9ehgb1EM5FGgXHHkPx2rix4cbxTbLH8pHUYK2sTt7kJpi5JwZZE4N77rsWeH1rAWN9F9iCf4VEESe5",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2t151Ve8KVVo5p85Rb5AGDB1nTydVpcGu2zAWJimBuLaHg4NLnDTbtGcKLPKJYmPQhKaCECcQQTpK4UxLnve93dp",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4GafhkwDPNxDMAziDbma7eG8j8wiP1E6KSFnNjifBdgmRj4iV9VZxbngyZHo2eFjGVS41CfNLaAezCGdqVGbMsFs",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3Ai979d1vbkS47W6piyAHdNG8xiWenGrZGRkU2SKPP9QM8aDaRTiM7QHvGn47tyXUsuKVfbGybtdeaMG8tJ2AEXQ",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2NKTMvkbiXwswt2Gzb4WJDXx6zYD7GMJPF4TaEz5rn9gWEpEp4WMo2uY37RYUxbvbe7k76zcs9ugfXdJoQ4voFNu",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485108,
+        464485109,
+        464485110,
+        464485111
+      ],
+      "landed": [
+        {
+          "signature": "2Zkw6b1Lz6CQB1HVZZwjqVtvJn79M75XQGYBFkryiCR5VKnjSEQ3juR9EhttYLNK4R1xbBs6ri8huEsjiqqEAA5j",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "Nc74B3HcFUTz36w71WRyhmKgAen2EH9uEc9Tkp8Ye6bPxS1E5JmkF9fghPQixtT6L4N842oF8Zi9AeXnay7QtYb",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "531g2HMSSfwT5q5xpKhd1Zsmm72VFaacWXFU9DLJnSb6iZtdtJ9L4SWVu9J4AtaWbM3Boi2tVJaZtaosRW34eArq",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4C8Lsd9MPWqKitiLh4kRqyWiydfa6HMbb5FaoksgJxq5yCGaV5oYM3iUhHrStEjBMUyx8gfknf1VA7GdQg5ttKes",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "36bcU6J3oRPhPc1f1TjC3w1pNAQPmjy3VURPoMnaCzLDSE5cG9o7XAR65buv2newCfVx7EdKG9XhwJoMXnxuHJhs",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "fMaSms8pxPrfXGp9GcwCsLYxhQdN9HHcgDSMrtbtCqjTt4ifQYSJwzhe2LT79u5B9t4PoTmLS8T9HrDyiG4wyuW",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4My6rFWxehAF1GGnkS5abhsE3xCD2dAUira9SMpjWfWw32C3mUYfHsyyhMdP2b1poL6BCTX94vZbfy1DUBC9jHNP",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5aTxpuwn4Wvs2qESMcDkdMzYVqJ1nfhKk7Jecm6XVwhNawMKLvLHo7dXzMFKDJgtNc15oWfFtqhL8MVckuZn26gB",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485128,
+        464485129,
+        464485130,
+        464485131
+      ],
+      "landed": [
+        {
+          "signature": "3NTrTJ8tgZZYD8x5VVHpV4dXRh9FaHrP1QuYBW3yeSQTacgQjB6rK3QxkyLKUnLCHAPK7i5aTzrPnBNxKj1A5X3",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5fG4YGmTxx8fmhtQ69enmjEhJxYgcyK4DixB6egFhvTsZdzcr4e7HFSEwpDsji9m2eNfkax3gVSzAJD99t1vf3HV",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "Vfq6tV7JsyBRvQB44NaGJGCW6e3X9JiwbxiRx1WX96aXWTsig7nrh8HX37FVonni1d5BtAGhnGGcTjoRgMfAujn",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "38T5ZLDVbpBPhu1AoW88Ki5btrTEmXkLe7oj7ssigHp8iCxuajmSY4rwYWbQibdSBgvMGMn7Z1qgSaiVUns3rFFV",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "MgicweGg6UxYRxuGd1dhqknGfsdnavom1nS8KqpeUPWCzf34YVgy3a6HAvMF22XHyu2PeRDeqACiKa9RNR1WQ17",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2NAuetp7yGZzaDs3Uq59ovivxbat3G8vvuLL7wRTZftk9rmf78ASEZFrSyTDFQSLqN8TBEvZxjYJF3NweUn66FjL",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "9mgyTbzhwhqe3RHxvBzvjXwJPe4nfpTk2SqLDnzUyVCoXMvoPBoV6TXWu52rSRKwDwGCFDaciECFgEz62yMJjBo",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "32R9EAb8yFMHb6RqWgp4xPyt7GNpU19om9FGxfRmcHuaPYihEdfgxGhCoy4eT24nQVQx9RJHaWCbj9dMhsY3m6VQ",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485200,
+        464485201,
+        464485202,
+        464485203
+      ],
+      "landed": [
+        {
+          "signature": "4ddKfU3PegWbjf5JCHso5CAxkH9xWX7zs4ZwEuFK96RVjyD1fYvctByCt5ovQPFLkNxWxm9rtvowRCExh3Pm4iX5",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5BAkgycf3dwMXvFDj1cqnRHAqt5WWdw5Wvd1SWSrpLZBKcQof5Kprwwwe1gMPEMMhWumAFD5H3kacXk63A1joLUk",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "W9Ahf3oy87YfteHaZrNptTAREJPKEgtaVB77QBtGkMgKDSFezPuYexqENgtsyDdEDvfK2ZxiSKfdBjZQnb4TU9i",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3VCw3C562d9PvriXpn6VCCWFzHu54ANgeEPTcba2bzWHii7HYFTeceDu5q3HRLFg8B8mqohGD9FuF7cbMmMEJSRU",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "522vfVwcsLTKQdA7F2aR5LMsmdVi6JJWTdWnp8qLCBw3C9NAxJmhp3NgYskJwECkPhvMbCYFLc4vksaQ8m2kuBWR",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4mY1fZDfHbH1jBujHGmFVrNY1U8s32RhniemEUta2NT69BgnMavawc7AtdUPf3VBwWgs8bdZNEy1ny9Zd9jaZCUF",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2sd6xtKJRyhPYy3FEuyVPUkQwkveYgcqro7NXT6HsCKweJbd62mRV8rstHB1eJxrWb2jvueezK4MinScdZY1n5YF",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4Ts9x45kZjq74RhZu4vW5PZbpoDEnwdWN4vw2Qv2bwCKxkF4L48Vqs41Li2GRT6pep4ARUsp4ED6r8xjbLWXr1p1",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+      "client": {
+        "client": "AgaveBam",
+        "family": "AgaveBam",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485212,
+        464485213,
+        464485214,
+        464485215
+      ],
+      "landed": [
+        {
+          "signature": "5KyXUANGm2NcCAYurVKns6UiAK9jcmHJeTKZpX99ZH39DULsEPHK5FN8k92dQFHk6E8ieQJuu4ccZD6PBYZMStc7",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "65QbY4LrLVUuS3UYmEXKahyHEr44FoRrqPen67L28KTL6GwDsMj5rbfrVXYVwBM7P3wnVcywnvzHdZV7hYPJQEmK",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4y8o5UdnZc9rdnZmA4yUabQodgpJWpZbvMvRe5bGKKatSrFE2As2nXpNdZXb4ZbNYPHcwLyFFFBwGzTiYv7R2MAB",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4FBXHGaHy6yS3Y917nwGHHE9PWWsPJAuWmqPAfH7mxNrSCdC9wDoQ2XrZcaZXz3UvS6F1eidCJah34aLs8CiRTBh",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4ukJpWcwcwCFqGA9kRUFoZZ436yATAztEDDQirmGFMT16u3TgbhBjeU2KN5KHDwcfDnvacYk2pFBqcpazPLX2mku",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3yTgyZNhhBRJfDWv4XgX1LZW13LHC2YmkqhTcmoerg9ts5t2ENtCB1u67JXnBCCV9HhEwrt28rkivLeprsSjxLVt",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4xRCUpuXGSM6NR7BkA1rKrVVL8iNYy4kE4a47kv9Qb9oDLFhNttcRhdpZHSZ4w2dTWs18bgsFJ1Lbh3NiQNBUgQZ",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "62ZXRvDdofy5TAnrDiTimB2WZg7cvZXxZMWhgaA9VEAn3M2jV3wgEhWA3hB6szxpQac5u6wYwAvDZB9B2AMc6RZi",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485220,
+        464485221,
+        464485222,
+        464485223
+      ],
+      "landed": [
+        {
+          "signature": "4TDfvth5dyFhkxduWaFT7Ass5oxFkYRNdd31hsa57uSDEMAmrARcV6gACJZVeHxnK9GLf76hWDS3ij2DWHWMyAme",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5ornB67o7Wh34SJYFQ9coPWX93to1rdiAzdrUgygnS58RgT4yvZ8EQGsdXUpJEVeYZUSe7obFcNBkPJDC5kyfXqg",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4ffzqVzK281ZfHFttpWD6CyrLHUuwD7RBMjRufiF7BoPFA3KpkUtmENcixwyGEciUX8tAMfCpcwoKyeitgyqYp2M",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5onsV2WvgbYKdnvcYcmn5RcKiYwUVHJ9DjqDBuQwp35rTetKLmXMT6Vww714RXrNEMaonPjqYuUfqHuwBYq6eW1U",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2cF6X7i3tVzGw5q5LLNjKFwW8ZupH64R6K8qniJvH7WeMauYHbcyRBP34tdomN6fCzE8PHZUmtQRzaZbkfEqZbTv",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "25eN2uvciR9an4Cr7gnmUQ6zKcwmT5zwB8kFirec5SRE69vJ6YJrrUZtkG54N2hzkR57HSaqTjB5zmNtX2gmeBGJ",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4musDGawmbwkzgQucVB71ccjKoTrzxuLh7mnEtUgxdpwwtbJngst1Y7qRRECn4iqb9jmSdS731GyPVF2q2jvXgEV",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "57RsqQBVBvuJUrms78PiQgFrdQ4Kmm5tsePVSdFcz8SZL1jCfnApAEwTAaJhaYvbmV72cctDj9kMahfFALMJE9qi",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "client": {
+        "client": "JitoLabs",
+        "family": "JitoLabs",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485248,
+        464485249,
+        464485250,
+        464485251
+      ],
+      "landed": [
+        {
+          "signature": "4VZs1toYDH8hFEzTzCqjrN34ozetuu1sgaPa39ho3MYwbZFnGfA2zAt3A1LBFttY4fsMtMtU9PZTWFS6cNvqGD7",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "64yh4Y14cNHhtscwmj48wVqyntKDV7a8R2wjd72kDunRAh9BmUWntUZC5nND72mWnBpZSB7PVpzR8f3BNPptvCaf",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4e4MkXNMQdnm7gtkyn85Ce9Z3cAjk3FczjQrixdx556BqW6SShfkNSqoUCZSVWMvSAJ2ByvVB2811N9jW7tQq4DM",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5t2spcyCpJRGxXToFUyLuPRoRgnQfX3XMikXt92MLf7pbMQJTkyhCiyqzQLuJN8ZVsJoAJot7TKZkmn9pFHi8YXw",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "s2KGUhr8mQvWixnMzmbr6BQwwAigu1zNs9wW2EJ43gmNtKqNvCQJmbQWnCToBs7SfMufSW54za67NYgxYYQJDtC",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4YxETrfAmi1gt84izsGG3Wm9ng64NxM5EKiWV5fzhbx6hqjHpyr8nS1x9eej7AHq89QuoJDGr1dKYPBNvJFDZyDx",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5PWvs3rCczNyBtGaK5E36HDqJ4uNgQT1hqQA9c8yo5Wp4qdFwehDjDv2j7gxPHk9LMx1Nt9d8svWxTfnC4v2uQhe",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "37DCiZuUsoWziCZ6RSSqrbAGvZBUoiVKLCdMvQ1VQkjqz8NNysuzAf4sC3WzR5immd98g3ZCzVjhw7mhPYCc739x",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485368,
+        464485369,
+        464485370,
+        464485371
+      ],
+      "landed": [
+        {
+          "signature": "124ekSnom2fFPM1G2qnfcggWh7Ud5kbbczwUpmwUZgjt3GtVQTwFzCRxY3gdHF6JaUjGBt72AQmMcafNfaNr9gpo",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5TcLmd4ocENQdB1BYoTTGazKqde7Siwsh5z74oE36NvN73ZroRqQCvax93LVF2skeH2bxc7AAU7aMWyC1MyXiiEE",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5xfmuWRBa7UfTpBniRfMtFjybNJtJZ3s1pVFDG9ruR1c7TZmvSeMii96URuD4iHuc6iTFAPD2ot4gyS8KZzwMZZc",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2xnZHF87x3Ry6TWbayG574TL5NWuvBUqwt2qjx9yzRpTMt7o21o4KL7X8EjQYt7VaV11Cnf1DBtZqwKpunFoK4JK",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4rieQN9CYFA2LkkE5pUuYyZtXPhgys6x4mDfunyxQFTQjSMSYGBZY8VVoYYzULncCHyuj2Uwzq1GKa1dZxmtJcTT",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "n3aEeCD9R8mpk8nsaL9ZQmM8Z6upCA4xQS9oUezC62zhtHPnDrwvYMWaXZ2ixZcGy7gVpjYhzC44MfDAsE72bjH",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "NXMqYxSukpQMvPotuofs8qLCDebNaaQXuE1ubsgzSbGNbQx3YqM2RiRTfaB73rw6gB8rYcYikFxNSvAa4R1kii9",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2USmnvMua3g5w9A16fXzR6BFa8smWC6Dvb6WrYUighansdyESANXQs6RPtFkSADKAe232xfHbWPCC2MmxjwoU5ML",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "client": {
+        "client": "HarmonicAgave",
+        "family": "HarmonicAgave",
+        "version": "4.4.0",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485388,
+        464485389,
+        464485390,
+        464485391
+      ],
+      "landed": [
+        {
+          "signature": "2sw3s9Bz3gsApcZRE8pZ7yfw9Hpcm2SuGHemWCiddHnwAV4A9cfq1nN9NF56a7nd5CRtHYZZzjff4ZP9Y2yJ8zcj",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5xSBWnZbgh8Q7WE9N6ZA95iRjGn4XqAkWX2UbGa4MDPPrWJUEVhb4KxmDDMCf1fFV21roh7ogAUkMmqrzFg2zMT3",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5dC5hweZVcsvcFG74JqFPujfzrMCSA1kNQUZDZvbhym1vHvxYGWXRE637h9DF2GXWpShB3KnnzkDt65GcfKBvwnG",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5bswzGy19DDcSrRZYqNzCEjsRWe2AHdfQifvmtREwKNN1os5G11mKoHKh89toZUGfLqJeEp6QWg9scSva64DidPv",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5Rw6oz8ivUaZBC889oaR1WG6Vmz5TV4ZwKgM3pjwr97Dci3ezkKvBRZVRyGw987CFTKSu4BN8FL549HNxyXmXFnm",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3F5ZkbNnCpJoVi3BUoKQqoKpqPBhXyZhrYdcbUruXqsGYsBEBdetk8pWmm7rctV49X8VdgyQbPQnvwmeY5etZwW9",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5JEKu3Z9w7HoEoQvinJL4YKT6u61EjjUxhbQRD196EKcRBPHBUV1UiA3iMxqyLq1cPCaNvNQVoW9KQvdru4d4ZR6",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4WCFKt6igzMTBrLaNDc69bqEQscmXNjVF1ut1Qn9jecQzXQHkku6U7nQ7XB4s3fKdputNn9N2qEtmjvX69AFvr4j",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485744,
+        464485745,
+        464485746,
+        464485747
+      ],
+      "landed": [
+        {
+          "signature": "5avg3oWyyWJKbDQkFpqwim5rXsVL1cfsUyAt2oVxygFQoMSkS5k8RSUs3wSNmLFSyPkNHjNBh74ykT6JuQsdcEC1",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "55C3jn6KspoyQXgkxjddwyWdjtpkntP3VS5tt9LvqyLcAHoEnhKzxeow9frZagmjuR6U22iELXxNhFuZHsLrutQN",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3FYNCL79BbCbKmE8dLtwzFgeECRzqgv7kYwgCkgZGbwjP3LaF8bzueAC4ogT6xeUqJBrWoJN97u2FFXb8AtjYoc",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3YLtWQZkmvbXhBMCdcZdpUbZKfSsairvPAu9ANNr9UkAzQgR7fRVfhDTYua692ZYmWu8bpWtLfXy6fDJxGD8SqKb",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5yCT8pEDyrYVDkgSMVeyh431LbqWNRATU8dnjFW1hCgv6dQFfW3s3r3dj5pMYKhj5mrFXNmpHSPy9xQZwb2yPUAf",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4Aukw46iePGYSfgW7x4EqknUPfByBGiUmgCMaAfvF9Mnmi6dSDwg2MtApQw7wj6UtzQdn5RA63oHxSPUvjhzCeeh",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2bSbSmrPP3fWBXtVRZMBQMi8CmRogMUJx3yCwEUsWPfgaNpWXXQDi6LQXeTXq27sQGchCNk6TmBJYBZvMRXk1FtC",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2iAro9vgfD184U8pLhvQaRLJhUrCQ3iX4f44FqbMKvtxVuitcEG3H9WKYb1R2HZtUioTZ4ADDTdvMyDnfbkMaNwE",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485764,
+        464485765,
+        464485766,
+        464485767
+      ],
+      "landed": [
+        {
+          "signature": "5vpR1yXqejXHpmwpA7EAvf6UVc6PD6UjLdCr2mkCtZfrsg1w2gLwk99ifuEhd4XppniT9FDDVJ4DrKpqKQhckM3X",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "mtW8VQLuXVQsCokk9HjJKVzEPRk7eiYGbehbDB6ptoKHmxjF7bx2aSSN3EeJb8Ge72si8A5JSRF9ruA6iQZxgkR",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "349AQ3ZZmQ2a6A4DHyzLoTsuX9nZ4HCHpWW3stxnR8rQiFfNQDCF2p398F1pJDHXn2N1v5dbyoWQ9icZrwG32bjH",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4A6oFgfVEKFkwo6RFAsweb76M8G2ppoGeK3ZhYQJSPf7jXLxJv1uVhbYCMAFV3LSJ3QzPi5zAUvGCSDaHpTUbnWZ",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5nNNfj7MD1VswMY5L3e44rejAKvmGFjy6DaJiXdn1JjD3UakecNBuyY55mvfq1DNKC1aH1vBiqJJ91CnJ9CsvqZy",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "9TiXoK8zHEmLvPg23D9fjnSnWpBZKetx2sNdWA4SX6msQzKpAKXdzxStNuScoUomxk5QG3N2aL2nuuucVn9e6Bk",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "enDukcQkoDK4rkrmpR8EiJqobnwNscpTdyuvsV8Cwr8JDSrupnMx36kCKkX9rsjMegxY8X78oPaZYcHPGUds4yz",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2mjrDFFxYVm79ugGQEzUvh4AKJtLYfhyYnEjo6KPV3Fs2oLXgz4Ce9Wz7wdwaq7Ug3EmPZFDPrDkn2o4ykVfWVbv",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485784,
+        464485785,
+        464485786,
+        464485787
+      ],
+      "landed": [
+        {
+          "signature": "4qnv7TCcJtBHwjZfvCZHKnrQJMBEFuUvLmkD6DnPk2ojt66Vc6jNekiNTzLNzvET3UEaFk5GjwW2MA1xQJy26iaj",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "42tCyR79s1Jb9RPjfoLZPfj6DCmtZCesmThxyW32VN5c32egv7FrML7rEUXYUvVHbUeJZTvjwxBWoET5xcaLdpSD",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3YNYtE11VezaHT6R1azPHjBDzk2MBug8V6DC4cAvP9LJ4wM3esRzgpSyUWJ3Q24E24iiD18iqTkoqc9tsu52zFMD",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5biVCwF9AnPEYf2PsVU6ENFg3rDQkZmxEAUfW71uRyJ2PfiJ5JkmcQ2eRFMFkQR2eWaoGV9tggGLmragp1ZJuL44",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4QvSFKLFNi4k4mSJG9rwM5t2UnNUgbCMQopRqQKUaWYnBM8V7DjCajogw5M3JXnJYgTggUD63nFAGaSizH4Q9rEV",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "cEp3AB8Jwfge9BQkhDBwyqMk4CNEhowfTUwx6fxp46MBL6FWSwDQkF6R46LwZf2qK1QnbuBCJ324hf5ipDNLhwg",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "24qfz2gLFaWhWny7s3nRJgM1X1JbbETNZUpCimaXVep1ABcwFYXa3USfQqCBKCNvayQT3xB74cuL5BkrU47aF3Vp",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4JMYk8Qx7hkcKDsfko5rjihSGo8WMnS9m1MFtab6dG9i3tzXDes6A7pEv515vLxEnVMRg9S1NLf1AeXiuxC14DdN",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "client": {
+        "client": "Firedancer",
+        "family": "Firedancer",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485824,
+        464485825,
+        464485826,
+        464485827
+      ],
+      "landed": [
+        {
+          "signature": "3jGhX4Hqj5syRyXB3gsirG31UGTdpafFvUuVkiWrUYrDy4Ro5tyiehh9fbzt2WA1XLLXcF8E8jHrCniz5WaSHiLD",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "64zp1dDoRpuN7LNkDBq84eej9Mga93BKTvatUdrPSh8fytFDdgkCto897sj4pCbimWpKkbDap2Y1WBc2eNuTXj7w",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4cDjxyiw6qM2ZK786Feb58XugompsSvUQT6dqq4tgR5svUEHurvbuxxivc9fpWtnXTL9VKonaXiue8nXB8qsMCoB",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2rEXktr6mRYgEzBsbebjmdH7zyNJrnePpHnq1bh97iCJWnPWmE7YJNRKGkoTNYwK4tYe4vJgHkNa2SU5r7TsuHB2",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2zsbDJeskPW1cHmmjHXVDRFrxn9AkxZ3yV4q932TmyyoWYyZ4BLEzTkXfSET3ijZamNmWvZpwUhTCYoexKj5zwv6",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3Loc7NBcncQHmXbQGg8h2yJTU4mTUxaEWqaUkA8yDJaKS9SkTAGT1WfcixC6TEic1hYPtpkC2PUvMQPXrvfdhrUC",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2xPe6WSw9PNEXe4XA3HtDY8269UZBKYd6zbP9k5zLsFbPeW2Vmb8XiWGud8GNB88Czg1nGLDJr8QVupoTfgtRqwu",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3mHcfMYdi5SiNYjr19maJH6nmQda42x9Ubbkg28eeBJz7mxUduY9foXBB7rRJFSrqqc4EVKH73E57AyS85shdu96",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "client": {
+        "client": "FireBAM",
+        "family": "FireBAM",
+        "version": "26.10.5",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464485888,
+        464485889,
+        464485890,
+        464485891
+      ],
+      "landed": [
+        {
+          "signature": "rE7rMYCSaN3tkFT1oSGyoXoz91rfzS4guaBzALSWK739hzVKi9TDZjkpy5rvsuEHfj2C4MjkV6AFXkGjppUBYnM",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4vuJMASNsP9MdeqGh7xsJqL7kmFcLVBz3NkSbvfVmZVWjdVCUR8VSghGhM9p34RpAMPkz7sqffyBtM7cmqRJQ8nz",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3GXJLL72sfE3CP48GcbHuAjqhUXFyAdMvPxrrWDDu4yyrgyqepKd6qKKHrb5bJGfL4kfCvW7cbYoyApspzHK1Rff",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5wKAQ4fCFqhWZRHd1gR2xLUXHCzueeJukiHgMYqbGwdRptGB9f4Sfutu3MfH1qpLWzLvsXZgP8rP1JZZrvdoXwtF",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5CuaThHVkEma2CxGmH449YiW7BADGrPMbdDVV2r9uuFBi1XUjst5AMxbqDxXNJgSwSdkCfASXuHdZS3TTgcKbt8t",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3HEW7iB4k3boi7gFSZa3pm4RzaddPSMGwHmkd1F3HAff9dvPdtj45aifQUcGQEHu9EdrCsEWJVhmJD73RqSVPgbD",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "n8F2U7qhrxkZRmESVnDBPMZCGssNb5SV6P7YDwpzk6jsqd7hHGRKiMqgS2vKT5TDhBAZ8fGsEwwNZro75UV8NiP",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2u8dXndaWnWw6m1d1zjG1HUCDCrKxpVjLsByzESpM99A21KEm7XGcdwt1HMQQWwVJYkxUUUgkRXUEdSg5VzYLBTo",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464486416,
+        464486417,
+        464486418,
+        464486419
+      ],
+      "landed": [
+        {
+          "signature": "3wsKsuVdvHmdyPCf14qgKQCd3siLGF8CKbvsBsLMrdbcuqDc7Eh2FKUHmFmzPMSeFc5Ag61mmuyWHUtmrWFCE9tV",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "61kH5A8SBJk4jKJjf8Zka3vTJtoMBfTwCBMA1VvAjXoDL3NCB33cYzKw13RW4PvFRNfeSEdfcw3ePTLpXmtFWmaN",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "qgFTMqZirL5Jc2MMMcVpe5SMDgp7n3QaVXj8inWRTxyQffpDmqzCm3WufW7nnm59rkWBg8jwszUXykNPFqRemJu",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "BG8ubuSCZrNzBV5uaoAbJfLUgxjFWb87o5GQx36jGAVJtSZP9PUoRFCtR83MwKHLUsVAVHAxNd3N2N7zhAwo1wM",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3YWtN83cf77N3uur9KeiX4p6TLWhVraH5aA1g79VYefN5rgqycLVrvRbrpnU8ZzgpXt2GdTKDqaPjdqCSUnvBhrA",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "9vpkcqqqvizSE6YQaFXv6vM23cAkSbbcBfPVqre7rjtHtLUZGg47pcPchj3pj5zxdpdkJkomXvQmFrKKE1R9tg6",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3ULzujBZaWUGfxY19wUx3LgDjrWaAGU1XqnFEJBt3NXpaW5gxtxgNXtin8bG1sTqxd6HLqRYLwmday2sYpdcdGZZ",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2DM43cZMxyQ1k22GAxPXad3qYTd6UedpBNhYUUm4jZxsYD7N6JKAruxkbFrR9LHj9nBkm4vA4LT5aKrQJFXkVLM9",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464488444,
+        464488445,
+        464488446,
+        464488447
+      ],
+      "landed": [
+        {
+          "signature": "5qmVUQtEqMohsRTtRpndXszkp6mUfsQTX1UsSaN9N9TzKQrvC5mN5rQvejvGU4ndG1WcUGAM74Cek5zsgZE88LAh",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "8FJBrT3JASNFcafUjuBbdWypZ9zbPz17sf3uhUhFQodEUDr8wu382LomXgiuWhaD6RuSiP6KrSiuzRoYeDkKuXt",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "28Q1ESB8mbSw9LGpheY4N96gJBXZWvp21fM5HUuf9QJPdvQrE6euBsobdcvpjbE2PcqPaJP6bvRE9SiQiQ3P4fL4",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5hzqioyJg5DEyWbg4Ha2ytv8fXzvkr9sWotegu1rquhkqpXjQpYBZJWbBX2vHD3QEVjAbVXWR6zskysPD4hCvvNP",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4c7HW8HkrPFwLarykdWk1hDsaWF8cXxxwDs62k3Etqw5URFxVQsRXJGKxNjevpNxuYpDFxm5J8AVRwBs4ZPP49pk",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2SFKQJiL3e5fE5HzrijzknB6q5Aiv1ZAhNvYqmnet1nhHC12qyE8mSnCMniiQbdoxc9vznoRTJSDFYNKAacKugpE",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "mBQD6zJZnDJr5CZDJUM9YRS4d6DXQxkxnLWvouk5wDN42p36cChJ5FRrdFejp7aZUWbsCDT3fk2ZXr1DRGJosFv",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "3ehb1YyGxDXKRbJ7KmrtK3qcD3bXxPnaz6wNJpoqur6geuagUgYVpCxsYVLdZCpZjzgBj1ShfjmnL4J1rQkebA9v",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    },
+    {
+      "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+      "client": {
+        "client": "Agave",
+        "family": "Agave",
+        "version": "4.3.2",
+        "source": "gossip-clientId"
+      },
+      "windowSlots": [
+        464488524,
+        464488525,
+        464488526,
+        464488527
+      ],
+      "landed": [
+        {
+          "signature": "4cidax2GgV6HKqyJ1BoSh4v58LjZAj4S1V2CRnRmExPeN6puNpxc1vfCcTBbYuerKe3oRCg7VQXadBsAAb9PjyUT",
+          "computeUnitPrice": 0,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4Big9xCN8zD6n7HSkUfopPNEkLYEFQzfE3fSYyEtUMJLPVFXeYpWzMYSCpKQTGU2UkmJ5o4DAh63iXZ399ZRsvhz",
+          "computeUnitPrice": 1000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "4vzC5onijoKAkHaEntnvnptCrHReSviKLgk7e5vi4cF3Khj9qznnBojpPAnzeGTfbKyF2Pa3Y67HXPoMQYHtiWEo",
+          "computeUnitPrice": 5000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "7eB9JP2m9RG68W1i2B4mZ7iR55NkPraD5y7ZGEhYUA5cbBbZntCEdnP5WsLKveHS5ogULRjvkNhwNK4EVKyF3Uz",
+          "computeUnitPrice": 20000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "bkopf23ExWSarkuqjKr2Uz2vYwQeNe5xQdtpcuvjsp8wMuZTJznYNpjsw2rsJejsVpzQUgXex2QBC1cPcRY6QZP",
+          "computeUnitPrice": 50000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "2ehwviYpMHTujkUArGZVmDKYUuAogvJgw7ToYeAVY6xp8nU2hSEK84CmYH1KjbzXBnsvcc7XDvnKo18GgmAWRfv6",
+          "computeUnitPrice": 100000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "GMcR5kQqAenAsU1R1wq9kYbV3nrKhSgs8bMpQygFBJfc8g96z1ugCgAw1GsYoF4JWBabtrwueDgHqmza8dpd4rk",
+          "computeUnitPrice": 250000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        },
+        {
+          "signature": "5XqBBai6PvjEmG7So5DUm4fB8imR3t3BRFrHuXNmGxZnSWfRpM6R8Te3E28c2HftL52b1Q7eDoUFccN1kdQTVK8J",
+          "computeUnitPrice": 500000,
+          "sentAtMs": null,
+          "sentAtSlot": null,
+          "landed": false
+        }
+      ],
+      "landedCount": 0,
+      "sentCount": 8
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "_comment": "Manual client/fork labels by validator identity pubkey. Used when the gossip version string and validators.app are not enough to tell forks apart. Each value is a free-form client label, e.g. 'Firedancer', 'Jito-Solana', 'Agave'.",
+  "identities": {}
+}
